@@ -1,0 +1,59 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+153,January - M012001,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",6.2,20.8,NA,343
+153,February - M022001,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",8.5,34.8,NA,382
+153,March - M032001,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",9.8,46.2,NA,576
+153,April - M042001,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",12.2,47.5,NA,308
+153,May - M052001,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",13.2,21.7,NA,384
+153,June - M062001,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",16.6,30.9,NA,282
+153,July - M072001,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",13.9,32,NA,268
+153,August - M082001,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",9.7,30.9,NA,243
+153,September - M092001,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",8.3,16.8,NA,164
+153,October - M102001,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",7.6,31.4,NA,306
+153,November - M112001,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",7.9,38,NA,464
+153,December - M122001,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",8.2,36.6,NA,309
+154,January - M012001,Gujarat,Ahmedabad,NA,Industrial Area,8.8,65,NA,397
+154,February - M022001,Gujarat,Ahmedabad,NA,Industrial Area,10.2,63,NA,347
+154,March - M032001,Gujarat,Ahmedabad,NA,Industrial Area,10.1,56.3,NA,543
+154,April - M042001,Gujarat,Ahmedabad,NA,Industrial Area,10,56.6,NA,267
+154,May - M052001,Gujarat,Ahmedabad,NA,Industrial Area,14.4,39.9,NA,592
+154,June - M062001,Gujarat,Ahmedabad,NA,Industrial Area,14.3,27.8,NA,453
+154,July - M072001,Gujarat,Ahmedabad,NA,Industrial Area,17.1,41.4,NA,364
+154,August - M082001,Gujarat,Ahmedabad,NA,Industrial Area,13.6,49.3,NA,344
+154,September - M092001,Gujarat,Ahmedabad,NA,Industrial Area,8.9,18.7,NA,155
+154,October - M102001,Gujarat,Ahmedabad,NA,Industrial Area,9.4,42.9,NA,276
+154,November - M112001,Gujarat,Ahmedabad,NA,Industrial Area,8.8,53.4,NA,465
+154,December - M122001,Gujarat,Ahmedabad,NA,Industrial Area,8.3,45.5,NA,370
+155,January - M012001,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",8.5,56.1,NA,487
+155,February - M022001,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",6.8,47.4,NA,232
+155,March - M032001,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",8.3,47.1,NA,533
+155,April - M042001,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",9.7,49.4,NA,386
+155,May - M052001,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",9.8,23.5,NA,428
+155,June - M062001,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",13.5,23.5,NA,351
+155,July - M072001,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",13.6,34.3,NA,308
+155,August - M082001,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",10.4,44.6,NA,263
+155,September - M092001,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",8.6,20,NA,241
+155,October - M102001,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",9.6,50.6,NA,349
+155,November - M112001,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",7.5,35.1,NA,410
+155,December - M122001,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",8.3,38.4,NA,317
+247,January - M012001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,15,18.6,NA,NA
+247,February - M022001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,11.4,15.8,NA,NA
+247,March - M032001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,13.5,19.6,NA,NA
+247,April - M042001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,15.3,18.9,NA,NA
+247,May - M052001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,17,20.4,NA,NA
+247,July - M072001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,16,18.9,NA,NA
+247,August - M082001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,15.8,19.1,NA,NA
+247,September - M092001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,16.7,19.2,NA,NA
+247,October - M102001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,16.3,18.4,NA,NA
+247,November - M112001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,17.4,18.9,NA,NA
+247,December - M122001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,17.2,19,NA,NA
+248,January - M012001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,NA,19.6,NA,NA
+248,February - M022001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,NA,20.5,NA,NA
+248,March - M032001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,NA,21.9,NA,NA
+248,April - M042001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,NA,19,NA,NA
+248,May - M052001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,NA,17.9,NA,NA
+248,July - M072001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,NA,15.8,NA,NA
+248,August - M082001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,NA,14.3,NA,NA
+248,September - M092001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,NA,14.3,NA,NA
+248,October - M102001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,NA,13.8,NA,NA
+248,November - M112001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,NA,13.2,NA,NA
+248,December - M122001,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,NA,16.3,NA,NA

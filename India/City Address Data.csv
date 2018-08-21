@@ -1,0 +1,281 @@
+"State","City/Town/Village/Area","Count","Address","lon","lat","text"
+"Andhra Pradesh","Ananthapur",324,"Ananthapur, Andhra Pradesh",77.6005911,14.6818877,"anantapur, andhra pradesh, india"
+"Andhra Pradesh","Chittoor",888,"Chittoor, Andhra Pradesh",79.1003289,13.217176,"chittoor, andhra pradesh, india"
+"Andhra Pradesh","Eluru",300,"Eluru, Andhra Pradesh",81.0952431,16.7106604,"eluru, andhra pradesh, india"
+"Andhra Pradesh","Guntur",629,"Guntur, Andhra Pradesh",80.4365402,16.3066525,NA
+"Andhra Pradesh","Kadapa",316,"Kadapa, Andhra Pradesh",78.8241339,14.4673541,NA
+"Andhra Pradesh","Kakinada",288,"Kakinada, Andhra Pradesh",82.2474648,16.9890648,NA
+"Andhra Pradesh","Kurnool",857,"Kurnool, Andhra Pradesh",78.0372792,15.8281257,NA
+"Andhra Pradesh","Nellore",408,"Nellore, Andhra Pradesh",79.986456,14.4425987,NA
+"Andhra Pradesh","Nizamabad",27,"Nizamabad, Andhra Pradesh",78.0940867,18.6725047,NA
+"Andhra Pradesh","Ongole",317,"Ongole, Andhra Pradesh",80.049922,15.5057232,NA
+"Andhra Pradesh","Rajahmundry",311,"Rajahmundry, Andhra Pradesh",81.8040345,17.0005383,NA
+"Andhra Pradesh","Srikakulam",315,"Srikakulam, Andhra Pradesh",83.8967813,18.2969747,NA
+"Andhra Pradesh","Tirupati",922,"Tirupati, Andhra Pradesh",79.4191795,13.6287557,NA
+"Andhra Pradesh","Vijayawada",1799,"Vijayawada, Andhra Pradesh",80.6480153,16.5061743,NA
+"Andhra Pradesh","Visakhapatnam",3455,"Visakhapatnam, Andhra Pradesh",83.2184815,17.6868159,NA
+"Andhra Pradesh","Vizianagaram",282,"Vizianagaram, Andhra Pradesh",83.3955506,18.1066576,NA
+"Arunachal Pradesh","Itanagar",45,"Itanagar, Arunachal Pradesh",93.6053163,27.0843682,NA
+"Arunachal Pradesh","Naharlagun",45,"Naharlagun, Arunachal Pradesh",93.6948869,27.0985774,NA
+"Assam","Bongaigaon",1649,"Bongaigaon, Assam",90.5352356,26.5009992,NA
+"Assam","Daranga",399,"Daranga, Assam",91.514481,26.785101,NA
+"Assam","Dibrugarh",790,"Dibrugarh, Assam",94.9119621,27.4728327,NA
+"Assam","Golaghat",707,"Golaghat, Assam",93.962337,26.5238515,NA
+"Assam","Guwahati",2894,"Guwahati, Assam",91.7362365,26.1445169,NA
+"Assam","Hailakandi",231,"Hailakandi, Assam",92.5792482,24.4548506,NA
+"Assam","Lakhimpur",503,"Lakhimpur, Assam",94.1513764,27.2063587,NA
+"Assam","Margherita",426,"Margherita, Assam",95.6694606,27.2910662,NA
+"Assam","Nagaon",451,"Nagaon, Assam",92.6840426,26.3463713,NA
+"Assam","Nalbari",489,"Nalbari, Assam",91.4410527,26.4446185,NA
+"Assam","Sibsagar",240,"Sibsagar, Assam",94.6424521,26.9826098,NA
+"Assam","Silchar",905,"Silchar, Assam",92.7789054,24.8332708,NA
+"Assam","Sivasagar",708,"Sivasagar, Assam",94.6424521,26.9826098,NA
+"Assam","Tezpur",839,"Tezpur, Assam",92.7925592,26.6528495,NA
+"Assam","Tinsukia",643,"Tinsukia, Assam",95.346775,27.4921909,NA
+"Bihar","Patna",1548,"Patna, Bihar",85.1375645,25.5940947,NA
+"Chandigarh","Chandigarh",5425,"Chandigarh, Chandigarh",76.7794179,30.7333148,NA
+"Chhattisgarh","Bhilai",3006,"Bhilai, Chhattisgarh",81.3509416,21.1938475,NA
+"Chhattisgarh","Bilaspur",240,"Bilaspur, Chhattisgarh",82.1391412,22.0796251,NA
+"Chhattisgarh","Korba",3276,"Korba, Chhattisgarh",82.7500595,22.3594501,NA
+"Chhattisgarh","Raipur",1607,"Raipur, Chhattisgarh",81.6296413,21.2513844,NA
+"Dadra and Nagar Haveli","Daman",30,"Daman, Dadra and Nagar Haveli",72.987946,20.272209,NA
+"Dadra and Nagar Haveli","Khadoli",309,"Khadoli, Dadra and Nagar Haveli",73.029579,20.165586,NA
+"Dadra and Nagar Haveli","Silvassa",294,"Silvassa, Dadra and Nagar Haveli",73.0083061,20.2762659,NA
+"Daman and Diu","Daman",410,"Daman, Daman and Diu",72.8327991,20.3973736,NA
+"Daman and Diu","Daman Diu & Nagar",121,"Daman Diu & Nagar, Daman and Diu",72.8397317,20.428283,NA
+"Delhi","Delhi",5100,"Delhi, Delhi",77.1024902,28.7040592,NA
+"Goa","Amona",299,"Amona, Goa",73.977126,15.5329311,NA
+"Goa","Assanora",298,"Assanora, Goa",73.8977693,15.6208378,NA
+"Goa","Bicholim",301,"Bicholim, Goa",73.9653715,15.5889192,NA
+"Goa","Codli",301,"Codli, Goa",74.1357407,15.3569925,NA
+"Goa","Cuncolim",103,"Cuncolim, Goa",73.9828327,15.1741647,NA
+"Goa","Curchorem",307,"Curchorem, Goa",74.1122506,15.2416857,NA
+"Goa","Honda",300,"Honda, Goa",73.8237741,15.4000956,NA
+"Goa","Kundaim",206,"Kundaim, Goa",73.9599571,15.4616404,NA
+"Goa","Mapusa",205,"Mapusa, Goa",73.8124984,15.6002273,NA
+"Goa","Margao",207,"Margao, Goa",73.986191,15.2832187,NA
+"Goa","Mormugao",263,"Mormugao, Goa",73.8154394,15.3874352,NA
+"Goa","Panaji",1088,"Panaji, Goa",73.8278496,15.4909301,NA
+"Goa","Ponda",219,"Ponda, Goa",74.0123851,15.3991304,NA
+"Goa","Sanguem",204,"Sanguem, Goa",74.1504204,15.2302413,NA
+"Goa","Tilamol",204,"Tilamol, Goa",74.0870078,15.2208087,NA
+"Goa","Usgao",305,"Usgao, Goa",74.0711359,15.4489009,NA
+"Goa","Vasco",997,"Vasco, Goa",73.8440398,15.3860329,NA
+"Gujarat","Ahmedabad",4242,"Ahmedabad, Gujarat",72.5713621,23.022505,NA
+"Gujarat","Ankleshwar",2338,"Ankleshwar, Gujarat",73.0151984,21.6264236,NA
+"Gujarat","Baroda",458,"Baroda, Gujarat",73.1812187,22.3071588,NA
+"Gujarat","Bharuch",238,"Bharuch, Gujarat",72.9958748,21.7051358,NA
+"Gujarat","Bhuj",24,"Bhuj, Gujarat",69.6669324,23.2419997,NA
+"Gujarat","Jamnagar",1005,"Jamnagar, Gujarat",70.05773,22.4707019,NA
+"Gujarat","MORBI",39,"MORBI, Gujarat",70.8236195,22.8119895,NA
+"Gujarat","Rajkot",1810,"Rajkot, Gujarat",70.8021599,22.3038945,NA
+"Gujarat","SANAND",23,"SANAND, Gujarat",72.3755085,22.9912897,NA
+"Gujarat","Sarigam",24,"Sarigam, Gujarat",72.8574558,20.2860115,NA
+"Gujarat","Surat",2901,"Surat, Gujarat",72.8310607,21.1702401,NA
+"Gujarat","Vadodara",2389,"Vadodara, Gujarat",73.1812187,22.3071588,NA
+"Gujarat","Vapi",2112,"Vapi, Gujarat",72.9106202,20.3893155,NA
+"Haryana","Dharuhera",1,"Dharuhera, Haryana",76.7953647,28.205267,NA
+"Haryana","Faridabad",1855,"Faridabad, Haryana",77.3177894,28.4089123,NA
+"Haryana","Hisar",883,"Hisar, Haryana",75.7216527,29.1491875,NA
+"Haryana","Yamuna Nagar",328,"Yamuna Nagar, Haryana",77.2673901,30.1290485,NA
+"Haryana","Yamunanagar",220,"Yamunanagar, Haryana",77.2673901,30.1290485,NA
+"Himachal Pradesh","Baddi",2963,"Baddi, Himachal Pradesh",76.7913558,30.9578258,NA
+"Himachal Pradesh","Damtal",2847,"Damtal, Himachal Pradesh",75.660084,32.2257526,NA
+"Himachal Pradesh","Dharamshala",247,"Dharamshala, Himachal Pradesh",76.3234037,32.219042,NA
+"Himachal Pradesh","Kala Amb",1547,"Kala Amb, Himachal Pradesh",77.2070259,30.4992306,NA
+"Himachal Pradesh","Manali",777,"Manali, Himachal Pradesh",77.1887145,32.2396325,NA
+"Himachal Pradesh","Nahan",1164,"Nahan, Himachal Pradesh",77.295483,30.5599327,NA
+"Himachal Pradesh","Nalagarh",850,"Nalagarh, Himachal Pradesh",76.7047904,31.0445587,NA
+"Himachal Pradesh","Paonta Sahib",3166,"Paonta Sahib, Himachal Pradesh",77.6020569,30.445283,NA
+"Himachal Pradesh","Parwanoo",3523,"Parwanoo, Himachal Pradesh",76.9614255,30.8371639,NA
+"Himachal Pradesh","Shimla",3301,"Shimla, Himachal Pradesh",77.1734033,31.1048145,NA
+"Himachal Pradesh","Sunder Nagar",1114,"Sunder Nagar, Himachal Pradesh",76.8922729,31.5332397,NA
+"Himachal Pradesh","Una",1151,"Una, Himachal Pradesh",76.2707745,31.468445,NA
+"Jammu & Kashmir","Jammu",1271,"Jammu, Jammu & Kashmir",74.8570259,32.7266016,NA
+"Jharkhand","Dhanbad",1472,"Dhanbad, Jharkhand",86.4303859,23.7956531,NA
+"Jharkhand","Jamshedpur",1930,"Jamshedpur, Jharkhand",86.2028754,22.8045665,NA
+"Jharkhand","Jharia",998,"Jharia, Jharkhand",86.4111374,23.742628,NA
+"Jharkhand","Ranchi",755,"Ranchi, Jharkhand",85.309562,23.3440997,NA
+"Jharkhand","Saraikela Kharsawan",117,"Saraikela Kharsawan, Jharkhand",86.0121573,22.8561261,NA
+"Jharkhand","Sindri",918,"Sindri, Jharkhand",86.7058637,23.7483096,NA
+"Jharkhand","West Singhbhum",151,"West Singhbhum, Jharkhand",85.4375574,22.3650858,NA
+"Karnataka","Bangalore",4856,"Bangalore, Karnataka",77.5945627,12.9715987,NA
+"Karnataka","Belgaum",710,"Belgaum, Karnataka",74.4976741,15.8496953,NA
+"Karnataka","Bidar",88,"Bidar, Karnataka",77.5046101,17.9148799,NA
+"Karnataka","Bijapur",68,"Bijapur, Karnataka",75.710031,16.8301708,NA
+"Karnataka","Chitradurga",296,"Chitradurga, Karnataka",76.3984537,14.2305594,NA
+"Karnataka","Davangere",701,"Davangere, Karnataka",75.921758,14.4644085,NA
+"Karnataka","Dharwad",1281,"Dharwad, Karnataka",75.007808,15.4589236,NA
+"Karnataka","Domlur",126,"Domlur, Karnataka",77.6387316,12.9609857,NA
+"Karnataka","Gulbarga",760,"Gulbarga, Karnataka",76.8342957,17.329731,NA
+"Karnataka","Hassan",1024,"Hassan, Karnataka",76.0995519,13.0068142,NA
+"Karnataka","Hubli",411,"Hubli, Karnataka",75.1239547,15.3647083,NA
+"Karnataka","Kolar",199,"Kolar, Karnataka",78.1290986,13.1362143,NA
+"Karnataka","Mandya",304,"Mandya, Karnataka",76.7336521,12.5643952,NA
+"Karnataka","Mangalore",906,"Mangalore, Karnataka",74.8559568,12.9141417,NA
+"Karnataka","Mysore",2440,"Mysore, Karnataka",76.6393805,12.2958104,NA
+"Karnataka","Raichur",131,"Raichur, Karnataka",77.3439283,16.2120031,NA
+"Karnataka","Ranebennur",302,"Ranebennur, Karnataka",75.6382657,14.6113428,NA
+"Karnataka","Shimoga",309,"Shimoga, Karnataka",75.568101,13.9299299,NA
+"Karnataka","Tumkur",196,"Tumkur, Karnataka",77.1139984,13.3391677,NA
+"Kerala","Alappuzha",1392,"Alappuzha, Kerala",76.3388484,9.4980667,NA
+"Kerala","Kochi",3348,"Kochi, Kerala",76.2673041,9.9312328,NA
+"Kerala","Kollam",1419,"Kollam, Kerala",76.6141396,8.8932118,NA
+"Kerala","Kottayam",2537,"Kottayam, Kerala",76.5221531,9.5915668,NA
+"Kerala","Kozhikode",2493,"Kozhikode, Kerala",75.78041,11.2587531,NA
+"Kerala","Malappuram",672,"Malappuram, Kerala",76.0710967,11.0509762,NA
+"Kerala","Palakkad",1160,"Palakkad, Kerala",76.6547932,10.7867303,NA
+"Kerala","Pathanamthitta",597,"Pathanamthitta, Kerala",76.7870414,9.2647582,NA
+"Kerala","Thiruvananthapuram",4096,"Thiruvananthapuram, Kerala",76.9366376,8.5241391,NA
+"Kerala","Thissur",461,"Thissur, Kerala",76.2144349,10.5276416,NA
+"Kerala","Wayanad",512,"Wayanad, Kerala",76.1319953,11.6853575,NA
+"Madhya Pradesh","Amlai",119,"Amlai, Madhya Pradesh",81.5870604,23.1987518,NA
+"Madhya Pradesh","Bhopal",3124,"Bhopal, Madhya Pradesh",77.412615,23.2599333,NA
+"Madhya Pradesh","Chhindwara",125,"Chhindwara, Madhya Pradesh",78.9381729,22.057437,NA
+"Madhya Pradesh","Dewas",1775,"Dewas, Madhya Pradesh",76.0507949,22.9622672,NA
+"Madhya Pradesh","Gwalior",1284,"Gwalior, Madhya Pradesh",78.1828308,26.2182871,NA
+"Madhya Pradesh","Indore",3320,"Indore, Madhya Pradesh",75.8577258,22.7195687,NA
+"Madhya Pradesh","Jabalpur",983,"Jabalpur, Madhya Pradesh",79.9864071,23.181467,NA
+"Madhya Pradesh","Khajuraho",8,"Khajuraho, Madhya Pradesh",79.9198549,24.8318452,NA
+"Madhya Pradesh","Nagda",2982,"Nagda, Madhya Pradesh",75.4169918,23.4454599,NA
+"Madhya Pradesh","Pithampur",139,"Pithampur, Madhya Pradesh",75.6772689,22.611121,NA
+"Madhya Pradesh","Sagar",732,"Sagar, Madhya Pradesh",78.7378068,23.838805,NA
+"Madhya Pradesh","Satna",1413,"Satna, Madhya Pradesh",80.8322428,24.6005075,NA
+"Madhya Pradesh","Singrauli",410,"Singrauli, Madhya Pradesh",82.6645469,24.1992101,NA
+"Madhya Pradesh","Ujjain",2221,"Ujjain, Madhya Pradesh",75.7849097,23.1793013,NA
+"Maharashtra","Akola",969,"Akola, Maharashtra",77.0081678,20.7002159,NA
+"Maharashtra","Amravati",2409,"Amravati, Maharashtra",77.7795513,20.9374238,NA
+"Maharashtra","Aurangabad",2991,"Aurangabad, Maharashtra",75.3433139,19.8761653,NA
+"Maharashtra","Badlapur",585,"Badlapur, Maharashtra",73.2367896,19.1667854,NA
+"Maharashtra","Chandrapur",3876,"Chandrapur, Maharashtra",79.3014845,19.9704597,NA
+"Maharashtra","Dombivli",702,"Dombivli, Maharashtra",73.0939483,19.2094006,NA
+"Maharashtra","Greater Mumbai",671,"Greater Mumbai, Maharashtra",72.829712,19.050442,NA
+"Maharashtra","Jalgaon",1752,"Jalgaon, Maharashtra",75.5626039,21.0076578,NA
+"Maharashtra","Jalna",905,"Jalna, Maharashtra",75.8800305,19.8296893,NA
+"Maharashtra","Kolhapur",3172,"Kolhapur, Maharashtra",74.2432527,16.7049873,NA
+"Maharashtra","Latur",1720,"Latur, Maharashtra",76.5603828,18.4087934,NA
+"Maharashtra","Lote",956,"Lote, Maharashtra",73.5093474,17.5888833,NA
+"Maharashtra","Mahad",376,"Mahad, Maharashtra",73.422441,18.0820208,NA
+"Maharashtra","Mumbai",2347,"Mumbai, Maharashtra",72.8776559,19.0759837,NA
+"Maharashtra","Nagpur",5318,"Nagpur, Maharashtra",79.0881546,21.1458004,NA
+"Maharashtra","Nanded",1431,"Nanded, Maharashtra",77.3209555,19.1382514,NA
+"Maharashtra","Nashik",4226,"Nashik, Maharashtra",73.7898023,19.9974533,NA
+"Maharashtra","Navi Mumbai",4595,"Navi Mumbai, Maharashtra",73.0296625,19.0330488,NA
+"Maharashtra","Pune",4250,"Pune, Maharashtra",73.8567437,18.5204303,NA
+"Maharashtra","Roha",250,"Roha, Maharashtra",73.1167514,18.4389511,NA
+"Maharashtra","Sangli",1637,"Sangli, Maharashtra",74.5814773,16.8523973,NA
+"Maharashtra","Solapur",2628,"Solapur, Maharashtra",75.9063906,17.6599188,NA
+"Maharashtra","Tarapur",589,"Tarapur, Maharashtra",72.6849984,19.8649145,NA
+"Maharashtra","Thane",3547,"Thane, Maharashtra",72.9780897,19.2183307,NA
+"Maharashtra","Ulhasnagar",775,"Ulhasnagar, Maharashtra",73.1644628,19.2215115,NA
+"Manipur","Imphal",76,"Imphal, Manipur",93.9368439,24.8170111,NA
+"Meghalaya","Byrnihat",510,"Byrnihat, Meghalaya",91.8696411,26.0515133,NA
+"Meghalaya","Dawki",510,"Dawki, Meghalaya",92.0248701,25.1840249,NA
+"Meghalaya","Khliehriat",221,"Khliehriat, Meghalaya",92.3640875,25.3567243,NA
+"Meghalaya","Nongstoin",236,"Nongstoin, Meghalaya",91.2554112,25.5213094,NA
+"Meghalaya","Shillong",1164,"Shillong, Meghalaya",91.8932535,25.5787726,NA
+"Meghalaya","Tura",432,"Tura, Meghalaya",90.2032141,25.5140712,NA
+"Meghalaya","Umsning",68,"Umsning, Meghalaya",91.8891675,25.7468085,NA
+"Mizoram","Aizawl",995,"Aizawl, Mizoram",92.7176389,23.727107,NA
+"Mizoram","Champhai",336,"Champhai, Mizoram",93.3281929,23.4565708,NA
+"Mizoram","Kolasib",319,"Kolasib, Mizoram",92.6760251,24.224565,NA
+"Mizoram","Lunglei",316,"Lunglei, Mizoram",92.7655358,22.8670691,NA
+"Nagaland","Dimapur",910,"Dimapur, Nagaland",93.7536663,25.8629885,NA
+"Nagaland","Kohima",376,"Kohima, Nagaland",94.1053307,25.6585963,NA
+"Orissa","Angul",2355,"Angul, Orissa",85.1510818,20.8444033,NA
+"Orissa","Balasore",1195,"Balasore, Orissa",86.9246005,21.4869337,NA
+"Orissa","Berhampur",808,"Berhampur, Orissa",84.5837506,19.9338332,NA
+"Orissa","Bhubaneswar",2975,"Bhubaneswar, Orissa",85.8245398,20.2960587,NA
+"Orissa","Cuttack",1497,"Cuttack, Orissa",85.8829895,20.462521,NA
+"Orissa","Kalinga Nagar",418,"Kalinga Nagar, Orissa",85.7589743,20.2708331,NA
+"Orissa","Keonjhar",76,"Keonjhar, Orissa",85.5816847,21.628933,NA
+"Orissa","Konark",78,"Konark, Orissa",86.091184,19.8920686,NA
+"Orissa","Nalco",108,"Nalco, Orissa",85.1842227,20.8652557,NA
+"Orissa","Paradeep",266,"Paradeep, Orissa",86.6113628,20.3165523,NA
+"Orissa","Puri",42,"Puri, Orissa",85.8314655,19.8133822,NA
+"Orissa","Rayagada",2230,"Rayagada, Orissa",83.4163226,19.171209,NA
+"Orissa","Rourkela",1325,"Rourkela, Orissa",84.8535844,22.260423,NA
+"Orissa","Sambalpur",941,"Sambalpur, Orissa",83.9811665,21.4668716,NA
+"Orissa","Talcher",1416,"Talcher, Orissa",85.216816,20.9501027,NA
+"Pondicherry","Karaikal",431,"Karaikal, Pondicherry",79.8380056,10.9254398,NA
+"Pondicherry","Pondicherry",3211,"Pondicherry, Pondicherry",79.8083133,11.9415915,NA
+"Punjab","Amritsar",1329,"Amritsar, Punjab",74.8722642,31.6339793,NA
+"Punjab","Bathinda",930,"Bathinda, Punjab",74.9454745,30.210994,NA
+"Punjab","Dera Baba",607,"Dera Baba, Punjab",75.0304481,32.0321859,NA
+"Punjab","Dera Bassi",2443,"Dera Bassi, Punjab",76.8432663,30.596404,NA
+"Punjab","Faridkot",97,"Faridkot, Punjab",74.8273184,30.593204,NA
+"Punjab","Gobindgarh",3620,"Gobindgarh, Punjab",76.3000419,30.6637378,NA
+"Punjab","Hoshiarpur",88,"Hoshiarpur, Punjab",75.911483,31.5143178,NA
+"Punjab","Jalandhar",2599,"Jalandhar, Punjab",75.5761829,31.3260152,NA
+"Punjab","Khanna",2135,"Khanna, Punjab",76.2169907,30.7070769,NA
+"Punjab","Ludhiana",5786,"Ludhiana, Punjab",75.8572758,30.900965,NA
+"Punjab","Naya Nangal",2468,"Naya Nangal, Punjab",76.3550457,31.3866405,NA
+"Punjab","Patiala",1435,"Patiala, Punjab",76.3868797,30.3397809,NA
+"Punjab","Sangrur",129,"Sangrur, Punjab",75.8420716,30.2457963,NA
+"Rajasthan","Alwar",3414,"Alwar, Rajasthan",76.6345735,27.5529907,NA
+"Rajasthan","Chittorgarh",33,"Chittorgarh, Rajasthan",74.6269216,24.8887435,NA
+"Rajasthan","Jaipur",4716,"Jaipur, Rajasthan",75.7872709,26.9124336,NA
+"Rajasthan","Jodhpur",5046,"Jodhpur, Rajasthan",73.0243094,26.2389469,NA
+"Rajasthan","Kota",4076,"Kota, Rajasthan",75.8647527,25.2138156,NA
+"Rajasthan","Udaipur",3645,"Udaipur, Rajasthan",73.712479,24.585445,NA
+"Sikkim","Gangtok",1,"Gangtok, Sikkim",88.6065035,27.3389356,NA
+"Tamil Nadu","Chennai",4348,"Chennai, Tamil Nadu",80.2707184,13.0826802,NA
+"Tamil Nadu","Coimbatore",3113,"Coimbatore, Tamil Nadu",76.9558321,11.0168445,NA
+"Tamil Nadu","Cuddalore",651,"Cuddalore, Tamil Nadu",79.7713687,11.7480419,NA
+"Tamil Nadu","Madurai",2986,"Madurai, Tamil Nadu",78.1197754,9.9252007,NA
+"Tamil Nadu","Mettur",486,"Mettur, Tamil Nadu",77.8007853,11.7862533,NA
+"Tamil Nadu","Salem",1378,"Salem, Tamil Nadu",78.1460142,11.664325,NA
+"Tamil Nadu","Thoothukudi",2720,"Thoothukudi, Tamil Nadu",78.1348361,8.7641661,NA
+"Tamil Nadu","Trichy",764,"Trichy, Tamil Nadu",78.7046725,10.7904833,NA
+"Tamil Nadu","Tuticorin",134,"Tuticorin, Tamil Nadu",78.1348361,8.7641661,NA
+"Telangana","Hyderabad",5318,"Hyderabad, Telangana",78.486671,17.385044,NA
+"Telangana","Karimnagar",167,"Karimnagar, Telangana",79.1288412,18.4385553,NA
+"Telangana","Khammam",515,"Khammam, Telangana",80.1514447,17.2472528,NA
+"Telangana","Kothur",96,"Kothur, Telangana",78.2889005,17.1473513,NA
+"Telangana","Nalgonda",834,"Nalgonda, Telangana",79.2620294,17.0575707,NA
+"Telangana","Patancheru",913,"Patancheru, Telangana",78.266725,17.5287427,NA
+"Telangana","Ramagundam",724,"Ramagundam, Telangana",79.5133701,18.7518652,NA
+"Telangana","Sangareddy",649,"Sangareddy, Telangana",78.0823084,17.6194158,NA
+"Telangana","Warangal",464,"Warangal, Telangana",79.5940544,17.9689008,NA
+"Uttar Pradesh","Agra",5083,"Agra, Uttar Pradesh",78.0080745,27.1766701,NA
+"Uttar Pradesh","Allahabad",892,"Allahabad, Uttar Pradesh",81.846311,25.4358011,NA
+"Uttar Pradesh","Anpara",1807,"Anpara, Uttar Pradesh",82.7832489,24.2048772,NA
+"Uttar Pradesh","Bareilly",399,"Bareilly, Uttar Pradesh",79.4304381,28.3670355,NA
+"Uttar Pradesh","Firozabad",2612,"Firozabad, Uttar Pradesh",78.3957331,27.1591961,NA
+"Uttar Pradesh","Gajraula",1723,"Gajraula, Uttar Pradesh",78.2393489,28.8448496,NA
+"Uttar Pradesh","Ghaziabad",2006,"Ghaziabad, Uttar Pradesh",77.4537578,28.6691565,NA
+"Uttar Pradesh","Gorakhpur",469,"Gorakhpur, Uttar Pradesh",75.6702647,29.4438165,NA
+"Uttar Pradesh","Jhansi",918,"Jhansi, Uttar Pradesh",78.5684594,25.4484257,NA
+"Uttar Pradesh","Kanpur",5406,"Kanpur, Uttar Pradesh",80.3318736,26.449923,NA
+"Uttar Pradesh","Khurja",1302,"Khurja, Uttar Pradesh",77.8538797,28.2513538,NA
+"Uttar Pradesh","Lucknow",4397,"Lucknow, Uttar Pradesh",80.946166,26.8466937,NA
+"Uttar Pradesh","Mathura",78,"Mathura, Uttar Pradesh",77.673673,27.4924134,NA
+"Uttar Pradesh","Meerut",649,"Meerut, Uttar Pradesh",77.7064137,28.9844618,NA
+"Uttar Pradesh","Moradabad",945,"Moradabad, Uttar Pradesh",78.7733286,28.8386481,NA
+"Uttar Pradesh","Noida",1516,"Noida, Uttar Pradesh",77.3910265,28.5355161,NA
+"Uttar Pradesh","Rai Bareilly",652,"Rai Bareilly, Uttar Pradesh",81.2408689,26.2345298,NA
+"Uttar Pradesh","Renusagar",666,"Renusagar, Uttar Pradesh",82.7872919,24.1829021,NA
+"Uttar Pradesh","Saharanpur",24,"Saharanpur, Uttar Pradesh",77.5510172,29.967079,NA
+"Uttar Pradesh","Unnao",388,"Unnao, Uttar Pradesh",80.4878195,26.5393449,NA
+"Uttar Pradesh","Varanasi",1610,"Varanasi, Uttar Pradesh",82.9739144,25.3176452,NA
+"Uttarakhand","Dehradun",1282,"Dehradun, Uttarakhand",78.0321918,30.3164945,NA
+"Uttarakhand","Haldwani",254,"Haldwani, Uttarakhand",79.5129767,29.2182644,NA
+"Uttarakhand","Haridwar",293,"Haridwar, Uttarakhand",78.1642478,29.9456906,NA
+"Uttarakhand","Kashipur",232,"Kashipur, Uttarakhand",78.9618845,29.2104232,NA
+"Uttarakhand","Rishikesh",215,"Rishikesh, Uttarakhand",78.2676116,30.0869281,NA
+"Uttarakhand","Rudrapur",191,"Rudrapur, Uttarakhand",79.4141214,28.9875082,NA
+"West Bengal","Asansol",1394,"Asansol, West Bengal",86.9523954,23.6739452,NA
+"West Bengal","Barrackpore",643,"Barrackpore, West Bengal",88.3883455,22.7674278,NA
+"West Bengal","Baruipur",45,"Baruipur, West Bengal",88.4317758,22.3596751,NA
+"West Bengal","DANKUNI",103,"DANKUNI, West Bengal",88.2929313,22.6808348,NA
+"West Bengal","Durgapur",1513,"Durgapur, West Bengal",87.3119227,23.5204443,NA
+"West Bengal","Haldia",1282,"Haldia, West Bengal",88.0698118,22.0666742,NA
+"West Bengal","Howrah",1856,"Howrah, West Bengal",88.2636394,22.5957689,NA
+"West Bengal","Kalyani",104,"Kalyani, West Bengal",88.4345078,22.9750855,NA
+"West Bengal","Kolkata",5176,"Kolkata, West Bengal",88.363895,22.572646,NA
+"West Bengal","MALDAH",104,"MALDAH, West Bengal",88.2461183,25.1785773,NA
+"West Bengal","Raniganj",465,"Raniganj, West Bengal",87.0923906,23.6290575,NA
+"West Bengal","Sankrail",416,"Sankrail, West Bengal",88.2217733,22.5445343,NA
+"West Bengal","SILIGURI",104,"SILIGURI, West Bengal",88.3952861,26.7271012,NA
+"West Bengal","Tollygunge",1003,"Tollygunge, West Bengal",88.3453906,22.4986357,NA
+"West Bengal","ULUBERIA",104,"ULUBERIA, West Bengal",88.1000377,22.4744363,NA

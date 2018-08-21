@@ -1,0 +1,73 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+301,January - M012002,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,12.8,37.3,NA,408
+301,February - M022002,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,12.4,36.2,NA,326
+301,March - M032002,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,11.6,36,NA,277
+301,April - M042002,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,10.1,32.8,NA,366
+301,May - M052002,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,9.2,29.6,NA,292
+301,June - M062002,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,10.4,29.3,NA,339
+301,July - M072002,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,12.7,27.7,NA,299
+301,September - M092002,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,8.3,28,NA,231
+301,November - M112002,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,7.8,28.3,NA,337
+301,December - M122002,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,7.9,28.4,NA,371
+301,Annual - M132002,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,10.4,31.4,NA,324
+302,January - M012002,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",12.7,36.4,NA,342
+302,February - M022002,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",12.4,35.6,NA,373
+302,April - M042002,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",10.1,32.8,NA,363
+302,May - M052002,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",9.5,27.4,NA,331
+302,June - M062002,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",9.8,29.4,NA,310
+302,July - M072002,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",11.2,27.9,NA,273
+302,August - M082002,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",8.1,28.8,NA,281
+302,September - M092002,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",9.4,29.6,NA,215
+302,November - M112002,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",10,31.4,NA,241
+302,December - M122002,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",10.2,29.7,NA,305
+302,Annual - M132002,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",10.5,31.1,NA,307
+176,May - M052002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,17.1,22.9,NA,190
+176,June - M062002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,13.9,21,NA,214
+176,July - M072002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,11.8,23.9,NA,263
+176,August - M082002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,10,22,NA,180
+176,September - M092002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,7.4,19.3,NA,147
+176,October - M102002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,10.4,23.4,NA,238
+176,November - M112002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,9.8,22.8,NA,262
+176,December - M122002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,9.6,23.8,NA,254
+176,Annual - M132002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,11.5,22.4,NA,218
+177,May - M052002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,20,30.1,NA,277
+177,June - M062002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,17.9,27.9,NA,261
+177,July - M072002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,15.8,26.9,NA,287
+177,August - M082002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,11.3,23.4,NA,157
+177,September - M092002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,12.1,21.6,NA,198
+177,October - M102002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,10.4,22.6,NA,290
+177,November - M112002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,11.1,26.2,NA,343
+177,December - M122002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,10,25.9,NA,295
+177,Annual - M132002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,13.8,25.6,NA,273
+178,May - M052002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,19.1,25.2,NA,234
+178,June - M062002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,17.2,26.7,NA,244
+178,July - M072002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,13.6,26.6,NA,279
+178,August - M082002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,11.8,24.8,NA,188
+178,September - M092002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,10.5,20,NA,129
+178,October - M102002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,10.2,23.1,NA,275
+178,November - M112002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,12.6,25.7,NA,327
+178,December - M122002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,10.2,27,NA,206
+178,Annual - M132002,Punjab,Jalandhar,Punjab Pollution Control Board,NA,13,25,NA,240
+61,September - M092002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,8.3,24.6,NA,62
+61,October - M102002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,8.7,28.8,NA,119
+61,November - M112002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,11.2,32.4,NA,119
+61,December - M122002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,10.7,30.5,NA,164
+61,Annual - M132002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,9.6,29,NA,114
+62,September - M092002,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",11.6,34.3,NA,195
+62,October - M102002,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",13.5,41.9,NA,164
+62,November - M112002,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",14.4,39.7,NA,264
+62,December - M122002,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",11.5,29.6,NA,100
+62,Annual - M132002,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",12.4,35.6,NA,162
+76,January - M012002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,14.6,32.1,NA,133
+76,February - M022002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,13.8,31.8,NA,125
+76,March - M032002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,12.1,31.4,NA,128
+76,April - M042002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,12.1,31.4,NA,226
+76,May - M052002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,12.8,32,NA,199
+76,June - M062002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,12.6,28,NA,149
+76,July - M072002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,11.2,31.6,NA,179
+76,August - M082002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,10.6,33,NA,126
+76,September - M092002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,10.9,33.7,NA,123
+76,October - M102002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,12.1,35.5,NA,156
+76,November - M112002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,12.1,43.1,NA,233
+76,December - M122002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,12.6,36.1,NA,258
+76,Annual - M132002,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,12.3,33.4,NA,170

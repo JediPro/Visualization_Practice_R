@@ -1,0 +1,145 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+254,January - M011994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,22.6,19.4,NA,162
+255,January - M011994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,13.9,13.6,NA,140
+54,January - M011994,Maharashtra,Pune,Maharashtra Pollution Control Board,"Residential, Rural and other Areas",30.3,49.7,NA,178
+52,January - M011994,Maharashtra,Pune,Maharashtra Pollution Control Board,Industrial Area,23.2,40,NA,127
+230,January - M011994,Maharashtra,Pune,Maharashtra Pollution Control Board,NA,35,53.5,NA,162
+94,January - M011994,Maharashtra,Nagpur,Maharashtra Pollution Control Board,"Residential, Rural and other Areas",10.1,19.6,NA,101
+133,January - M011994,Maharashtra,Nagpur,NA,Industrial Area,10.3,24.3,NA,102
+136,January - M011994,Maharashtra,Nagpur,NA,Industrial Area,11.2,19.4,NA,112
+165,January - M011994,Maharashtra,Nagpur,NA,Industrial Area,6,13.6,NA,209
+166,January - M011994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,14.1,NA,316
+167,January - M011994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,14.5,NA,336
+170,January - M011994,Maharashtra,Bombay,NA,Industrial Area,77.7,71.7,NA,303
+254,February - M021994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,22.7,21.4,NA,159
+255,February - M021994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,17.4,16.7,NA,157
+94,February - M021994,Maharashtra,Nagpur,Maharashtra Pollution Control Board,"Residential, Rural and other Areas",9.8,18.9,NA,94
+133,February - M021994,Maharashtra,Nagpur,NA,Industrial Area,10.2,19.3,NA,100
+136,February - M021994,Maharashtra,Nagpur,NA,Industrial Area,9.4,19.8,NA,110
+165,February - M021994,Maharashtra,Nagpur,NA,Industrial Area,6,19.7,NA,175
+166,February - M021994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,11,NA,251
+167,February - M021994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,10.3,NA,221
+169,February - M021994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",38.7,39.7,NA,278
+170,February - M021994,Maharashtra,Bombay,NA,Industrial Area,33.9,53.8,NA,322
+255,March - M031994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,17.8,17.1,NA,145
+254,March - M031994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,22.6,20,NA,176
+94,March - M031994,Maharashtra,Nagpur,Maharashtra Pollution Control Board,"Residential, Rural and other Areas",10.1,20.1,NA,62
+133,March - M031994,Maharashtra,Nagpur,NA,Industrial Area,10.1,18.6,NA,76
+136,March - M031994,Maharashtra,Nagpur,NA,Industrial Area,9.7,20.6,NA,84
+165,March - M031994,Maharashtra,Nagpur,NA,Industrial Area,6,12.6,NA,221
+166,March - M031994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,14.5,NA,325
+167,March - M031994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,15.8,NA,248
+169,March - M031994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",35.7,45.2,NA,249
+170,March - M031994,Maharashtra,Bombay,NA,Industrial Area,55.7,69.6,NA,327
+255,April - M041994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,18,16.9,NA,147
+254,April - M041994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,24.5,24.3,NA,160
+267,April - M041994,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",13.9,34.6,NA,190
+214,April - M041994,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,13.3,39.1,NA,157
+269,April - M041994,Maharashtra,Nashik,MAPB,Industrial Area,15.7,20.1,NA,393
+270,April - M041994,Maharashtra,Nashik,MAPB,NA,6.9,21.7,NA,90
+165,April - M041994,Maharashtra,Nagpur,NA,Industrial Area,6,14.5,NA,226
+166,April - M041994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,16.6,NA,328
+167,April - M041994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,13.9,NA,107
+169,April - M041994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",11.7,21.4,NA,209
+170,April - M041994,Maharashtra,Bombay,NA,Industrial Area,46.9,44.8,NA,287
+255,May - M051994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,28.7,24.2,NA,218
+254,May - M051994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,30.3,25.7,NA,169
+267,May - M051994,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",13.9,27.9,NA,228
+269,May - M051994,Maharashtra,Nashik,MAPB,Industrial Area,16.4,29.8,NA,255
+270,May - M051994,Maharashtra,Nashik,MAPB,NA,12.3,24.1,NA,81
+165,May - M051994,Maharashtra,Nagpur,NA,Industrial Area,6,16.5,NA,276
+166,May - M051994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,16.2,NA,304
+167,May - M051994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,15.7,NA,215
+169,May - M051994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",8.1,19.7,NA,212
+170,May - M051994,Maharashtra,Bombay,NA,Industrial Area,16.1,32.1,NA,237
+168,May - M051994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",8.8,7.9,NA,150
+255,June - M061994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,14.1,13.3,NA,114
+254,June - M061994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,17.8,17,NA,110
+267,June - M061994,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",12.9,34.9,NA,267
+214,June - M061994,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,14.3,36.3,NA,384
+270,June - M061994,Maharashtra,Nashik,MAPB,NA,18,27.9,NA,105
+269,June - M061994,Maharashtra,Nashik,MAPB,Industrial Area,14.9,29,NA,191
+165,June - M061994,Maharashtra,Nagpur,NA,Industrial Area,6,15.4,NA,135
+166,June - M061994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,18.1,NA,256
+167,June - M061994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,14.5,NA,101
+169,June - M061994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6,13.1,NA,136
+170,June - M061994,Maharashtra,Bombay,NA,Industrial Area,24.1,81,NA,361
+168,June - M061994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",8.4,6.9,NA,164
+254,July - M071994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,18.4,17.1,NA,115
+255,July - M071994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,13.9,16.5,NA,112
+267,July - M071994,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",13.7,29.1,NA,140
+214,July - M071994,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,11.8,27.6,NA,116
+269,July - M071994,Maharashtra,Nashik,MAPB,Industrial Area,16.8,26.8,NA,172
+259,July - M071994,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",14.3,25.7,NA,90
+270,July - M071994,Maharashtra,Nashik,MAPB,NA,23.2,25.9,NA,98
+169,July - M071994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",7.6,22,NA,144
+170,July - M071994,Maharashtra,Bombay,NA,Industrial Area,32.9,48.9,NA,211
+168,July - M071994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6,7.3,NA,110
+165,July - M071994,Maharashtra,Nagpur,NA,Industrial Area,6,7.5,NA,90
+166,July - M071994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,13.3,NA,103
+167,July - M071994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,11.4,NA,73
+255,August - M081994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,16.7,15.3,NA,137
+254,August - M081994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,19.1,23.2,NA,149
+267,August - M081994,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",NA,NA,NA,125
+214,August - M081994,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,NA,NA,NA,108
+269,August - M081994,Maharashtra,Nashik,MAPB,Industrial Area,14.6,28.4,NA,108
+270,August - M081994,Maharashtra,Nashik,MAPB,NA,11.9,23.3,NA,107
+259,August - M081994,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",14,26.2,NA,103
+169,August - M081994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",9.6,56.8,NA,166
+170,August - M081994,Maharashtra,Bombay,NA,Industrial Area,30.3,36.5,NA,187
+165,August - M081994,Maharashtra,Nagpur,NA,Industrial Area,6,3.9,NA,30
+166,August - M081994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,5.4,NA,77
+167,August - M081994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,3.4,NA,58
+254,September - M091994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,20,18.7,NA,162
+255,September - M091994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,19.4,18.7,NA,157
+259,September - M091994,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",17.4,34.8,NA,107
+270,September - M091994,Maharashtra,Nashik,MAPB,NA,15.3,26.4,NA,120
+269,September - M091994,Maharashtra,Nashik,MAPB,Industrial Area,15.7,30.4,NA,129
+267,September - M091994,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",14.4,23.3,NA,244
+214,September - M091994,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,11.2,25,NA,250
+169,September - M091994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6.2,39.6,NA,199
+170,September - M091994,Maharashtra,Bombay,NA,Industrial Area,22.2,56.9,NA,243
+165,September - M091994,Maharashtra,Nagpur,NA,Industrial Area,8.4,6.1,NA,50
+166,September - M091994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,8.1,NA,136
+167,September - M091994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,5.7,NA,56
+254,September - M091994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,20,18.7,NA,162
+255,September - M091994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,19.4,18.7,NA,157
+259,September - M091994,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",17.4,34.8,NA,107
+270,September - M091994,Maharashtra,Nashik,MAPB,NA,15.3,26.4,NA,120
+269,September - M091994,Maharashtra,Nashik,MAPB,Industrial Area,15.7,30.4,NA,129
+267,September - M091994,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",14.4,23.3,NA,244
+214,September - M091994,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,11.2,25,NA,250
+169,September - M091994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6.2,39.6,NA,199
+170,September - M091994,Maharashtra,Bombay,NA,Industrial Area,22.2,56.9,NA,243
+165,September - M091994,Maharashtra,Nagpur,NA,Industrial Area,8.4,6.1,NA,50
+166,September - M091994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,8.1,NA,136
+167,September - M091994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,5.7,NA,56
+254,November - M111994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,20.3,19.9,NA,159
+255,November - M111994,Maharashtra,Aurangabad,Maharashtra State Pollution Control Board,NA,15.2,14.5,NA,126
+267,November - M111994,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",NA,NA,NA,141
+214,November - M111994,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,NA,NA,NA,125
+270,November - M111994,Maharashtra,Nashik,MAPB,NA,15.6,30.1,NA,89
+269,November - M111994,Maharashtra,Nashik,MAPB,Industrial Area,15.6,25.7,NA,113
+259,November - M111994,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",13.4,23.9,NA,92
+282,November - M111994,Maharashtra,Pune,ESPU,NA,8.1,8.5,NA,79
+169,November - M111994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",37.9,32.5,NA,205
+170,November - M111994,Maharashtra,Bombay,NA,Industrial Area,41,32,NA,279
+168,November - M111994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",58.6,32.6,NA,260
+165,November - M111994,Maharashtra,Nagpur,NA,Industrial Area,6,8.6,NA,173
+166,November - M111994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,15.5,NA,251
+167,November - M111994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,9,NA,138
+266,December - M121994,Maharashtra,Dombivli,MAPB,NA,54.5,21,NA,NA
+267,December - M121994,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",43,55.3,NA,57
+214,December - M121994,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,40.4,49.5,NA,49
+281,December - M121994,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,Industrial Area,59.5,65.8,NA,80
+259,December - M121994,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",13.1,23.4,NA,121
+270,December - M121994,Maharashtra,Nashik,MAPB,NA,12.2,24.6,NA,128
+269,December - M121994,Maharashtra,Nashik,MAPB,Industrial Area,10.4,21.3,NA,139
+282,December - M121994,Maharashtra,Pune,ESPU,NA,7.6,7.7,NA,67
+283,December - M121994,Maharashtra,Pune,ESPU,NA,31.4,15,NA,204
+169,December - M121994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",53.6,38.7,NA,347
+170,December - M121994,Maharashtra,Bombay,NA,Industrial Area,77.6,46.2,NA,298
+168,December - M121994,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",78.6,38.4,NA,265
+165,December - M121994,Maharashtra,Nagpur,NA,Industrial Area,6,23.2,NA,307
+166,December - M121994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,23.5,NA,326
+167,December - M121994,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,13.9,NA,243

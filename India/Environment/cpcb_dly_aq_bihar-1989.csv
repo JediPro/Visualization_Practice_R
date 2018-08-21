@@ -1,0 +1,37 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+44,M011989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",NA,25.1,NA,380
+45,M011989,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,NA,36.3,NA,678
+46,M011989,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,NA,36.9,NA,413
+44,M021989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",19.2,20.6,NA,441
+45,M021989,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,30,34.3,NA,929
+46,M021989,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,23.7,34.5,NA,564
+44,M031989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",24.4,27.3,NA,355
+45,M031989,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,30.6,36.4,NA,694
+46,M031989,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,30.2,33.9,NA,459
+44,M041989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",23.4,28.3,NA,500
+45,M041989,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,NA,33.8,NA,650
+46,M041989,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,45.7,33.6,NA,534
+44,M051989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",NA,27.5,NA,310
+45,M051989,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,26.2,31,NA,475
+46,M051989,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,30,32.2,NA,319
+44,M061989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",24.3,21.2,NA,197
+45,M061989,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,29.1,30,NA,310
+46,M061989,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,39.2,26.4,NA,189
+44,M071989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",21.7,18.1,NA,200
+45,M071989,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,27.6,25.4,NA,230
+46,M071989,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,22.2,23.5,NA,156
+44,M081989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",21.4,21.6,NA,91
+45,M081989,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,27.4,32.5,NA,215
+46,M081989,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,27.6,26.6,NA,139
+104,M091989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",25.7,25.8,NA,145
+44,M091989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",24.9,25.4,NA,177
+45,M091989,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,31.8,32.6,NA,179
+46,M091989,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,31.9,25.3,NA,162
+104,M121989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",24.8,28.8,NA,201
+46,M121989,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,28.8,32.9,NA,145
+44,M121989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",22.4,27.6,NA,160
+45,M121989,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,24.2,27.4,NA,257
+46,M121989,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,28.8,32.9,NA,145
+44,M121989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",22.4,27.6,NA,160
+45,M121989,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,24.2,27.4,NA,257
+104,M121989,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",24.8,28.8,NA,201

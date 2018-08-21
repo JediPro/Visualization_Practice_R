@@ -1,0 +1,1223 @@
+---
+title: "Visualization Practice"
+author: "JediPro"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval = F)
+```
+
+## Overview
+Here be some viz.
+
+## Set environment
+```{r, echo=T, include=T, eval=T}
+library(plyr)
+library(dplyr)
+library(ggplot2)
+library(data.table)
+library(raster)
+library(broom)
+library(ggthemes)
+library(viridis)
+library(rgeos)
+library(purrr)
+library(magick)
+library(gtools)
+library(ggrepel)
+library(lubridate)
+library(ggmap)
+library(rgl)
+library(OpenStreetMap)
+library(zoo)
+library(ggalluvial)
+library(Matrix)
+library(tidyr)
+library(countrycode)
+library(circlize)
+library(readxl)
+
+setwd("D:\\Datasets\\India")
+output_folder <- "D:\\Datasets\\India\\Gif_Stills\\"
+climate_folder <- "D:\\Datasets\\India\\Climate\\"
+environment_folder <- "D:\\Datasets\\India\\Environment\\"
+travel_folder <- "D:\\Datasets\\India\\Travel\\"
+education_folder <- "D:\\Datasets\\India\\Education\\"
+test_folder <- "D:\\Datasets\\India\\Test\\"
+
+# set chart counter
+i = 1
+
+# set default window size
+r3dDefaults$windowRect <- c(5, 30 , 1500, 900)
+```
+
+## Climate
+### Temperature
+Datasets were collected from http://data.gov.in, on yearly/monthly temperature readings from 1901-2016 in India. We chart the same to view evidence of increasing temperatures
+
+#### Data Morphing
+```{r, echo=T, eval=T}
+# Load dataset
+India_Temp <- fread(input = paste(climate_folder, "month_seas_ann_mean_temp_India_1901_2016.csv", sep = ""))
+# Munge data
+India_Temp[, c("ANNUAL", "JAN-FEB", "MAR-MAY", "JUN-SEP", "OCT-DEC") := NULL]
+India_Temp_melt <- melt(data = India_Temp, id.vars = "YEAR", variable.name = "Month", value.name = "Temp")
+India_Temp_melt[, Date := as.Date(paste(YEAR, Month, "01", sep = "-"), format = "%Y-%b-%d")]
+India_Temp_melt[, Month_num := month(Date)]
+India_Temp_mean_annual <- India_Temp_melt %>% group_by(YEAR) %>% summarise(Mean_Temp = mean(Temp))
+```
+
+#### Viz `r i` - Annual Temperature trend
+Temperature trend shows a clear upward rise beginning in the 50s
+```{r, echo=T, eval=T}
+ggplot(data = India_Temp_mean_annual, 
+       aes(x = YEAR, 
+           y = Mean_Temp, 
+           colour = Mean_Temp)) +
+  geom_point(size = 2) +
+  geom_line(colour = "grey", 
+            size = 1.4, 
+            alpha = 0.5) +
+  geom_smooth(colour = "maroon", 
+              se = F, 
+              size = 1.5,
+              method = "loess") +
+  scale_color_gradient2(midpoint = median(range(India_Temp_mean_annual$Mean_Temp)), 
+                        low = "blue", 
+                        mid = "orange", 
+                        high = "red") +
+  labs(x = "Year", 
+       y = "Mean Annual Temperature (°C)", 
+       title = "Mean Annual Temperature of India from 1901-2016",
+       caption = "Data Source: https://data.gov.in", 
+       colour = "Colour Scale (°C)") +
+  theme(plot.title = element_text(size = 15, 
+                                  hjust = 0.5), 
+        legend.title = element_text(size = 10),
+        legend.position = "bottom",
+        legend.direction = "horizontal",
+        legend.text = element_text(size = 6, angle = 45),
+        plot.caption = element_text(size = 7, 
+                                    face = "italic"),
+        panel.background = element_rect(colour = "white",
+                                        size = 0.9,
+                                        fill = "lightgrey"),
+        panel.grid.major = element_line(colour = "lavender", 
+                                        size = 0.3),
+        panel.grid = element_blank())
+i = i + 1
+```
+
+#### Viz `r i` - Mothly Temperature trends
+```{r, echo=T, eval=T}
+ggplot(data = India_Temp_melt, 
+       aes(x = Date, 
+           y = Temp, 
+           colour = Month)) +
+  geom_line(size = 1, 
+            alpha = 0.5) +
+  scale_color_brewer(type = "qualitative", palette = "Paired") +
+  labs(x = "Year", 
+       y = "Mean Monthly Temperature (°C)",
+       title = "Mean Monthly Temperatures of India from 1901-2016",
+       caption = "Data Source: https://data.gov.in", 
+       colour = "Month") + 
+  theme(plot.title = element_text(size = 15, 
+                                  hjust = 0.5), 
+        legend.title = element_text(size = 10),
+        legend.position = "bottom",
+        legend.direction = "horizontal",
+        legend.text = element_text(size = 6, angle = 0),
+        plot.caption = element_text(size = 7, 
+                                    face = "italic"),
+        panel.background = element_rect(colour = "white",
+                                        size = 0.9,
+                                        fill = "lightgrey"),
+        panel.grid.major = element_line(colour = "lavender", 
+                                        size = 0.1),
+        panel.grid = element_blank())
+i = i + 1
+```
+
+#### Viz `r i` - Seasonal Temperature trend acrosss years
+As the years have progressed, the yearly temperature charts have moved higher
+```{r, echo=T, eval=T}
+ggplot(data = India_Temp_melt, 
+       aes(x = Month, 
+           y = Temp, 
+           colour = YEAR)) + 
+  geom_line(aes(group = YEAR), 
+            size = 1.2, 
+            alpha = 0.3) + 
+  scale_color_gradient2(midpoint = mean(India_Temp_melt$YEAR),
+                        low = "blue", 
+                        mid = "light yellow",
+                        high = "red") +
+  labs(x = "Month", 
+       y = "Mean Temperature (°C)",
+       title = "Seasonal Temperature trends in India from 1901-2016",
+       caption = "Data Source: https://data.gov.in", 
+       colour = "Year") + 
+  theme(plot.title = element_text(size = 15, 
+                                  hjust = 0.5), 
+        legend.title = element_text(size = 10),
+        legend.position = "bottom",
+        legend.direction = "horizontal",
+        legend.text = element_text(size = 6, angle = 45),
+        plot.caption = element_text(size = 7, 
+                                    face = "italic"),
+        panel.background = element_rect(colour = "white",
+                                        size = 0.9,
+                                        fill = "lightgray"),
+        panel.grid.major = element_line(colour = "lavender", 
+                                        size = 0.1),
+        panel.grid = element_blank())
+i = i + 1
+```
+
+### Rainfall
+Datasets were collected from http://data.gov.in on rainfall readings across various meteorological subdivisions from 1901-2015.
+
+#### Loading and morphing data
+```{r, echo=T, include=T, eval=T}
+# Load data
+India_Rain <- fread(input = paste(climate_folder,
+                                  "sub-division_rainfall_act_dep_1901-2015.csv", sep = ""))
+
+# Remove unwanted rows
+India_Rain <- India_Rain[YEAR != "1901-2015" & Parameter != "No. of districts"]
+India_Rain[, c("ANNUAL", "JF", "MAM", "JJAS", "OND") := NULL]
+# Convert Year from chr to num
+India_Rain[, YEAR := as.numeric(YEAR)]
+# Melt the data table to long
+India_Rain_melt <- melt(data = India_Rain, 
+                        id.vars = c("SUBDIVISION", "YEAR", "Parameter"), 
+                        variable.name = "Month", 
+                        value.name = "Value")
+# Recode some factor levels
+India_Rain_melt$SUBDIVISION <- recode(India_Rain_melt$SUBDIVISION, "MATATHWADA" = "MARATHWADA")
+# Calculate normal rainfall for each region and month
+India_Rain_cast <- dcast(data = India_Rain_melt, 
+                         formula = SUBDIVISION + Month + YEAR ~ Parameter, 
+                         value.var = "Value")
+India_Rain_cast[, Normal := (Actual * 100)/(`Percentage departure` + 100)]
+# NaN values are present. Find mean of rest of values by region and month
+India_Rain_normal <- India_Rain_cast %>% 
+  group_by(SUBDIVISION, Month) %>%
+  summarise(Average = mean(Normal, na.rm = T))
+# Map back to cast
+India_Rain_cast <- as.data.table(left_join(x = India_Rain_cast,
+                             y = India_Rain_normal, 
+                             by = c("SUBDIVISION", "Month")))
+# Rename columns
+India_Rain_cast[, Normal := Average]
+India_Rain_cast[, c("Average", "Percentage departure") := NULL]
+# Melt back
+India_Rain_melt <- melt(data = India_Rain_cast, 
+                        id.vars = c("SUBDIVISION", "YEAR", "Month"), 
+                        variable.name = "Parameter", 
+                        value.name = "Value")
+
+# Find mean annual rainfall by Region
+India_Rain_annual_division <- India_Rain_melt %>% 
+  group_by(SUBDIVISION, YEAR, Parameter) %>%
+  summarise(Value = sum(Value, na.rm = T))
+# Find annual rainfall overall
+India_Rain_Overall <- India_Rain_melt %>% 
+  group_by(YEAR, Parameter) %>%
+  summarise(Value = sum(Value, na.rm = T))
+# Add marker to identify whether higher or lower rainfall
+India_Rain_Overall <- as.data.table(dcast(data = India_Rain_Overall, 
+                            formula = YEAR ~ Parameter, 
+                            value.var = "Value"))
+India_Rain_Overall[, c("High", "Low") := list(ifelse(Actual >= Normal, Actual, 0),
+                                              ifelse(Actual < Normal, Actual, 0))]
+India_Rain_Overall[, Actual := NULL]
+India_Rain_Overall <- melt(data = India_Rain_Overall, 
+                           id.vars = "YEAR", 
+                           variable.name = "Parameter", 
+                           value.name = "Value")
+# Find overall monthly rainfall by year 
+India_Rain_Overall_month <- India_Rain_melt %>% 
+  group_by(YEAR, Month, Parameter) %>%
+  summarise(Value = sum(Value, na.rm = T))
+# Find average monthly rainfall by subdivision
+India_Rain_average_month <- India_Rain_melt %>%
+  filter(Parameter == "Actual") %>%
+  group_by(SUBDIVISION, Month, Parameter) %>%
+  summarise(Value = mean(Value, na.rm = T))
+```
+
+#### Viz `r i` - Annual total rainfall in country
+Plot trends of total annual rainfall in the country
+```{r, echo=T, eval=T}
+cols = c("Normal Rain" = "blue3", 
+         "Higher than Normal" = "palegreen3", 
+         "Lower than Normal" = "indianred2")
+min_value <- min(India_Rain_Overall$Value[India_Rain_Overall$Value != 0])
+max_value <- max(India_Rain_Overall$Value)
+ggplot(data = NULL,
+       aes(x = YEAR,
+           y = Value)) +
+  geom_line(data = India_Rain_Overall[India_Rain_Overall$Parameter == "Normal",],
+            aes(colour = "Normal Rain"),
+            size = 1.4,
+            alpha = 0.5) +
+  geom_bar(data = India_Rain_Overall[India_Rain_Overall$Parameter == "High",], 
+           aes(fill = "Higher than Normal"), 
+           alpha = 0.8, 
+           width = 0.8, 
+           colour = "black",
+           stat = "identity") +
+  geom_bar(data = India_Rain_Overall[India_Rain_Overall$Parameter == "Low",], 
+           aes(fill = "Lower than Normal"), 
+           alpha = 0.8, 
+           width = 0.8,
+           colour = "black",
+           stat = "identity") + 
+  scale_colour_manual(name = "Normal Rainfall", 
+                      values = cols) +
+  scale_fill_manual(name = "Actual Rainfall", 
+                    values = cols) +
+  coord_cartesian(ylim = c(min_value - abs(min_value * 0.05), max_value)) +
+  labs(x = "Year", 
+       y = "Total Rainfall (mm)",
+       title = "Annual rainfall in India from 1901-2015",
+       caption = "Data Source: https://data.gov.in", 
+       colour = "Category") + 
+  theme(plot.title = element_text(size = 15, 
+                                  hjust = 0.5), 
+        legend.title = element_text(size = 10),
+        legend.position = "bottom",
+        legend.direction = "horizontal",
+        legend.text = element_text(size = 6, angle = 45),
+        legend.key.height = unit(x = 2, units = "mm"),
+        legend.key.width = unit(x = 2, units = "mm"),
+        plot.caption = element_text(size = 7, 
+                                    face = "italic"),
+        panel.background = element_rect(colour = "white",
+                                        size = 0.9,
+                                        fill = "lightgray"),
+        panel.grid.major = element_line(colour = "lavender", 
+                                        size = 0.1),
+        panel.grid = element_blank())
+i = i + 1
+```
+
+#### Viz `r i` - Variance in monthy rainfall
+Observing the variation in total monthly rainfall by year, we see that the variation is seemingly random as we progress through the years, indicating no major trend in rainfall intensity for individual months
+```{r, echo=T, eval=T}
+ggplot(data = India_Rain_Overall_month[India_Rain_Overall_month$Parameter == "Actual",]) + 
+  geom_boxplot(aes(x = Month, 
+                   y = Value),
+               width = 0.5,
+               outlier.shape = NA) + 
+  geom_jitter(aes(x = Month, 
+                  y = Value, 
+                  colour = YEAR), 
+              alpha = 0.8,
+              width = 0.2) +
+  scale_color_gradient2(midpoint = mean(India_Rain_melt$YEAR),
+                        low = "blue", 
+                        mid = "light yellow",
+                        high = "red") +
+  labs(x = "Month", 
+       y = "Total Rainfall (mm)",
+       title = "Monthly rainfall variation by year from 1901-2015",
+       caption = "Data Source: https://data.gov.in", 
+       colour = "Year") +
+  theme_economist(base_size = 5)
+i = i + 1
+```
+
+
+#### Get Map of India at district level
+We load a map of India at district level to be able to create chloropleths
+```{r, echo=T, eval=T}
+# Get spatial Polygon data frame
+# India_map <- getData(name = "GADM", 
+#                      country = "IND", 
+#                      level = 2)
+India_map <- readRDS(file = "GADM_2.8_IND_adm2.rds")
+# Get mapping table of District to Met Subdivisions
+Met_SD_Table <- read.csv(file = "Met_Subdivision_Map.csv")
+# plot to check
+# plot(India_map)
+# PoK is not visible so lets add it
+# Get map of Pakistan
+# Pakistan_map <- getData(name = "GADM", 
+#                      country = "PAK", 
+#                      level = 2)
+Pakistan_map <- readRDS(file = "GADM_2.8_PAK_adm2.rds")
+# Plot to check
+# plot(x = Pakistan_map)
+# Append Pakistan data to India
+Combined_map <- rbind(India_map, Pakistan_map)
+# Filter map to exclude all Pak states except AK and NA
+Combined_map <- Combined_map[Combined_map$ISO == "IND" | 
+                               Combined_map$NAME_1 %in% c("Azad Kashmir", "Northern Areas"),]
+# Rename Azad kashmir and Northern Areas
+Combined_map$NAME_0[Combined_map$NAME_0 == "Pakistan"] <- "India"
+Combined_map$NAME_1[Combined_map$NAME_1 == "Azad Kashmir"] <- "Jammu and Kashmir"
+Combined_map$NAME_1[Combined_map$NAME_1 == "Northern Areas"] <- "Jammu and Kashmir"
+# Join with Subdivision data
+Combined_map@data <- left_join(x = Combined_map@data, 
+                          y = Met_SD_Table, 
+                          by = c("NAME_1" = "State", "NAME_2" = "District"))
+# Aggregate Spatial data by Subdivision
+Aggregated_map <- gUnaryUnion(spgeom = Combined_map, id = Combined_map@data$Subdivision)
+# Check result
+plot(Aggregated_map)
+# Store centroid data
+map_centroids <- gCentroid(spgeom = Aggregated_map, byid = T)
+# Store spatial information in a data frame
+India_map_df <- tidy(x = Aggregated_map)
+Centroids_df <- tidy(x = map_centroids)
+```
+
+#### Function to create rainfall chloropleths
+We define a function to create rainfall chloropleths
+```{r, echo=T, eval=T}
+# Function to create chloropleth for each year
+Chrolopleth_gif <- function(Year){
+  #Year = 1901
+  # Join Rainfall data and Map data
+  Rain_Map_Data <- left_join(x = India_map_df, 
+                             y = India_Rain_annual_division[India_Rain_annual_division$YEAR == Year &
+                                                              India_Rain_annual_division$Parameter == "Actual",],
+                             by = c("id" = "SUBDIVISION"))
+  # Plot chloropleth
+  chloropleth <- ggplot() +
+    geom_map(data = Rain_Map_Data,
+             map = Rain_Map_Data,
+             aes(long, lat, map_id = id, fill = Value),
+             colour = "black", size = 0.1) +
+    scale_fill_viridis(direction = -1, 
+                       option = "magma",
+                       limits = c(0, max(India_Rain_annual_division$Value))) +
+    labs(title = paste("Total rainfall in ", Year, sep = ""),
+         fill = "Rainfall (mm)",
+         caption = "Data source: https://data.gov.in\nMap source: https://gadm.org") + 
+    coord_map() +
+    theme_map() +
+    theme(legend.background = element_blank(),
+          plot.title = element_text(hjust = 0.5, 
+                                    size = 15),
+          plot.background = element_rect(fill = "gray69"))
+  # Save plot
+  print(paste("Saving plot for", Year))
+  ggsave(filename = paste(output_folder, 
+                      "Total_Annual_Rainfall_subdivision_",
+                      Year,
+                      ".png",
+                      sep = ""), 
+         plot = chloropleth,
+         device = "png", 
+         width = 20,
+         height = 20,
+         units = "cm",
+         dpi = 250)
+}
+
+# Use the purrr framework to iterate over each year and save each plot
+seq(from = min(India_Rain_annual_division$YEAR),
+    to = max(India_Rain_annual_division$YEAR),
+    by = 1) %>%
+  map_df(Chrolopleth_gif)
+
+# Combine all stills into a gif. Stopped it after 5 hours of running without output
+list.files(path = output_folder,
+           pattern = "Total_Annual_Rainfall_subdivision_.*.png",
+           full.names = T) %>%
+  map(image_read) %>%
+  image_join() %>%
+  image_animate(fps = 4) %>%
+  image_write(path = paste(output_folder,
+                           "GIF_Total_Annual_Rainfall_subdivision.gif", sep = ""),
+              format = "gif")
+```
+
+#### Viz `r i` - Visualize average rainfall by month for each subdivision
+We create plots of average rainfall each year by subdivision and then merge into one GIF
+```{r, echo=F, eval=F}
+Chrolopleth_gif <- function(Month){
+  #Month = "JAN"
+  # Join Rainfall data and Map data
+  Rain_Map_Data <- left_join(x = India_map_df, 
+                             y = India_Rain_average_month[India_Rain_average_month$Month == Month,],
+                             by = c("id" = "SUBDIVISION"))
+  # Plot chloropleth
+  chloropleth <- ggplot() +
+    geom_map(data = Rain_Map_Data,
+             map = Rain_Map_Data,
+             aes(long, lat, map_id = id, fill = Value),
+             colour = "chocolate3", size = 0.1) +
+    geom_text_repel(data = Centroids_df, 
+                    aes(x = x, 
+                        y = y, 
+                        label = rownames(Centroids_df)),
+                  size = 2, 
+                  nudge_x = -0.25, nudge_y = 0.25) +
+    #geom_point(data = Centroids_df, aes(x, y)) +
+    scale_fill_viridis(direction = -1, 
+                       option = "magma",
+                       limits = c(0, max(India_Rain_average_month$Value))) +
+    labs(title = paste("Average rainfall in ", Month, sep = ""),
+         fill = "Rainfall (mm)",
+         caption = "Data source: https://data.gov.in\nMap source: https://gadm.org") + 
+    coord_map() +
+    theme_map() +
+    theme(legend.background = element_blank(),
+          plot.title = element_text(hjust = 0.5, 
+                                    size = 15),
+          plot.background = element_rect(fill = "gray69"))
+  # Save plot
+  print(paste("Saving plot for", Month))
+  month_num <- match(Month, toupper(month.abb))
+  ggsave(filename = paste(output_folder, 
+                      "Average_Rainfall_subdivision_",
+                      month_num,
+                      ".png",
+                      sep = ""), 
+         plot = chloropleth,
+         device = "png", 
+         width = 20,
+         height = 20,
+         units = "cm",
+         dpi = 250)
+}
+
+# Save each plot
+unique(India_Rain_average_month$Month) %>%
+  map_df(Chrolopleth_gif)
+#Combine all stills into a gif
+list.files(path = output_folder,
+           pattern = "Average_Rainfall_subdivision_.*.png",
+           full.names = T) %>%
+  mixedsort() %>%
+  map(image_read) %>%
+  image_join() %>%
+  image_animate(fps = 2) %>%
+  image_write(path = paste(output_folder,
+                           "GIF_Average_Rainfall_subdivision_month.gif", sep = ""),
+              format = "gif")
+```
+## Environment
+In this section, we will plot pollution trends from the period 1987-2015 across various automatic pollution reading centres in India
+
+### Air Pollution
+The data consists of samples of daily ambient air readings from automatic observation centres all over the country
+
+#### Loading and morphing data
+The datasets present are not uniform and hence will need a fair amount of munging. Let's begin
+```{r, echo=T, eval=T}
+# Use the purrr framework to load data, using rbind.fill to ensure all columns are loaded
+Pollution_data_raw <- list.files(path = environment_folder, pattern = "cpcb_dly_aq_.*.csv") %>%
+  map(~fread(input = paste(environment_folder, .x, sep = ""), 
+             na.strings = c("", "NA"))) %>%
+  reduce(rbind.fill) %>%
+  as.data.table()
+# create copy
+Pollution_Data <- Pollution_data_raw
+Pollution_data_raw <- as.data.frame(Pollution_data_raw) # as data.table modifies by reference
+# Change data type of columns
+Pollution_Data[, c("Stn Code", 
+                   "State", 
+                   "Type of Location",
+                   "NO2", 
+                   "SPM", 
+                   "V12") := list(as.factor(`Stn Code`),
+                                  as.factor(`State`),
+                                  as.factor(`Type of Location`),
+                                  as.numeric(NO2),
+                                  as.numeric(SPM),
+                                  NULL)]
+# Check number of NAs in each column
+NAs_by_column <- apply(X = Pollution_Data, 
+                       MARGIN = 2, 
+                       FUN = function(x){length(which(is.na(x)))})
+# remove rows for which State is blank
+Pollution_Data <- Pollution_Data[!is.na(State)]
+# Check State column for discrepancies
+table(Pollution_Data$State)
+# We see that there are a few inconsistencies across State names
+# Some typos and some name changes
+# Recode state names to make them consistent
+Pollution_Data[, State := recode(State, 
+                                 "Dadar & Nagar Haveli" = "Dadra and Nagar Haveli",
+                                 "Dadra & Nagar Haveli" = "Dadra and Nagar Haveli",
+                                 "Daman & Diu" = "Daman and Diu",
+                                 "Daman Diu & Nag" = "Daman and Diu",
+                                 "GOA" = "Goa",
+                                 "Odisha" = "Orissa",
+                                 "Puducherry" = "Pondicherry",
+                                 "Pondichery" = "Pondicherry",
+                                 "Uttaranchal" = "Uttarakhand")]
+# Check City/Area/State/Area
+table(Pollution_Data$`City/Town/Village/Area`)
+# Recode City/Area/State/Area
+Pollution_Data[, `City/Town/Village/Area` := recode(`City/Town/Village/Area`,
+                                                    "ANKLESHWAR" = "Ankleshwar",
+                                                     "Anklesvar" = "Ankleshwar",
+                                                     "Aurangabad (MS)" = "Aurangabad",
+                                                     "Bhilai Nagar" = "Bhilai",
+                                                     "Bhubaneshwar" = "Bhubaneswar",
+                                                     "Bombay" = "Mumbai",
+                                                     "Calcutta" = "Kolkata",
+                                                     "Chandarpur" = "Chandrapur",
+                                                     "Cochin" = "Kochi",
+                                                     "Dehradoon" = "Dehradun",
+                                                     "Durgapur (WB)" = "Durgapur",
+                                                     "Gajroula" = "Gajraula",
+                                                     "HALDIA" = "Haldia",
+                                                     "Hubli-Dharwad" = "Dharwad",
+                                                     "Kotttayam" = "Kottayam",
+                                                     "Madras" = "Chennai",
+                                                     "Noida, Ghaziabad" = "Noida",
+                                                     "Panjim" = "Panaji",
+                                                     "Pondichery" = "Pondicherry",
+                                                     "Silcher" = "Silchar",
+                                                     "South Suburban" = "Tollygunge",
+                                                     "Trivandrum" = "Thiruvananthapuram",
+                                                     "Trivendrum" = "Thiruvananthapuram",
+                                                     "Turicorin" = "Tuticorin",
+                                                     "VAPI" = "Vapi",
+                                                     "Vishakhapatnam" = "Visakhapatnam")]
+# Check type of location
+table(Pollution_Data$`Type of Location`, useNA = "ifany")
+# recode type of location
+Pollution_Data[, `Type of Location` := recode(`Type of Location`, 
+                                              "Industrial Area" = "Industrial",
+                                              "Industrial Areas" = "Industrial",
+                                              "Residential and others" = "Residential",
+                                              "Residential, Rural and other Areas" = "Residential",
+                                              "RIRUO" = "Residential",
+                                              "Sensitive Area" = "Sensitive",
+                                              "Sensitive Areas" = "Sensitive")]
+# As states have changed from 1987, and the same city could be marked against multiple states
+# in the data, we change the older state names to newer ones across the board
+# First, store names of new states
+new_states <- c("Chhattisgarh", "Jharkhand", "Telangana", "Uttarakhand")
+# Get list of cities for each state and fill up state value in State
+for(x in new_states){
+  city_list <- Pollution_Data$`City/Town/Village/Area`[Pollution_Data$State == x]
+  Pollution_Data$State[Pollution_Data$`City/Town/Village/Area` %in% city_list] <- x
+}
+# Since there are multiple observation locations in the larger cities,
+# pollution readings are averaged for each city on each sample date
+Pollution_Data_City <- Pollution_Data %>%
+  group_by(`Sampling Date`, State, `City/Town/Village/Area`, `Type of Location`) %>%
+  summarise(SO2 = mean(SO2, na.rm = T),
+            NO2 = mean(NO2, na.rm = T),
+            `RSPM/PM10` = mean(`RSPM/PM10`, na.rm = T),
+            SPM = mean(SPM, na.rm = T),
+            `PM2.5` = mean(`PM 2.5`, na.rm = T)) %>%
+  as.data.table()
+# remove rows with Annual in sampling date
+Pollution_Data_City <- Pollution_Data_City[!grepl(pattern = "Annual", 
+                                                 x = Pollution_Data_City$`Sampling Date`,
+                                                 ignore.case = T),] %>%
+  as.data.table()
+# Use lubridate to convert the most common format to Date
+dmy <- dmy(Pollution_Data_City$`Sampling Date`)
+# Remove the Month part from dates which have - M or Mpattern
+Pollution_Data_City[, `Sampling Date` := gsub(pattern = ".*- M", 
+                                              replacement = "",
+                                              x = `Sampling Date`)]
+# Attempt to convert the rest, based on a month-Year format
+myd <- myd(Pollution_Data_City$`Sampling Date`, truncated = 1)
+# Add both vectors to data table
+Pollution_Data_City[, c("dmy", "myd") := list(dmy, myd)]
+# Create new date column by taking either vector, giving precedence to dmy
+Pollution_Data_City[, Date := as.Date(ifelse(test = !is.na(dmy),
+                                     yes = dmy, 
+                                     no = ifelse(test = !is.na(myd), 
+                                                 yes = myd, 
+                                                 no = NA)),
+                                     origin = "1970-01-01")]
+# Check if any NA values remain
+summary(Pollution_Data_City$Date)
+# 454 NAs remain. Check which format these dates are in
+Pollution_Data_City %>% filter(is.na(Date)) %>% dplyr::select(`Sampling Date`) %>% table()
+# We see that there are a few with the pattenn M(month-year). Let's remove the M and try to parse again
+Pollution_Data_City[, `Sampling Date` := gsub(pattern = "M", 
+                                              replacement = "",
+                                              x = `Sampling Date`)]
+# Attempt to convert the rest, based on a month-Year format
+myd2 <- myd(Pollution_Data_City$`Sampling Date`, truncated = 1)
+# Add back to POllution Data
+Pollution_Data_City[, myd2 := myd2]
+# Fill blank entries in Date by myd2
+Pollution_Data_City[, Date := as.Date(ifelse(test = is.na(Date),
+                                     yes = myd2, no = Date),
+                                     origin = "1970-01-01")]
+# 4 NA entries remain which are non-existent dates, at least according to the current Julian calendar
+Pollution_Data_City %>% filter(is.na(Date)) %>% dplyr::select(`Sampling Date`) %>% table()
+# As I am irritated to the hilt with the cavalier attitude of the CPCB towards data,
+# I'll just be manually recoding these value to the earlier date. I know, a travesty
+Pollution_Data_City[, `Sampling Date` := recode(`Sampling Date`, 
+                                                "31/11/2014" = "2014-11-30",
+                                                "31/6/2014" = "2014-06-30",
+                                                "31/9/2014" = "2014-09-30")]
+# Convert these to Date, store in Data Table and fill Date
+Pollution_Data_City[, Date := as.Date(ifelse(test = is.na(Date),
+                                     yes = as.Date(`Sampling Date`, "%Y-%m-%d"), no = Date),
+                                     origin = "1970-01-01")]
+summary(Pollution_Data_City$Date)
+# SUCCESS!!!
+# remove non required columns
+Pollution_Data_City[, c("dmy", "myd", "myd2", "Sampling Date") := NULL]
+rm(dmy, myd, myd2)
+```
+
+The data is now properly formatted, but there is one more step before we can start to visualize. We'll get the coordinates of every location, using ggmap package, which queries google maps.
+```{r, echo=T, eva=T}
+# Extract unique entries for State, City combinations
+Address_Data <- Pollution_Data_City %>% 
+  group_by(State, `City/Town/Village/Area`) %>%
+  summarise(Count = n()) %>%
+  as.data.table()
+# Add column concatenating City and State
+Address_Data[, Address := paste(`City/Town/Village/Area`, State, sep = ", ")]
+# Query GMaps
+Address_Data[, c("lon", "lat", "text") := NA]
+Query_Results <- Address_Data[, c("Address", "long", "lat", "text")]
+# Run a loop for NAs
+while(length(which(is.na(Query_Results$lon))) > 0){
+  for(i in 1:nrow(Query_Results)){
+    if(is.na(Query_Results$long[i])){
+      print(Query_Results$Address[i])
+      flush.console()
+      #Sys.sleep(5)
+      temp_query <- geocode(location = Query_Results$Address[i],
+                            output = "latlona",
+                            source = "google")
+      Query_Results$long[i] <- tryCatch({
+        temp_query$lon[1]
+      },
+      error = function(e){
+        message("Query failed")
+        next
+      })
+      Query_Results$lat[i] <- tryCatch({
+        temp_query$lat[1]
+      },
+      error = function(e){
+        message("Query failed")
+        next
+      })
+      Query_Results$text[i] <- tryCatch({
+        temp_query$address[1]
+      },
+      error = function(e){
+        message("Query failed")
+        next
+      })
+    }
+  }
+}
+
+# Join with Pollution_Data_City
+Pollution_Data_City[, Address := paste(`City/Town/Village/Area`, State, sep = ", ")]
+Pollution_Data_City <- left_join(x = Pollution_Data_City, 
+                                 y = Query_Results, 
+                                 by = "Address")
+Pollution_Data_City <- Pollution_Data_City %>% 
+  left_join(y = Query_Results, 
+            by = "Address") %>%
+  as.data.table()
+# Create year column
+Pollution_Data_City[, Year := year(Date)]
+# Create month column
+Pollution_Data_City[, Month := month(Date)]
+```
+
+#### Load map of India
+We aggregate pollution levels at the annual level for each location and then create a gif to show the trend of pollution levels by year. This chart would feature a map of the country with pollution levels plotted by city. 
+To do so, we load a map of India first. To avoid prickly border issues as far as possible, we combine it with Pakistan's map to get state borders in Jammu and Kashmir as close as possible to that claimed by the Indian government. Apart from this being something of a politically correct exercise, we also demonstrate how easy it is to manipulate geographical data types.
+```{r, echo=T, eval=T}
+# Get spatial Polygon data frame
+India_map <- getData(name = "GADM",
+                     country = "IND",
+                     level = 1)
+#India_map <- readRDS(file = "GADM_2.8_IND_adm2.rds")
+# plot to check
+plot(India_map)
+# PoK is not visible so lets add it
+# Get map of Pakistan
+Pakistan_map <- getData(name = "GADM",
+                     country = "PAK",
+                     level = 1)
+#Pakistan_map <- readRDS(file = "GADM_2.8_PAK_adm2.rds")
+# Plot to check
+plot(x = Pakistan_map)
+# Append Pakistan data to India
+Combined_map <- rbind(India_map, Pakistan_map)
+rm(Pakistan_map, India_map)
+# Filter map to exclude all Pak states except AK and NA
+Combined_map <- Combined_map[Combined_map$ISO == "IND" | 
+                               Combined_map$NAME_1 %in% c("Azad Kashmir", "Northern Areas"),]
+# Rename Azad kashmir and Northern Areas
+Combined_map$NAME_0[Combined_map$NAME_0 == "Pakistan"] <- "India"
+Combined_map$NAME_1[Combined_map$NAME_1 == "Azad Kashmir"] <- "Jammu and Kashmir"
+Combined_map$NAME_1[Combined_map$NAME_1 == "Northern Areas"] <- "Jammu and Kashmir"
+# Aggregate Spatial data by Subdivision
+Aggregated_map <- gUnaryUnion(spgeom = Combined_map, id = Combined_map@data$NAME_1)
+rm(Combined_map)
+# Check result
+plot(Aggregated_map)
+# Store centroid data
+map_centroids <- gCentroid(spgeom = Aggregated_map, byid = T)
+# Store spatial information in a data frame
+India_map_df <- tidy(x = Aggregated_map)
+Centroids_df <- tidy(x = map_centroids)
+# Createa a matrix of coordinates of all points in India map 
+# with new column for heights set to 0
+# Required to plot in the 3d space
+India_coords <- India_map_df %>% dplyr::select(long, lat, id) %>% mutate(alt = 0)
+```
+
+#### Define function to create the required plots
+Now that we have a map of India at the state level, we proceed to plot the Cities in our data and place vertical bars at their locations. The height of the bars will indicate the level of pollution. We plot the charts separately for Residential and Industrial sites. Let's define a function to do just that
+```{r, echo=T, eval=T}
+# Define function to transform a data frame and create plots
+mapGif3d <- function(Map_Data, City_Pollution_Data, metric, location_type, aggregator){
+  # City_Pollution_Data <- Pollution_Data_City
+  # metric <- "SO2"
+  # location_type <- "Residential"
+  # aggregator <- "Month"
+  # Map_Data <- India_coords
+  # Filter and aggregate data frame
+  Data_Frame <- City_Pollution_Data %>%
+    filter(`Type of Location` == location_type) %>%
+    mutate(Time_period = .data[[aggregator]]) %>%
+    group_by(`City/Town/Village/Area`, long, lat, Time_period) %>%
+    summarise(SO2 = mean(SO2, na.rm = T),
+            NO2 = mean(NO2, na.rm = T),
+            `RSPM/PM10` = mean(`RSPM/PM10`, na.rm = T),
+            SPM = mean(SPM, na.rm = T),
+            PM2.5 = mean(PM2.5, na.rm = T)) %>%
+    as.data.table()
+  # To plot segments, we need to have two rows for each data point,
+  # to signify the start and end of the segment. Since start will be at the base,
+  # we will set the z value of each segment to be zero
+  # create color palette
+  color_gradient <- colorRampPalette(c("yellow", "red"))
+  # create vector of colors for each observation
+  colors <- color_gradient(length(unique(Data_Frame[[metric]])))[as.numeric(cut(Data_Frame[[metric]], 
+                                              breaks = unique(Data_Frame[[metric]])))]
+  # Fill NAs with value in previous row 
+  colors <- na.locf(object = colors)
+
+  Data_Frame[, Order := as.integer(rownames(Data_Frame))]
+  Data_Frame_2 <- copy(Data_Frame)
+  # set all observations to 0
+  Data_Frame_2[, c("SO2", "NO2", "RSPM/PM10", "SPM", "PM2.5") := 0]
+  # Bind with original frame and order
+  Data_Frame <- Data_Frame %>% rbind(Data_Frame_2) %>% as.data.table()
+  Data_Frame <- Data_Frame[order(Order)]
+  rm(Data_Frame_2)
+
+  # Create new column in data frame and map colours to that
+  Data_Frame[, color := colors]
+  # counter to rotate pictures
+  j = 0
+  # Loop over each year and create plots for same
+  for(yr in seq.int(from = min(Data_Frame$Time_period),
+                    to = max(Data_Frame$Time_period), 
+                    by = 1)){
+    # Create data frame with pollution data for current year
+    Data_Frame_yr <- Data_Frame %>% filter(Time_period == yr)
+    open3d()
+    points3d(x = Map_Data$long, 
+             y = Map_Data$lat, 
+             z = Map_Data$alt,
+             color = "plum4",
+             size = 0.5)
+    segments3d(x = Data_Frame_yr$long,
+               y = Data_Frame_yr$lat,
+               z = Data_Frame_yr[[metric]],
+               color = Data_Frame_yr$color,
+               lwd = 2)
+    axes3d(edges = "bbox", 
+           expand = 1.1)
+    if(aggregator == "Year"){
+      text3d(x = 85, 
+           y = 10, 
+           z = 0, 
+           text = paste("Levels of ", metric, "in Year ", yr, sep = ""), 
+           cex = 2, 
+           col = "darkgoldenrod3")
+    } else if(aggregator == "Month"){
+      text3d(x = 85, 
+           y = 10, 
+           z = 0, 
+           text = paste("Levels of ", metric, "in ", month.abb[yr], sep = ""), 
+           cex = 2, 
+           col = "darkgoldenrod3")
+    }
+    aspect3d(c(1, 1, 0.2))
+    view3d(theta = -35 + j, 
+           phi = -45 + j,
+           fov = 40, 
+           zoom = 0.5)
+    snapshot3d(filename = paste(output_folder, "Level_",
+                                metric, "_", 
+                                location_type, "_",
+                                aggregator, "_", yr,
+                                ".png", sep = ""),
+               fmt = "png")
+    rgl.close()
+    i = i + 0.2
+  }
+  # Combine all stills into a gif. Stopped it after 5 hours of running without output
+  list.files(path = output_folder,
+            pattern = paste("Level_", metric, "_", 
+                            location_type, "_", 
+                            aggregator, "_", ".*\\.png", sep = ""),
+            full.names = T) %>%
+    mixedsort() %>%
+    map(image_read) %>%
+    image_join() %>%
+    image_animate(fps = 2) %>%
+    image_write(path = paste(output_folder, "Level_", metric, "_", 
+                             location_type, "_", aggregator,".gif", sep = ""),
+                format = "gif")
+}
+```
+
+With the function ready to do the heavy lifting, let's use it to create separate charts for each metric and type of location, beginning with SO2. First, create separate data frames for Residetual and Industrial data
+
+#### Plot Pollution maps for SO2{.tabset .tabset-fade}
+
+Visualize trends of SO2 over time
+
+##### Residential
+```{r, echo=T, eval=F}
+mapGif3d(Map_Data = India_coords, 
+         City_Pollution_Data = Pollution_Data_City, 
+         metric = "SO2", 
+         location_type = "Residential", 
+         aggregator = "Year")
+```
+
+![SO2 levels for Residential areas](D:\\Datasets\\India\\Gif_Stills\\Level_SO2_Residential_Year.gif)
+
+##### Industrial
+```{r, echo=T, eval=F}
+mapGif3d(Map_Data = India_coords, 
+         City_Pollution_Data = Pollution_Data_City, 
+         metric = "SO2", 
+         location_type = "Industrial", 
+         aggregator = "Year")
+```
+
+![SO2 levels for Industrial areas](D:\\Datasets\\India\\Gif_Stills\\Level_SO2_Industrial_Year.gif)
+
+#### Plot Pollution maps for NO2{.tabset .tabset-fade}
+
+Visualize trends of NO2 over time
+
+##### Residential
+```{r, echo=T, eval=F}
+mapGif3d(Map_Data = India_coords, 
+         City_Pollution_Data = Pollution_Data_City, 
+         metric = "NO2", 
+         location_type = "Residential", 
+         aggregator = "Year")
+```
+
+![NO2 levels for Residential areas](D:\\Datasets\\India\\Gif_Stills\\Level_NO2_Residential_Year.gif)
+
+##### Industrial
+```{r, echo=T, eval=F}
+mapGif3d(Map_Data = India_coords, 
+         City_Pollution_Data = Pollution_Data_City, 
+         metric = "NO2", 
+         location_type = "Industrial", 
+         aggregator = "Year")
+```
+
+![SO2 levels for Industrial areas](D:\\Datasets\\India\\Gif_Stills\\Level_NO2_Industrial_Year.gif)
+
+#### Monthly Pollution trends
+Next, let's plot monthly pollution trends over the course of a year
+
+#### Plot Pollution maps for SO2{.tabset .tabset-fade}
+
+Visualize trends of SO2 over the months of a year
+
+##### Residential
+```{r, echo=T, eval=F}
+mapGif3d(Map_Data = India_coords, 
+         City_Pollution_Data = Pollution_Data_City, 
+         metric = "SO2", 
+         location_type = "Residential", 
+         aggregator = "Month")
+```
+
+![SO2 levels for Residential areas](D:\\Datasets\\India\\Gif_Stills\\Level_SO2_Residential_Month.gif)
+
+##### Industrial
+```{r, echo=T, eval=F}
+mapGif3d(Map_Data = India_coords, 
+         City_Pollution_Data = Pollution_Data_City, 
+         metric = "SO2", 
+         location_type = "Industrial", 
+         aggregator = "Month")
+```
+
+![SO2 levels for Industrial areas](D:\\Datasets\\India\\Gif_Stills\\Level_SO2_Industrial_Month.gif)
+
+#### Plot Pollution maps for NO2{.tabset .tabset-fade}
+
+Visualize trends of NO2 over time
+
+##### Residential
+```{r, echo=T, eval=F}
+mapGif3d(Map_Data = India_coords, 
+         City_Pollution_Data = Pollution_Data_City, 
+         metric = "NO2", 
+         location_type = "Residential", 
+         aggregator = "Month")
+```
+
+![NO2 levels for Residential areas](D:\\Datasets\\India\\Gif_Stills\\Level_NO2_Residential_Month.gif)
+
+##### Industrial
+```{r, echo=T, eval=F}
+mapGif3d(Map_Data = India_coords, 
+         City_Pollution_Data = Pollution_Data_City, 
+         metric = "NO2", 
+         location_type = "Industrial", 
+         aggregator = "Month")
+```
+
+![NO2 levels for Residential areas](D:\\Datasets\\India\\Gif_Stills\\Level_NO2_Industrial_Month.gif)
+
+## Travel
+In this section, we look at travel related data and try to gather insights
+
+### Passport Seva Kendra
+*Passport Seva Kendra*s (literally, Passport Service Centres) are government operated agencies that handle passport service applications for the citizens of the country. The dataset we have is a record of the total number of passport applications handled by all the Regional Passport Offices (which control all PSKs under their jurisdiction), grouped by various categories. The dataset is an ideal type to chart using alluvial diagrams so let's get cracking.
+
+#### Data morphing
+The dataset will need to be inspected and converted into either a wide or long format to be amenable to the ggalluvial package.
+```{r, echo=T, eval=T}
+# Load dataset
+PSK_Data <- fread(file = paste(travel_folder, "PassportSeva_1_1.csv", sep = ""))
+# Inspect
+head(PSK_Data)
+```
+
+We see that the data consists of Category of Application received, the location of the RPO and the subcategory of the application received along with the counts for the last week, month and year. A date column is also present, which has two dates (one in Jul-2018 and another in Dec-2016). For the purpose of demonstration, we assume that all numbers are recorded on the same date and leave out the Date column and only consider the count for the preceding Year
+Before we transform the data, we need to ensure that the counts under each category for each RPO are the same, in order to avoid mismatch of counts in the alluvial diagram. Since a fiel
+```{r, echo=T, eval=T}
+# Recode ServiceNames
+PSK_Data[, ServiceName := recode(ServiceName,
+                                 "Applications Received - Scheme wise" = "Scheme",
+                                 "Applications Received - Gender wise" = "Sex",
+                                 "Applications with Aadhaar Number" = "Aadhaar",
+                                 "Applications - Education Wise" = "Education",
+                                 "Applications - Age Wise Wise" = "Age",
+                                 "Application Fee Online Payment - Mode Wise" = "Payment",
+                                 "Applications Received - Service Wise" = "Service",
+                                 "Applications Granted - PV Mode wise" = "PV",
+                                 "PV Processing Time" = "PV Time")]
+# Recode SchemeType
+PSK_Data[, SchemeType := recode(SchemeType,
+                                "Count of Applications" = "Aadhaar_Applications",
+                                "10TH PASS AND ABOVE" = "10th_to_12th",
+                                "5TH PASS OR LESS" = "LT_5th",
+                                "BETWEEN 6TH AND 9TH STANDARD" = "6th_to_9th",
+                                "GRADUATE AND ABOVE" = "GT_Graduate",
+                                "Between_18_to_35" = "18_to_35",
+                                "Between_36_to_60" = "36_to_60",
+                                "GreaterThan60" = "GT_60",
+                                "LessThan18" = "LT_18",
+                                "Credit/ Debit Card" = "Card",
+                                "More than 21 Days" = "PV_GT_21d",
+                                "Within 21 Days" = "PV_LT_21d")]
+# Convert the long to wide format with RPO Name and Scheme Type as axes to see if all service types sum to the same number
+PSK_Wide <- PSK_Data %>%
+  # Combine Scheme and Service to be able to use later for arranging
+  mutate(SchemeType = paste(ServiceName, SchemeType, sep = "_")) %>%
+  # Cast having RPO and Service  name on one axis and Scheme Type on another, aggregating counts
+  dcast(formula = RpoName + ServiceName ~ SchemeType, 
+        fun.aggregate = sum, 
+        value.var = "YearTillDate") %>%
+  # Convert to Data Table
+  as.data.table() %>%
+  # Sum each row to get total application for each RPO and Service
+  .[, Total := rowSums(.SD, na.rm = T), .SDcols = !c("RpoName", "ServiceName")] %>%
+  # Filter out Payment as its a monetary amount
+  dplyr::filter(ServiceName != "Payment") %>%
+  as.data.table() %>%
+  # Find Max count by Location as Different schemes have different counts
+  .[, Max := max(Total), by = RpoName] %>%
+  # Create a column to store difference between max and that specfic Service count
+  .[, Diff := Max - Total] %>%
+  # Create a column to store names of new columns to be created with diff values
+  .[, Diff_Name := paste(ServiceName, "Diff", sep = "_")] %>%
+  # Convert the Diff amounts to columns
+  spread(key = Diff_Name, value = Diff, fill = NA) %>%
+  # Drop total columns
+  dplyr::select(-one_of(c("Total", "Max"))) %>%
+  # convert to long format
+  gather(key = Scheme, value = Count, -RpoName, -ServiceName) %>%
+  # Store first word in Scheme in new column
+  mutate(Service = gsub("_.*", replacement = "", Scheme)) %>%
+  # Filter out columns where Service Name does not match Service
+  filter(ServiceName == Service) %>%
+  as.data.table() %>%
+  # Remove Service column
+  dplyr::select(-Service) %>%
+  # Arrange by Location, Service and Scheme
+  arrange(RpoName, ServiceName, Scheme) %>%
+  # cast Service into columns
+  dcast(formula = RpoName + Scheme + Count ~ ServiceName,
+        value.var = "Count")
+# Sum counts for location and Service
+PSK_Lode <- PSK_Wide %>% 
+  group_by(RpoName) %>%
+  summarise(Count = sum(Count, na.rm = T)/length(unique(ServiceName))) %>%
+  mutate(ServiceName = "RpoName", Scheme = RpoName) %>%
+  rbind(PSK_Wide) %>%
+  as.data.table() %>%
+  dplyr::select(-one_of("RpoName")) %>%
+  mutate(Cohort = seq.int(from = 1, to = nrow(.), by = 1))
+```
+ We finally have our data frame!
+ 
+### Issuance of Visa
+The Ministry of Foreign Affairs has compiled a record of all visas issued by category between the years of 2010 to 2013. This dataset, with some manipulation, is a good one to build an alluvial diagram on. Let's gt cracking!
+
+```{r, echo=T, eval=T}
+# load in dataset
+VISA_Data <- fread(input = paste(travel_folder, "VISA_Details_2010-2013-oct.csv", sep = ""))
+# Inspect
+head(VISA_Data)
+```
+The data has two columns representing the country and consulate, a date column and 21 columns denoting various types of visa. We will need to transform the dataset to be able to plot an alluvial chart
+```{r, echo=T, eval=T}
+# Begin transformation (sounds like a superhero catchphrase)
+VISA_wide <- VISA_Data %>%
+  # Typecast Date column as Date
+  mutate(`VISA ISSUE DATE` = as.Date(`VISA ISSUE DATE`, format = "%d-%m-%y")) %>%
+  # Add a Year column
+  mutate(Year = year(`VISA ISSUE DATE`)) %>%
+  # gather all Visa type columns
+  gather(key = Visa_Type, value = Count, -COUNTRY, -MISSION, -`VISA ISSUE DATE`, -Year) %>%
+  # Aggregate by Country, Mission, Year
+  group_by(COUNTRY, MISSION, Year, Visa_Type) %>%
+  summarise(Count = sum(Count, na.rm = T)) %>%
+  # remove country name from Mission location
+  ungroup() %>%
+  rowwise() %>%
+  mutate(MISSION = gsub(pattern = COUNTRY, replacement = "", x = MISSION)) %>%
+  mutate(MISSION = gsub(pattern = "-", replacement = "", x = MISSION)) %>%
+  ungroup()
+```
+
+We now have an aggregated data frame from which we can build an alluvial diagram
+
+#### Viz `r i` - Alluvial Diagram
+The alluvial diagram we are going to build will have Country, Year and Visa Type as axes and counts as the alluvia
+
+```{r, echo=T, eval=T}
+# Aggregate data frame at country level
+VISA_Data_Country <- VISA_wide %>%
+  group_by(COUNTRY, Year, Visa_Type) %>%
+  summarise(Count = sum(Count, na.rm = T)) %>%
+  ungroup() %>%
+  mutate(COUNTRY = recode(COUNTRY, "CZECH" = "CZECH REPUBLIC")) %>%
+  mutate(Continent = countrycode(sourcevar = COUNTRY, 
+                                 origin = "country.name", 
+                                 destination = "continent")) %>%
+  mutate(Visa_Type = recode(Visa_Type, 
+                            "ART SURROGACY" = "MEDICAL VISA",
+                            "MEDICAL ATTENDENT VISA" = "MEDICAL VISA",
+                            "BUS VISA INDSPOUSE" = "BUSINESS VISA",
+                            "BUSINESS VISA TRANSFER" = "BUSINESS VISA",
+                            "PROJECT VISA" = "BUSINESS VISA",
+                            "CONFERENCE VISA" = "RESEARCH VISA",
+                            "DIPLOMATIC DEPENDANT VISA" = "DIPLOMATIC VISA",
+                            "EMPLOYMENT VISA INDSPOUSE" = "EMPLOYMENT VISA",
+                            "VISIT VISA" = "TOURIST VISA",
+                            "ENTRY VISA" = "TOURIST VISA",
+                            "LONG TERM VISA TRANSFER" = "EMPLOYMENT VISA",
+                            "MISSIONARY VISA" = "RELIGIOUS VISA",
+                            "PILGRIMAGE VISA" = "RELIGIOUS VISA"))
+
+# Plot chart
+ggplot(data = VISA_Data_Country, 
+       aes(y = Count, 
+           axis1 = Continent,
+           axis2 = Year, 
+           axis3 = Visa_Type)) +
+  geom_alluvium(aes(fill = as.factor(Year))) +
+  geom_stratum(width = 1/6, 
+               fill = "green", 
+               colour = "black") +
+  geom_label(stat = "stratum", label.strata  = T) +
+  scale_x_discrete(limits = c("Country", "Year", "Visa Type")) +
+  scale_fill_viridis(option = "viridis", discrete = T) +
+  labs(title = "Visa Issuance",
+       colour = "Year") +
+  theme_economist()
+```
+
+
+
+
+## Education
+We shift our sights to the Education sector now. 
+
+### School Facilities
+Data has been gathered on presence of baic amenities in schools in India, the amenities being toilets for girls, toilets for girls, schools with an electricity supply, with computers and drinking water. These are in separate files and hence we need to first combine them. 
+The above data is in percentage and even after navigating through the mess of a website that is http://data.gov.in, I could not find any data on the total number of schools. Hence, we load a separate dataset for Ministry of Statistics and Programme Implementation, which contains state wise figures for total number of schools.  
+
+#### Data morphing
+```{r, echo=T, eval=T}
+# read in all files
+list_files <- list.files(path = education_folder, pattern = "schools_with.*", full.names = T)
+list_data <- lapply(list_files, function(x){fread(input = x)})
+names(list_data) <- list_files
+School_Data <- rbindlist(l = list_data, idcol = T)
+# Recode ID column
+School_Data[, .id := gsub(pattern = "D:\\\\Datasets\\\\India\\\\Education\\\\schools_with_", 
+                         replacement = "", x = .id)]
+School_Data[, .id :=  gsub(pattern = ".csv", replacement = "", x = .id)]
+
+# Load data on absolute numbers
+School_Total <- read.xlsx(xlsxFile = paste(education_folder, "Table 29.1_3.xlsx", sep = ""), 
+                          sheet = "29.1 (A) All India", startRow = 6, skipEmptyRows = T, check.names = F)
+# Select relevant rows
+School_Total <- School_Total %>%
+  dplyr::select(Year, `Total.of.All.Schools#`) %>%
+  filter(Year %in% c("2013-14", "2014-15", "2015-16")) %>%
+  mutate(Total = `Total.of.All.Schools#`) %>%
+  dplyr::select(Year, Total)
+# Aggregate at the year level for All Schools percentage
+School_Agg <- School_Data %>% 
+  filter(State_UT == "All India") %>%
+  mutate(Facility = .id) %>%
+  group_by(Facility, year) %>%
+  summarise(Percent = mean(`All Schools`, na.rm = T)) %>%
+  left_join(y = School_Total, by = c("year" = "Year")) %>%
+  mutate(Count = (Percent * as.numeric(Total))/100) %>%
+  dplyr::select(Facility, year, Count)
+```
+
+#### Viz `r i` - Chord Diagram of availablity of basic facilities in schools
+We plot a chord diagram of availablility of the five basic amenities for a period of three years. The values are the percentage of schools that have that facility
+```{r, echo=T, eval=T}
+# Set grid colors
+col_grid = c("2013-14" = "chartreuse1", "2014-15" = "firebrick3", "2015-16" = "turquoise2")
+chordDiagram(School_Agg[, c("year", "Facility", "Count")], 
+             order = c(unique(School_Agg$year), unique(School_Agg$Facility)),
+             grid.col = col_grid)
+title(main = "Number of schools having basic facilities", cex = 0.5)
+```

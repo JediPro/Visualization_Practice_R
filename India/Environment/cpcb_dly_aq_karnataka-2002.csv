@@ -1,0 +1,66 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+77,January - M012002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,18.7,23.7,NA,76
+77,February - M022002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,12.9,28.1,NA,68
+77,March - M032002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,11.9,27.1,NA,87
+77,April - M042002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,14.3,31,NA,121
+77,May - M052002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,13.1,28.6,NA,84
+77,June - M062002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,29.1,24.2,NA,96
+77,July - M072002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,35.6,13.3,NA,99
+77,August - M082002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,15,6,NA,86
+77,September - M092002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,12.4,8.1,NA,98
+77,October - M102002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,12.9,10.7,NA,65
+77,November - M112002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,12.3,17.1,NA,74
+77,December - M122002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,11.2,16.5,NA,88
+77,Annual - M132002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,17,19.4,NA,86
+78,January - M012002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,11.4,21.9,NA,129
+78,February - M022002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,12.4,25.8,NA,125
+78,March - M032002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,11,27.9,NA,127
+78,April - M042002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,12.8,29.4,NA,128
+78,May - M052002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,11.8,26.9,NA,78
+78,June - M062002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,12.8,26.4,NA,58
+78,July - M072002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,12.5,17.3,NA,67
+78,August - M082002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,8.1,18.9,NA,57
+78,September - M092002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,5.8,20.7,NA,61
+78,October - M102002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,19.7,26.1,NA,96
+78,November - M112002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,15.4,26,NA,159
+78,December - M122002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,11.2,53.7,NA,156
+78,Annual - M132002,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,12.1,26.7,NA,101
+79,January - M012002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",11.2,29,NA,200
+79,February - M022002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",11.9,25.9,NA,185
+79,March - M032002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",12.1,28,NA,180
+79,April - M042002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",12.6,29,NA,159
+79,May - M052002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",11.9,25.3,NA,132
+79,June - M062002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",10.2,24.3,NA,102
+79,July - M072002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",9.9,18.5,NA,97
+79,August - M082002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",10.6,24.1,NA,98
+79,September - M092002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",10.8,24.8,NA,105
+79,October - M102002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",15.8,25.3,NA,103
+79,November - M112002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",9.6,49.7,NA,127
+79,December - M122002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",6.2,52.4,NA,163
+79,Annual - M132002,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",11.2,30.3,NA,139
+40,January - M012002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,15.7,27.8,NA,16
+40,February - M022002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,15.3,27,NA,14
+40,March - M032002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,14.4,26.4,NA,25
+40,April - M042002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,23.4,27.6,NA,18
+40,May - M052002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,22,27.9,NA,13
+40,June - M062002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,24.6,28.6,NA,25
+40,July - M072002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,23,29.2,NA,16
+40,August - M082002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,22.9,27.6,NA,15
+40,September - M092002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,22,26.8,NA,8
+40,October - M102002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,20.3,26,NA,8
+40,November - M112002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,21.1,27.1,NA,8
+40,December - M122002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,18.4,26.1,NA,20
+40,Annual - M132002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,20.4,27.5,NA,16
+41,January - M012002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,18.2,29.2,NA,14
+41,February - M022002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,14.8,26.9,NA,8
+41,March - M032002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,14.7,26.5,NA,8
+41,April - M042002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,23.3,29.8,NA,8
+41,May - M052002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,24.3,29,NA,21
+41,June - M062002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,22.1,28.1,NA,15
+41,July - M072002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,23.5,29,NA,8
+41,August - M082002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,19.8,28.9,NA,13
+41,September - M092002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,22.1,28.6,NA,8
+41,October - M102002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,20,26.6,NA,8
+41,November - M112002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,22.2,25.8,NA,19
+41,December - M122002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,19.1,25.5,NA,8
+41,Annual - M132002,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,20.6,28,NA,12

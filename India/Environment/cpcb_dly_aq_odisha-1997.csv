@@ -1,0 +1,85 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+70,January - M011997,Orissa,Angul,Orissa Pollution Control Board,"Residential, Rural and other Areas",22.5,23.5,NA,4
+229,January - M011997,Orissa,Rourkela,Orissa Pollution Control Board,NA,11.4,13.8,NA,4
+231,January - M011997,Orissa,Nalco,Orissa Pollution Control Board,NA,12.8,10.4,NA,4
+228,January - M011997,Orissa,Rourkela,Orissa Pollution Control Board,NA,8.4,10,NA,4
+68,January - M011997,Orissa,Talcher,Orissa Pollution Control Board,Industrial Area,9.2,7.1,NA,4
+226,January - M011997,Orissa,Rourkela,Orissa Pollution Control Board,NA,40.4,20.3,NA,273
+227,January - M011997,Orissa,Rourkela,Orissa Pollution Control Board,NA,50,14,NA,206
+228,February - M021997,Orissa,Rourkela,Orissa Pollution Control Board,NA,8.6,10.1,NA,92
+229,February - M021997,Orissa,Rourkela,Orissa Pollution Control Board,NA,9,14.5,NA,194
+70,February - M021997,Orissa,Angul,Orissa Pollution Control Board,"Residential, Rural and other Areas",NA,NA,NA,231
+68,February - M021997,Orissa,Talcher,Orissa Pollution Control Board,Industrial Area,9.5,11.5,NA,118
+231,February - M021997,Orissa,Nalco,Orissa Pollution Control Board,NA,NA,NA,NA,136
+226,February - M021997,Orissa,Rourkela,Orissa Pollution Control Board,NA,40.1,27.3,NA,214
+227,February - M021997,Orissa,Rourkela,Orissa Pollution Control Board,NA,48.5,15.9,NA,204
+228,March - M031997,Orissa,Rourkela,Orissa Pollution Control Board,NA,9.4,12.9,NA,111
+229,March - M031997,Orissa,Rourkela,Orissa Pollution Control Board,NA,16.6,18,NA,213
+70,March - M031997,Orissa,Angul,Orissa Pollution Control Board,"Residential, Rural and other Areas",NA,NA,NA,132
+68,March - M031997,Orissa,Talcher,Orissa Pollution Control Board,Industrial Area,11.8,9.7,NA,153
+231,March - M031997,Orissa,Nalco,Orissa Pollution Control Board,NA,NA,NA,NA,152
+226,March - M031997,Orissa,Rourkela,Orissa Pollution Control Board,NA,28.3,28.2,NA,243
+227,March - M031997,Orissa,Rourkela,Orissa Pollution Control Board,NA,35,11.9,NA,294
+228,April - M041997,Orissa,Rourkela,Orissa Pollution Control Board,NA,14,14.1,NA,115
+229,April - M041997,Orissa,Rourkela,Orissa Pollution Control Board,NA,9.8,13.4,NA,70
+70,April - M041997,Orissa,Angul,Orissa Pollution Control Board,"Residential, Rural and other Areas",NA,NA,NA,97
+68,April - M041997,Orissa,Talcher,Orissa Pollution Control Board,Industrial Area,NA,NA,NA,212
+231,April - M041997,Orissa,Nalco,Orissa Pollution Control Board,NA,NA,NA,NA,116
+226,April - M041997,Orissa,Rourkela,Orissa Pollution Control Board,NA,20.3,24.5,NA,154
+227,April - M041997,Orissa,Rourkela,Orissa Pollution Control Board,NA,29.4,12.7,NA,151
+228,May - M051997,Orissa,Rourkela,Orissa Pollution Control Board,NA,16.4,21.6,NA,83
+229,May - M051997,Orissa,Rourkela,Orissa Pollution Control Board,NA,24.7,27.8,NA,210
+70,May - M051997,Orissa,Angul,Orissa Pollution Control Board,"Residential, Rural and other Areas",NA,NA,NA,98
+68,May - M051997,Orissa,Talcher,Orissa Pollution Control Board,Industrial Area,NA,NA,NA,219
+231,May - M051997,Orissa,Nalco,Orissa Pollution Control Board,NA,NA,NA,NA,123
+226,May - M051997,Orissa,Rourkela,Orissa Pollution Control Board,NA,14.1,26,NA,168
+227,May - M051997,Orissa,Rourkela,Orissa Pollution Control Board,NA,18,17.5,NA,180
+228,June - M061997,Orissa,Rourkela,Orissa Pollution Control Board,NA,17.2,21.9,NA,101
+229,June - M061997,Orissa,Rourkela,Orissa Pollution Control Board,NA,16.5,21.1,NA,127
+70,June - M061997,Orissa,Angul,Orissa Pollution Control Board,"Residential, Rural and other Areas",NA,NA,NA,100
+68,June - M061997,Orissa,Talcher,Orissa Pollution Control Board,Industrial Area,NA,NA,NA,212
+231,June - M061997,Orissa,Nalco,Orissa Pollution Control Board,NA,NA,NA,NA,83
+226,June - M061997,Orissa,Rourkela,Orissa Pollution Control Board,NA,17.8,24.8,NA,107
+227,June - M061997,Orissa,Rourkela,Orissa Pollution Control Board,NA,16,22.3,NA,150
+228,July - M071997,Orissa,Rourkela,Orissa Pollution Control Board,NA,8.7,13.1,NA,101
+229,July - M071997,Orissa,Rourkela,Orissa Pollution Control Board,NA,14.9,19.2,NA,116
+70,July - M071997,Orissa,Angul,Orissa Pollution Control Board,"Residential, Rural and other Areas",NA,NA,NA,93
+68,July - M071997,Orissa,Talcher,Orissa Pollution Control Board,Industrial Area,NA,NA,NA,175
+231,July - M071997,Orissa,Nalco,Orissa Pollution Control Board,NA,NA,NA,NA,81
+226,July - M071997,Orissa,Rourkela,Orissa Pollution Control Board,NA,21,28.8,NA,78
+227,July - M071997,Orissa,Rourkela,Orissa Pollution Control Board,NA,17.5,30.1,NA,110
+228,August - M081997,Orissa,Rourkela,Orissa Pollution Control Board,NA,9.7,14.2,NA,82
+70,August - M081997,Orissa,Angul,Orissa Pollution Control Board,"Residential, Rural and other Areas",NA,NA,NA,86
+68,August - M081997,Orissa,Talcher,Orissa Pollution Control Board,Industrial Area,NA,NA,NA,72
+231,August - M081997,Orissa,Nalco,Orissa Pollution Control Board,NA,NA,NA,NA,86
+226,August - M081997,Orissa,Rourkela,Orissa Pollution Control Board,NA,21,32.6,NA,69
+227,August - M081997,Orissa,Rourkela,Orissa Pollution Control Board,NA,19.3,27,NA,92
+229,August - M081997,Orissa,Rourkela,Orissa Pollution Control Board,NA,10.5,17.8,NA,111
+228,September - M091997,Orissa,Rourkela,Orissa Pollution Control Board,NA,13.8,18.2,NA,40
+70,September - M091997,Orissa,Angul,Orissa Pollution Control Board,"Residential, Rural and other Areas",NA,NA,NA,68
+68,September - M091997,Orissa,Talcher,Orissa Pollution Control Board,Industrial Area,NA,NA,NA,94
+231,September - M091997,Orissa,Nalco,Orissa Pollution Control Board,NA,NA,NA,NA,33
+226,September - M091997,Orissa,Rourkela,Orissa Pollution Control Board,NA,18.1,27,NA,94
+227,September - M091997,Orissa,Rourkela,Orissa Pollution Control Board,NA,17.1,25.8,NA,77
+229,September - M091997,Orissa,Rourkela,Orissa Pollution Control Board,NA,14.1,24.8,NA,88
+228,October - M101997,Orissa,Rourkela,Orissa Pollution Control Board,NA,11.6,19.6,NA,95
+70,October - M101997,Orissa,Angul,Orissa Pollution Control Board,"Residential, Rural and other Areas",NA,NA,NA,111
+68,October - M101997,Orissa,Talcher,Orissa Pollution Control Board,Industrial Area,NA,NA,NA,217
+231,October - M101997,Orissa,Nalco,Orissa Pollution Control Board,NA,NA,NA,NA,91
+226,October - M101997,Orissa,Rourkela,Orissa Pollution Control Board,NA,22.3,25.2,NA,106
+227,October - M101997,Orissa,Rourkela,Orissa Pollution Control Board,NA,NA,NA,NA,90
+229,October - M101997,Orissa,Rourkela,Orissa Pollution Control Board,NA,10.1,23,NA,84
+228,November - M111997,Orissa,Rourkela,Orissa Pollution Control Board,NA,7.4,14.2,NA,109
+70,November - M111997,Orissa,Angul,Orissa Pollution Control Board,"Residential, Rural and other Areas",NA,NA,NA,164
+68,November - M111997,Orissa,Talcher,Orissa Pollution Control Board,Industrial Area,NA,NA,NA,119
+231,November - M111997,Orissa,Nalco,Orissa Pollution Control Board,NA,NA,NA,NA,113
+226,November - M111997,Orissa,Rourkela,Orissa Pollution Control Board,NA,26.2,15,NA,206
+227,November - M111997,Orissa,Rourkela,Orissa Pollution Control Board,NA,25.1,29.6,NA,142
+229,November - M111997,Orissa,Rourkela,Orissa Pollution Control Board,NA,21.3,25.5,NA,118
+228,December - M121997,Orissa,Rourkela,Orissa Pollution Control Board,NA,10.6,14.7,NA,112
+70,December - M121997,Orissa,Angul,Orissa Pollution Control Board,"Residential, Rural and other Areas",16,15.4,NA,106
+68,December - M121997,Orissa,Talcher,Orissa Pollution Control Board,Industrial Area,12.7,27.3,NA,124
+231,December - M121997,Orissa,Nalco,Orissa Pollution Control Board,NA,12.5,8.8,NA,86
+226,December - M121997,Orissa,Rourkela,Orissa Pollution Control Board,NA,29,26.1,NA,170
+227,December - M121997,Orissa,Rourkela,Orissa Pollution Control Board,NA,40.6,16.2,NA,115
+229,December - M121997,Orissa,Rourkela,Orissa Pollution Control Board,NA,14.1,17.4,NA,77

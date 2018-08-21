@@ -1,0 +1,82 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+162,January - M012000,West Bengal,Calcutta,NA,Industrial Area,60.8,65.6,NA,641
+163,January - M012000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",37.9,50.1,NA,367
+164,January - M012000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",23.7,44,NA,401
+14,January - M012000,West Bengal,Haldia,CMEC,Industrial Area,41.9,50.8,NA,149
+15,January - M012000,West Bengal,Haldia,CMEC,Industrial Area,50,62.1,NA,207
+162,February - M022000,West Bengal,Calcutta,NA,Industrial Area,44.1,44.3,NA,449
+163,February - M022000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",18.7,35.5,NA,368
+164,February - M022000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",18.7,40.1,NA,390
+14,February - M022000,West Bengal,Haldia,CMEC,Industrial Area,32.1,43.2,NA,82
+15,February - M022000,West Bengal,Haldia,CMEC,Industrial Area,39.8,49.8,NA,163
+162,March - M032000,West Bengal,Calcutta,NA,Industrial Area,29.3,43.7,NA,625
+163,March - M032000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",11.5,39,NA,397
+164,March - M032000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",12.8,25.6,NA,359
+14,March - M032000,West Bengal,Haldia,CMEC,Industrial Area,32.1,41.7,NA,89
+15,March - M032000,West Bengal,Haldia,CMEC,Industrial Area,41.3,52.8,NA,189
+162,April - M042000,West Bengal,Calcutta,NA,Industrial Area,11.8,36.4,NA,379
+163,April - M042000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",6,21.6,NA,236
+164,April - M042000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",6.3,11.9,NA,149
+14,April - M042000,West Bengal,Haldia,CMEC,Industrial Area,36.1,55.1,NA,101
+15,April - M042000,West Bengal,Haldia,CMEC,Industrial Area,44,53,NA,172
+162,May - M052000,West Bengal,Calcutta,NA,Industrial Area,13,38.2,NA,268
+163,May - M052000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",8.9,21.5,NA,255
+164,May - M052000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",7.5,12.4,NA,173
+14,May - M052000,West Bengal,Haldia,CMEC,Industrial Area,42.9,93.7,NA,59
+15,May - M052000,West Bengal,Haldia,CMEC,Industrial Area,33.6,97.2,NA,118
+162,June - M062000,West Bengal,Calcutta,NA,Industrial Area,23.9,40,NA,313
+163,June - M062000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",8.4,27.3,NA,209
+164,June - M062000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",6.7,16.4,NA,117
+8,June - M062000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,9.5,40.1,NA,75
+9,June - M062000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,8.3,27.9,NA,65
+11,June - M062000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,7,33.5,NA,65
+14,June - M062000,West Bengal,Haldia,CMEC,Industrial Area,20.6,86.7,NA,46
+15,June - M062000,West Bengal,Haldia,CMEC,Industrial Area,37.3,126.6,NA,103
+162,July - M072000,West Bengal,Calcutta,NA,Industrial Area,22.3,39.4,NA,271
+163,July - M072000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",8.8,25.6,NA,194
+164,July - M072000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",8.1,17.5,NA,142
+8,July - M072000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,7.2,37.8,NA,68
+9,July - M072000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,7.6,31.4,NA,64
+11,July - M072000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,7.8,37.9,NA,82
+14,July - M072000,West Bengal,Haldia,CMEC,Industrial Area,20.2,55.4,NA,30
+15,July - M072000,West Bengal,Haldia,CMEC,Industrial Area,22.2,64.9,NA,87
+162,August - M082000,West Bengal,Calcutta,NA,Industrial Area,26.6,36.1,NA,230
+163,August - M082000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",10.7,21.2,NA,191
+164,August - M082000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",13.4,15.2,NA,148
+8,August - M082000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,7.8,36.2,NA,71
+9,August - M082000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,7.4,35.3,NA,67
+11,August - M082000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,7,33.7,NA,63
+14,August - M082000,West Bengal,Haldia,CMEC,Industrial Area,14.7,48.2,NA,21
+15,August - M082000,West Bengal,Haldia,CMEC,Industrial Area,22.5,79.2,NA,98
+162,September - M092000,West Bengal,Calcutta,NA,Industrial Area,12.8,33.7,NA,262
+163,September - M092000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",8.1,26.4,NA,218
+164,September - M092000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",7.5,22.9,NA,143
+8,September - M092000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,7.6,40,NA,109
+9,September - M092000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,8.4,39.5,NA,97
+11,September - M092000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,6.2,31.3,NA,64
+14,September - M092000,West Bengal,Haldia,CMEC,Industrial Area,12.9,54.4,NA,27
+15,September - M092000,West Bengal,Haldia,CMEC,Industrial Area,39.8,98.8,NA,114
+162,October - M102000,West Bengal,Calcutta,NA,Industrial Area,9.3,36.7,NA,292
+163,October - M102000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",9.1,36.7,NA,238
+164,October - M102000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",10.3,28.2,NA,174
+8,October - M102000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,17.4,77.1,NA,152
+9,October - M102000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,18.9,63.9,NA,107
+11,October - M102000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,11.8,43.6,NA,86
+14,October - M102000,West Bengal,Haldia,CMEC,Industrial Area,18.9,64.7,NA,25
+15,October - M102000,West Bengal,Haldia,CMEC,Industrial Area,25.3,93.3,NA,122
+162,November - M112000,West Bengal,Calcutta,NA,Industrial Area,28,63.9,NA,600
+163,November - M112000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",16.8,44.2,NA,334
+164,November - M112000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",13.3,38.1,NA,338
+8,November - M112000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,20,83,NA,191
+9,November - M112000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,19.1,67.6,NA,171
+11,November - M112000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,15.8,50.7,NA,148
+14,November - M112000,West Bengal,Haldia,CMEC,Industrial Area,16.3,62,NA,67
+15,November - M112000,West Bengal,Haldia,CMEC,Industrial Area,27.2,68.8,NA,169
+162,December - M122000,West Bengal,Calcutta,NA,Industrial Area,23.7,53.3,NA,535
+163,December - M122000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",34.1,52.1,NA,535
+164,December - M122000,West Bengal,Calcutta,NA,"Residential, Rural and other Areas",17.6,51.2,NA,435
+8,December - M122000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,24.1,93.2,NA,317
+9,December - M122000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,21.5,75,NA,275
+11,December - M122000,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial Area,19.1,66.2,NA,269
+14,December - M122000,West Bengal,Haldia,CMEC,Industrial Area,15.2,67.9,NA,89
+15,December - M122000,West Bengal,Haldia,CMEC,Industrial Area,27.9,89,NA,213

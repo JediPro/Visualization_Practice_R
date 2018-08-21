@@ -1,0 +1,84 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+44,January - M011997,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",34.7,48.9,NA,202
+45,January - M011997,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,38.9,51.7,NA,454
+46,January - M011997,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,36.8,49.5,NA,256
+172,January - M011997,Bihar,Jamshedpur,NA,Industrial Area,51.4,71.1,NA,151
+174,January - M011997,Bihar,Jamshedpur,NA,"Residential, Rural and other Areas",54.4,70.8,NA,146
+210,January - M011997,Bihar,Patna,Bihar Pollution Control Board,NA,10.7,30.2,NA,370
+284,January - M011997,Bihar,Patna,Bihar Sate Pollution Control Board,"Residential, Rural and other Areas",26.4,37.6,NA,612
+45,February - M021997,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,43.5,55.2,NA,395
+44,February - M021997,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",34.6,44.8,NA,175
+46,February - M021997,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,35.3,59.3,NA,171
+174,February - M021997,Bihar,Jamshedpur,NA,"Residential, Rural and other Areas",39.8,53.8,NA,151
+172,February - M021997,Bihar,Jamshedpur,NA,Industrial Area,41.3,52.5,NA,149
+210,February - M021997,Bihar,Patna,Bihar Pollution Control Board,NA,22.1,20,NA,318
+284,February - M021997,Bihar,Patna,Bihar Sate Pollution Control Board,"Residential, Rural and other Areas",34.4,38.7,NA,476
+44,March - M031997,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",41.1,47.7,NA,231
+45,March - M031997,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,46.9,61,NA,565
+46,March - M031997,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,47.1,59.7,NA,218
+174,March - M031997,Bihar,Jamshedpur,NA,"Residential, Rural and other Areas",37,49.5,NA,191
+172,March - M031997,Bihar,Jamshedpur,NA,Industrial Area,36.6,45.4,NA,200
+210,March - M031997,Bihar,Patna,Bihar Pollution Control Board,NA,29.6,24,NA,371
+284,March - M031997,Bihar,Patna,Bihar Sate Pollution Control Board,"Residential, Rural and other Areas",48.9,45,NA,817
+46,April - M041997,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,51.4,56.1,NA,188
+44,April - M041997,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",46.9,40,NA,212
+45,April - M041997,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,55.6,59.2,NA,320
+174,April - M041997,Bihar,Jamshedpur,NA,"Residential, Rural and other Areas",38.5,49.9,NA,156
+172,April - M041997,Bihar,Jamshedpur,NA,Industrial Area,40.1,47.9,NA,177
+210,April - M041997,Bihar,Patna,Bihar Pollution Control Board,NA,10.6,16,NA,328
+284,April - M041997,Bihar,Patna,Bihar Sate Pollution Control Board,"Residential, Rural and other Areas",29.8,29.4,NA,253
+44,May - M051997,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",39.2,56,NA,172
+45,May - M051997,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,49.4,51.1,NA,356
+46,May - M051997,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,47.6,55.7,NA,222
+174,May - M051997,Bihar,Jamshedpur,NA,"Residential, Rural and other Areas",36.7,47.4,NA,157
+172,May - M051997,Bihar,Jamshedpur,NA,Industrial Area,37.6,46.4,NA,189
+210,May - M051997,Bihar,Patna,Bihar Pollution Control Board,NA,13.3,17.3,NA,263
+284,May - M051997,Bihar,Patna,Bihar Sate Pollution Control Board,"Residential, Rural and other Areas",28.2,32.8,NA,794
+44,June - M061997,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",34.8,46.5,NA,234
+45,June - M061997,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,47.1,62.3,NA,352
+46,June - M061997,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,39.6,43,NA,212
+172,June - M061997,Bihar,Jamshedpur,NA,Industrial Area,43.8,47.8,NA,104
+174,June - M061997,Bihar,Jamshedpur,NA,"Residential, Rural and other Areas",44.2,52,NA,140
+210,June - M061997,Bihar,Patna,Bihar Pollution Control Board,NA,10.4,12.9,NA,219
+284,June - M061997,Bihar,Patna,Bihar Sate Pollution Control Board,"Residential, Rural and other Areas",31.3,37.1,NA,876
+44,July - M071997,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",41.7,42.3,NA,94
+45,July - M071997,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,41.4,63.1,NA,190
+46,July - M071997,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,34.3,52.9,NA,139
+172,July - M071997,Bihar,Jamshedpur,NA,Industrial Area,42.4,55.2,NA,108
+174,July - M071997,Bihar,Jamshedpur,NA,"Residential, Rural and other Areas",49.6,48.4,NA,166
+210,July - M071997,Bihar,Patna,Bihar Pollution Control Board,NA,6.9,7.9,NA,108
+284,July - M071997,Bihar,Patna,Bihar Sate Pollution Control Board,"Residential, Rural and other Areas",14.3,18.8,NA,240
+45,August - M081997,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,42.4,54.6,NA,275
+44,August - M081997,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",35.7,51.3,NA,114
+46,August - M081997,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,38.3,53.7,NA,155
+174,August - M081997,Bihar,Jamshedpur,NA,"Residential, Rural and other Areas",43.2,54.6,NA,97
+172,August - M081997,Bihar,Jamshedpur,NA,Industrial Area,32.1,39.9,NA,69
+210,August - M081997,Bihar,Patna,Bihar Pollution Control Board,NA,8.2,10.4,NA,66
+284,August - M081997,Bihar,Patna,Bihar Sate Pollution Control Board,"Residential, Rural and other Areas",18.7,21.6,NA,361
+44,September - M091997,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",33.3,49.8,NA,158
+45,September - M091997,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,41,56.5,NA,306
+46,September - M091997,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,34.3,63.7,NA,139
+174,September - M091997,Bihar,Jamshedpur,NA,"Residential, Rural and other Areas",31.1,45.9,NA,118
+172,September - M091997,Bihar,Jamshedpur,NA,Industrial Area,32.4,44.6,NA,66
+210,September - M091997,Bihar,Patna,Bihar Pollution Control Board,NA,8.6,11.3,NA,105
+45,October - M101997,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,47.2,56.1,NA,572
+46,October - M101997,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,40.9,55.5,NA,326
+44,October - M101997,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",32.2,47.8,NA,194
+172,October - M101997,Bihar,Jamshedpur,NA,Industrial Area,35.9,40.3,NA,74
+174,October - M101997,Bihar,Jamshedpur,NA,"Residential, Rural and other Areas",36.4,42.5,NA,83
+210,October - M101997,Bihar,Patna,Bihar Pollution Control Board,NA,12.7,16.4,NA,156
+284,October - M101997,Bihar,Patna,Bihar Sate Pollution Control Board,"Residential, Rural and other Areas",28.7,35.4,NA,519
+44,November - M111997,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",43.9,48.5,NA,238
+45,November - M111997,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,44.7,57.4,NA,606
+46,November - M111997,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,39.7,52.8,NA,333
+172,November - M111997,Bihar,Jamshedpur,NA,Industrial Area,40.2,49.4,NA,81
+174,November - M111997,Bihar,Jamshedpur,NA,"Residential, Rural and other Areas",43.2,47.1,NA,71
+210,November - M111997,Bihar,Patna,Bihar Pollution Control Board,NA,11.5,14.2,NA,177
+284,November - M111997,Bihar,Patna,Bihar Sate Pollution Control Board,"Residential, Rural and other Areas",28.5,33.7,NA,901
+174,December - M121997,Bihar,Jamshedpur,NA,"Residential, Rural and other Areas",43.8,56,NA,101
+172,December - M121997,Bihar,Jamshedpur,NA,Industrial Area,39.2,53.3,NA,106
+44,December - M121997,Bihar,Dhanbad,Bihar Pollution Control Board,"Residential, Rural and other Areas",33.3,40.3,NA,174
+45,December - M121997,Bihar,Jharia,Bihar Pollution Control Board,Industrial Area,40.2,56.6,NA,548
+46,December - M121997,Bihar,Sindri,Bihar Pollution Control Board,Industrial Area,41.3,54.6,NA,253
+210,December - M121997,Bihar,Patna,Bihar Pollution Control Board,NA,10.5,12.4,NA,178
+284,December - M121997,Bihar,Patna,Bihar Sate Pollution Control Board,"Residential, Rural and other Areas",26.3,30.5,NA,630

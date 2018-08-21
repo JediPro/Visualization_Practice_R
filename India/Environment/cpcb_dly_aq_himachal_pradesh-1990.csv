@@ -1,0 +1,65 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+35,January - M011990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",5.5,17.8,NA,337
+34,January - M011990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,Sensitive,6.3,15.4,NA,184
+117,January - M011990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,NA,25.2,NA,197
+118,January - M011990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,4.2,9.9,NA,240
+132,January - M011990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",NA,34.7,NA,105
+35,February - M021990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",1.1,13.5,NA,277
+34,February - M021990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,Sensitive,2.1,20,NA,138
+132,February - M021990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",NA,14.6,NA,78
+118,February - M021990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,NA,28.1,NA,231
+117,February - M021990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,NA,25.9,NA,194
+132,March - M031990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",2.5,11.7,NA,130
+118,March - M031990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,NA,18.9,NA,242
+34,March - M031990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,Sensitive,4.3,29.4,NA,119
+35,March - M031990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",6.2,21,NA,264
+132,April - M041990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",4.6,4.3,NA,117
+119,April - M041990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,Industrial Area,6.7,3.9,NA,287
+118,April - M041990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,NA,8.8,NA,318
+34,April - M041990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,Sensitive,2.3,24,NA,172
+35,April - M041990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",5.8,20.3,NA,291
+119,May - M051990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,Industrial Area,2.4,8.4,NA,204
+118,May - M051990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,NA,15.6,NA,302
+34,May - M051990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,Sensitive,2.5,15,NA,253
+35,May - M051990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",3.4,16.8,NA,254
+132,June - M061990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",7.5,15.9,NA,293
+119,June - M061990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,Industrial Area,5.2,8,NA,284
+118,June - M061990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,5.2,20.5,NA,414
+117,June - M061990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,4.9,20.3,NA,398
+34,June - M061990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,Sensitive,3.5,26.4,NA,313
+35,June - M061990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",2.3,17.4,NA,313
+34,July - M071990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,Sensitive,3.4,15.9,NA,104
+35,July - M071990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",4.7,12,NA,246
+117,July - M071990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,3.3,9.5,NA,62
+118,July - M071990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,3.7,9.1,NA,135
+119,July - M071990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,Industrial Area,9.2,7.2,NA,169
+132,July - M071990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",7.7,16.1,NA,147
+34,August - M081990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,Sensitive,4.5,14.2,NA,55
+35,August - M081990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",2.9,16.3,NA,217
+117,August - M081990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,3,7.5,NA,31
+118,August - M081990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,3.2,7.1,NA,82
+119,August - M081990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,Industrial Area,3.8,6.2,NA,137
+132,August - M081990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",2.2,8,NA,125
+34,September - M091990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,Sensitive,2.6,14,NA,63
+35,September - M091990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",2,20.7,NA,203
+117,September - M091990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,2.9,9.4,NA,43
+118,September - M091990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,4,8.1,NA,106
+119,September - M091990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,Industrial Area,1.6,6.6,NA,188
+132,September - M091990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",1.5,13.7,NA,150
+35,October - M101990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",1.9,19.9,NA,194
+34,October - M101990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,Sensitive,1.6,17.4,NA,140
+117,October - M101990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,3.9,11.4,NA,133
+118,October - M101990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,3.9,9.2,NA,215
+132,October - M101990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",1.3,6.4,NA,198
+119,October - M101990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,Industrial Area,1.4,6.1,NA,363
+34,November - M111990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,Sensitive,2.1,11.7,NA,172
+35,November - M111990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",1.9,15.9,NA,238
+117,November - M111990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,3.7,7.1,NA,107
+119,November - M111990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,Industrial Area,1.6,9.2,NA,410
+132,November - M111990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",1.4,18.4,NA,209
+34,December - M121990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,Sensitive,2.7,14.8,NA,170
+35,December - M121990,Himachal Pradesh,Shimla,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",3.8,12.5,NA,202
+117,December - M121990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,3.6,7,NA,165
+118,December - M121990,Himachal Pradesh,Paonta Sahib,Himachal Pradesh  Pollution Control Boar,Industrial Area,3.8,8.8,NA,305
+119,December - M121990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,Industrial Area,1.2,7.4,NA,304
+132,December - M121990,Himachal Pradesh,Parwanoo,Himachal Pradesh  Pollution Control Boar,"Residential, Rural and other Areas",1.2,15.3,NA,202

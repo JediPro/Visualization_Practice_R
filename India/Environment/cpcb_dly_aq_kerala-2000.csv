@@ -1,0 +1,163 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+29,January - M012000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,27.5,19.3,NA,144
+30,January - M012000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,32.3,18.8,NA,119
+105,January - M012000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,48.1,28.8,NA,157
+180,January - M012000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,31.7,25.8,NA,125
+181,January - M012000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,14.7,24,NA,100
+182,January - M012000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,10.7,24.1,NA,83
+185,January - M012000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,0.9,9.1,NA,101
+186,January - M012000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,1.4,12.2,NA,132
+187,January - M012000,Kerala,Kotttayam,Kerala Pollution Control Board,"Residential, Rural and other Areas",1,30.8,NA,0
+188,January - M012000,Kerala,Kottayam,Kerala Pollution Control Board,Industrial Area,0.9,30.2,NA,0
+311,January - M012000,Kerala,Palakkad,Kerala State Pollution Control Board,Industrial Area,8.3,14.4,NA,110
+147,January - M012000,Kerala,Cochin,NA,"Residential, Rural and other Areas",10.4,48.3,NA,238
+148,January - M012000,Kerala,Cochin,NA,"Residential, Rural and other Areas",10.6,19.2,NA,107
+149,January - M012000,Kerala,Cochin,NA,Industrial Area,13,53.3,NA,225
+29,February - M022000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,37.8,15,NA,88
+30,February - M022000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,25.9,11.1,NA,89
+105,February - M022000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,19.2,15.1,NA,147
+180,February - M022000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,21.5,24.1,NA,135
+181,February - M022000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,14.3,23.1,NA,112
+182,February - M022000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,10.6,23.9,NA,72
+185,February - M022000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,1,9.6,NA,110
+186,February - M022000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,1.3,18.4,NA,137
+187,February - M022000,Kerala,Kotttayam,Kerala Pollution Control Board,"Residential, Rural and other Areas",1.1,31.7,NA,0
+188,February - M022000,Kerala,Kottayam,Kerala Pollution Control Board,Industrial Area,0.8,27.4,NA,0
+311,February - M022000,Kerala,Palakkad,Kerala State Pollution Control Board,Industrial Area,8,14,NA,81
+147,February - M022000,Kerala,Cochin,NA,"Residential, Rural and other Areas",11.6,35.9,NA,92
+148,February - M022000,Kerala,Cochin,NA,"Residential, Rural and other Areas",14.6,22.7,NA,172
+149,February - M022000,Kerala,Cochin,NA,Industrial Area,27.1,36.2,NA,234
+29,March - M032000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,37.9,16.6,NA,91
+30,March - M032000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,21.8,18,NA,76
+105,March - M032000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,19.5,14.7,NA,132
+180,March - M032000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,21.6,25,NA,0
+181,March - M032000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,12.7,22.6,NA,0
+182,March - M032000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,11.2,22.1,NA,0
+185,March - M032000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,1.1,10.2,NA,0
+186,March - M032000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,1.5,14.3,NA,0
+187,March - M032000,Kerala,Kotttayam,Kerala Pollution Control Board,"Residential, Rural and other Areas",1,31.1,NA,0
+188,March - M032000,Kerala,Kottayam,Kerala Pollution Control Board,Industrial Area,0.7,26.5,NA,0
+311,March - M032000,Kerala,Palakkad,Kerala State Pollution Control Board,Industrial Area,11,18.3,NA,104
+147,March - M032000,Kerala,Cochin,NA,"Residential, Rural and other Areas",8.5,25.7,NA,69
+148,March - M032000,Kerala,Cochin,NA,"Residential, Rural and other Areas",11.2,12.4,NA,158
+149,March - M032000,Kerala,Cochin,NA,Industrial Area,41.8,23.7,NA,112
+29,April - M042000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,63.8,17.4,NA,106
+30,April - M042000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,25.3,8.4,NA,111
+105,April - M042000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,33.5,18.6,NA,129
+180,April - M042000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,20.2,24.1,NA,0
+181,April - M042000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,11.6,23.1,NA,0
+182,April - M042000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,8.3,23,NA,0
+185,April - M042000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,1,10.8,NA,0
+186,April - M042000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,1.6,14.5,NA,0
+187,April - M042000,Kerala,Kotttayam,Kerala Pollution Control Board,"Residential, Rural and other Areas",0.8,28.7,NA,0
+188,April - M042000,Kerala,Kottayam,Kerala Pollution Control Board,Industrial Area,0.7,23.4,NA,0
+311,April - M042000,Kerala,Palakkad,Kerala State Pollution Control Board,Industrial Area,15,22.1,NA,124
+147,April - M042000,Kerala,Cochin,NA,"Residential, Rural and other Areas",6.3,29.9,NA,70
+148,April - M042000,Kerala,Cochin,NA,"Residential, Rural and other Areas",12.1,9.5,NA,177
+149,April - M042000,Kerala,Cochin,NA,Industrial Area,6,35.5,NA,144
+29,May - M052000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,41.8,22.1,NA,113
+30,May - M052000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,34.6,8.2,NA,95
+105,May - M052000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,25,15.9,NA,119
+180,May - M052000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,21.3,25.3,NA,0
+181,May - M052000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,13,23.2,NA,0
+182,May - M052000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,9.4,22.3,NA,0
+185,May - M052000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,1,10.4,NA,0
+186,May - M052000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,1.5,14.5,NA,0
+187,May - M052000,Kerala,Kotttayam,Kerala Pollution Control Board,"Residential, Rural and other Areas",0.8,26.5,NA,0
+188,May - M052000,Kerala,Kottayam,Kerala Pollution Control Board,Industrial Area,0.7,22.4,NA,0
+311,May - M052000,Kerala,Palakkad,Kerala State Pollution Control Board,Industrial Area,12.3,22.6,NA,130
+147,May - M052000,Kerala,Cochin,NA,"Residential, Rural and other Areas",7.9,64.5,NA,69
+148,May - M052000,Kerala,Cochin,NA,"Residential, Rural and other Areas",7.4,19.7,NA,97
+149,May - M052000,Kerala,Cochin,NA,Industrial Area,7.1,27.9,NA,116
+29,June - M062000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,50.2,19.6,NA,106
+30,June - M062000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,10.7,7.8,NA,96
+105,June - M062000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,18.1,12,NA,123
+180,June - M062000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,21.5,24.9,NA,0
+181,June - M062000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,12.8,24.4,NA,0
+182,June - M062000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,10.1,22.4,NA,0
+187,June - M062000,Kerala,Kotttayam,Kerala Pollution Control Board,"Residential, Rural and other Areas",0.8,26.1,NA,0
+188,June - M062000,Kerala,Kottayam,Kerala Pollution Control Board,Industrial Area,0.6,22.6,NA,0
+311,June - M062000,Kerala,Palakkad,Kerala State Pollution Control Board,Industrial Area,34.2,57.1,NA,239
+147,June - M062000,Kerala,Cochin,NA,"Residential, Rural and other Areas",6.7,31.3,NA,93
+148,June - M062000,Kerala,Cochin,NA,"Residential, Rural and other Areas",6.7,7.3,NA,81
+149,June - M062000,Kerala,Cochin,NA,Industrial Area,15.9,34.1,NA,146
+29,July - M072000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,60.4,16.4,NA,67
+30,July - M072000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,16.9,6.6,NA,40
+105,July - M072000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,28,11.3,NA,99
+180,July - M072000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,19.2,27.3,NA,0
+181,July - M072000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,11,27.6,NA,0
+182,July - M072000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,9.6,23.6,NA,0
+185,July - M072000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,1,7.3,NA,67
+186,July - M072000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,1.2,9.3,NA,70
+187,July - M072000,Kerala,Kotttayam,Kerala Pollution Control Board,"Residential, Rural and other Areas",0.7,22,NA,0
+188,July - M072000,Kerala,Kottayam,Kerala Pollution Control Board,Industrial Area,0.6,22.1,NA,0
+311,July - M072000,Kerala,Palakkad,Kerala State Pollution Control Board,Industrial Area,29,49.4,NA,95
+147,July - M072000,Kerala,Cochin,NA,"Residential, Rural and other Areas",9.4,33.7,NA,57
+148,July - M072000,Kerala,Cochin,NA,"Residential, Rural and other Areas",13,10.7,NA,122
+149,July - M072000,Kerala,Cochin,NA,Industrial Area,10.3,11.6,NA,121
+29,August - M082000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,39.1,35.5,NA,101
+30,August - M082000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,7.1,18.6,NA,38
+105,August - M082000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,7.9,12.9,NA,92
+180,August - M082000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,18.2,26.4,NA,0
+181,August - M082000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,11.5,24.2,NA,0
+182,August - M082000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,8.4,23.3,NA,0
+185,August - M082000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,0.9,6.8,NA,64
+186,August - M082000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,1.1,8.5,NA,73
+187,August - M082000,Kerala,Kotttayam,Kerala Pollution Control Board,"Residential, Rural and other Areas",0.6,22.9,NA,0
+188,August - M082000,Kerala,Kottayam,Kerala Pollution Control Board,Industrial Area,0.6,20.6,NA,0
+311,August - M082000,Kerala,Palakkad,Kerala State Pollution Control Board,Industrial Area,28.8,50,NA,89
+147,August - M082000,Kerala,Cochin,NA,"Residential, Rural and other Areas",6,23.4,NA,148
+148,August - M082000,Kerala,Cochin,NA,"Residential, Rural and other Areas",9.3,12.2,NA,96
+149,August - M082000,Kerala,Cochin,NA,Industrial Area,6,20.9,NA,124
+29,September - M092000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,35.8,25.1,NA,65
+30,September - M092000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,7.3,9.5,NA,44
+105,September - M092000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,16,15,NA,80
+180,September - M092000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,20,26.8,NA,0
+181,September - M092000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,13.3,23,NA,0
+182,September - M092000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,9.1,21.8,NA,0
+185,September - M092000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,0.9,4.9,NA,54
+186,September - M092000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,0.8,4.8,NA,61
+187,September - M092000,Kerala,Kotttayam,Kerala Pollution Control Board,"Residential, Rural and other Areas",0.6,23.6,NA,0
+188,September - M092000,Kerala,Kottayam,Kerala Pollution Control Board,Industrial Area,0.4,19.9,NA,0
+311,September - M092000,Kerala,Palakkad,Kerala State Pollution Control Board,Industrial Area,7,48.1,NA,95
+147,September - M092000,Kerala,Cochin,NA,"Residential, Rural and other Areas",8.6,11.9,NA,200
+148,September - M092000,Kerala,Cochin,NA,"Residential, Rural and other Areas",11,9.6,NA,66
+149,September - M092000,Kerala,Cochin,NA,Industrial Area,15.6,15.4,NA,147
+29,October - M102000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,35.3,22.3,NA,153
+30,October - M102000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,11.3,13,NA,70
+105,October - M102000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,20.1,19.6,NA,87
+180,October - M102000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,19.3,27.2,NA,0
+181,October - M102000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,13.7,26,NA,0
+182,October - M102000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,12.9,24.1,NA,0
+185,October - M102000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,0.7,4.6,NA,48
+186,October - M102000,Kerala,Kozhikode,Kerala Pollution Control Board,NA,0.7,6.2,NA,56
+187,October - M102000,Kerala,Kotttayam,Kerala Pollution Control Board,"Residential, Rural and other Areas",0.7,25.8,NA,0
+188,October - M102000,Kerala,Kottayam,Kerala Pollution Control Board,Industrial Area,0.5,20.5,NA,0
+311,October - M102000,Kerala,Palakkad,Kerala State Pollution Control Board,Industrial Area,47,59.8,NA,126
+147,October - M102000,Kerala,Cochin,NA,"Residential, Rural and other Areas",6,17.7,NA,203
+148,October - M102000,Kerala,Cochin,NA,"Residential, Rural and other Areas",6,10,NA,62
+149,October - M102000,Kerala,Cochin,NA,Industrial Area,6,15.2,NA,163
+29,November - M112000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,25.2,27.7,NA,192
+30,November - M112000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,7,19.8,NA,109
+105,November - M112000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,12.9,34.2,NA,119
+180,November - M112000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,16.8,25.9,NA,0
+181,November - M112000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,12.7,22.7,NA,0
+182,November - M112000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,11.9,23.8,NA,0
+187,November - M112000,Kerala,Kotttayam,Kerala Pollution Control Board,"Residential, Rural and other Areas",0.5,19.7,NA,0
+188,November - M112000,Kerala,Kottayam,Kerala Pollution Control Board,Industrial Area,0.6,19.9,NA,0
+311,November - M112000,Kerala,Palakkad,Kerala State Pollution Control Board,Industrial Area,35.2,114.1,NA,127
+147,November - M112000,Kerala,Cochin,NA,"Residential, Rural and other Areas",11.2,19,NA,49
+148,November - M112000,Kerala,Cochin,NA,"Residential, Rural and other Areas",23.9,11.9,NA,155
+149,November - M112000,Kerala,Cochin,NA,Industrial Area,7.7,27.6,NA,135
+29,December - M122000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,43,18.5,NA,153
+30,December - M122000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,41.9,10.1,NA,103
+105,December - M122000,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,18.8,16.9,NA,162
+180,December - M122000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,18.3,24.2,NA,0
+181,December - M122000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,13.5,21,NA,0
+182,December - M122000,Kerala,Trivendrum,Kerala Pollution Control Board,NA,12.7,19.4,NA,0
+187,December - M122000,Kerala,Kotttayam,Kerala Pollution Control Board,"Residential, Rural and other Areas",0.6,20.9,NA,0
+188,December - M122000,Kerala,Kottayam,Kerala Pollution Control Board,Industrial Area,0.5,24.2,NA,0
+311,December - M122000,Kerala,Palakkad,Kerala State Pollution Control Board,Industrial Area,29.8,217.5,NA,118
+147,December - M122000,Kerala,Cochin,NA,"Residential, Rural and other Areas",27.9,27.1,NA,130
+148,December - M122000,Kerala,Cochin,NA,"Residential, Rural and other Areas",13.4,12,NA,86
+149,December - M122000,Kerala,Cochin,NA,Industrial Area,24.4,33.7,NA,192

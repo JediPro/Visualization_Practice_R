@@ -1,0 +1,224 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+2,June - M062002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,"Residential, Rural and other Areas",6.3,10,NA,271
+2,July - M072002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,"Residential, Rural and other Areas",6.3,10,NA,382
+2,August - M082002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,"Residential, Rural and other Areas",6.1,11.8,NA,162
+2,September - M092002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,"Residential, Rural and other Areas",4.7,12.1,NA,178
+2,October - M102002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,"Residential, Rural and other Areas",5.6,11.8,NA,348
+2,November - M112002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,"Residential, Rural and other Areas",5,11.2,NA,364
+2,December - M122002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,"Residential, Rural and other Areas",6.3,11.3,NA,514
+2,Annual - M132002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,"Residential, Rural and other Areas",5.7,11.2,NA,309
+3,July - M072002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,Industrial Area,8,11.2,NA,305
+3,August - M082002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,Industrial Area,4.3,10,NA,206
+3,September - M092002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,Industrial Area,4.7,11.8,NA,284
+3,October - M102002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,Industrial Area,4.3,11.1,NA,576
+3,November - M112002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,Industrial Area,5.4,11,NA,477
+3,December - M122002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,Industrial Area,4.6,11.4,NA,619
+3,Annual - M132002,Uttar Pradesh,Agra,Uttar Pradesh Pollution Control Board,Industrial Area,5.2,11.1,NA,399
+6,January - M012002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,56,61.4,NA,317
+6,February - M022002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,49.4,56.4,NA,269
+6,March - M032002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,31.5,52.7,NA,390
+6,April - M042002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,36.2,40.1,NA,357
+6,May - M052002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,24.1,37.7,NA,351
+6,June - M062002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,21.8,37.2,NA,297
+6,July - M072002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,23.2,37.9,NA,289
+6,August - M082002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,24.9,39.8,NA,193
+6,September - M092002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,22.1,36.5,NA,176
+6,October - M102002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,23.7,34.2,NA,205
+6,November - M112002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,24,34.5,NA,351
+6,December - M122002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,23.8,36.2,NA,421
+6,Annual - M132002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,30.1,42,NA,301
+7,January - M012002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,52.3,58.7,NA,0
+7,February - M022002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,47.3,54.7,NA,160
+7,March - M032002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,32.9,53.4,NA,156
+7,April - M042002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,37,40.5,NA,221
+7,May - M052002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,25.7,42.9,NA,266
+7,June - M062002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,23,37.9,NA,182
+7,July - M072002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,23.4,38,NA,171
+7,August - M082002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,22.8,37.2,NA,97
+7,September - M092002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,21.3,36.1,NA,82
+7,October - M102002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,22.3,33.6,NA,274
+7,November - M112002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,23,32,NA,182
+7,December - M122002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,24.2,34.8,NA,178
+7,Annual - M132002,Uttar Pradesh,Anpara,Uttar Pradesh  Pollution Control Board,Industrial Area,29.6,41.6,NA,165
+89,January - M012002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",18.9,21.2,NA,378
+89,February - M022002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",18.7,17.1,NA,267
+89,March - M032002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",16.8,21.6,NA,256
+89,April - M042002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",19.1,24.4,NA,336
+89,May - M052002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",18.4,21.9,NA,363
+89,June - M062002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",19.8,21.1,NA,238
+89,July - M072002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",20.4,21.7,NA,299
+89,August - M082002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",17.1,19.7,NA,187
+89,September - M092002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",17.8,18.1,NA,183
+89,October - M102002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",16.6,19.6,NA,312
+89,November - M112002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",19.7,23.4,NA,413
+89,December - M122002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",18.6,21.3,NA,324
+89,Annual - M132002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",18.5,20.9,NA,294
+90,January - M012002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,17.7,19.7,NA,347
+90,February - M022002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,16.1,20.1,NA,260
+90,March - M032002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,17.4,21.3,NA,291
+90,April - M042002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,19.9,21.8,NA,288
+90,May - M052002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,18.1,22.8,NA,295
+90,June - M062002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,18.1,20.7,NA,266
+90,July - M072002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,NA,NA,NA,170
+90,August - M082002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,15.4,20.8,NA,165
+90,September - M092002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,14,18,NA,137
+90,October - M102002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,16,19.3,NA,205
+90,November - M112002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,17.5,22.5,NA,214
+90,December - M122002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,19.7,21.5,NA,213
+90,Annual - M132002,Uttar Pradesh,Dehradoon,Uttar Pradesh  Pollution Control Board,Industrial Area,17.6,20.8,NA,243
+139,January - M012002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",35.4,13.9,NA,142
+139,February - M022002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",NA,NA,NA,140
+139,March - M032002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",34.1,15.2,NA,168
+139,April - M042002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",32,13.1,NA,258
+139,May - M052002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",24.5,10.5,NA,221
+139,June - M062002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",NA,7.5,NA,137
+139,July - M072002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",NA,NA,NA,109
+139,August - M082002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",NA,NA,NA,119
+139,September - M092002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",NA,NA,NA,132
+139,October - M102002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",NA,NA,NA,132
+139,November - M112002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",NA,NA,NA,97
+139,December - M122002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",NA,NA,NA,108
+139,Annual - M132002,Uttar Pradesh,Gajroula,NA,"Residential, Rural and other Areas",31.5,13,NA,153
+140,January - M012002,Uttar Pradesh,Gajroula,NA,Industrial Area,43.2,17.4,NA,146
+140,February - M022002,Uttar Pradesh,Gajroula,NA,Industrial Area,44.3,17.7,NA,376
+140,March - M032002,Uttar Pradesh,Gajroula,NA,Industrial Area,48.4,18.5,NA,416
+140,April - M042002,Uttar Pradesh,Gajroula,NA,Industrial Area,42.4,15.7,NA,461
+140,May - M052002,Uttar Pradesh,Gajroula,NA,Industrial Area,39.4,12.7,NA,429
+140,June - M062002,Uttar Pradesh,Gajroula,NA,Industrial Area,35.5,13.5,NA,356
+140,July - M072002,Uttar Pradesh,Gajroula,NA,Industrial Area,47.7,16.6,NA,406
+140,August - M082002,Uttar Pradesh,Gajroula,NA,Industrial Area,33,11.2,NA,301
+140,September - M092002,Uttar Pradesh,Gajroula,NA,Industrial Area,36.8,14.2,NA,374
+140,October - M102002,Uttar Pradesh,Gajroula,NA,Industrial Area,39.1,15.6,NA,383
+140,November - M112002,Uttar Pradesh,Gajroula,NA,Industrial Area,36.7,15.7,NA,404
+140,December - M122002,Uttar Pradesh,Gajroula,NA,Industrial Area,39.1,16.2,NA,397
+140,Annual - M132002,Uttar Pradesh,Gajroula,NA,Industrial Area,41.1,15.5,NA,369
+86,January - M012002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,10.4,7.4,NA,526
+86,February - M022002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,5.6,14.3,NA,405
+86,March - M032002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,6.5,12.5,NA,436
+86,April - M042002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,6.8,12.8,NA,373
+86,May - M052002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,6.5,12.8,NA,378
+86,June - M062002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,6.9,16.2,NA,408
+86,July - M072002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,9,18.3,NA,471
+86,August - M082002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,7.4,16.6,NA,437
+86,September - M092002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,6.3,16.7,NA,473
+86,October - M102002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,7.2,19.4,NA,400
+86,November - M112002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,6.4,17.5,NA,378
+86,December - M122002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,6.6,16.2,NA,369
+86,Annual - M132002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,Industrial Area,7.3,15.4,NA,423
+98,January - M012002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",11.2,9.2,NA,424
+98,February - M022002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",6,15.7,NA,377
+98,March - M032002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",6.8,11.5,NA,418
+98,April - M042002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",6.2,10.7,NA,420
+98,May - M052002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",6.4,11.7,NA,373
+98,June - M062002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",6.7,14,NA,352
+98,July - M072002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",7.7,16.1,NA,421
+98,August - M082002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",6.5,17.5,NA,420
+98,September - M092002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",6.4,16.2,NA,372
+98,October - M102002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",6.4,16,NA,358
+98,November - M112002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",6.4,17.4,NA,374
+98,December - M122002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",6.1,15.5,NA,301
+98,Annual - M132002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,"Residential, Rural and other Areas",7,14.1,NA,385
+141,January - M012002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",12.4,31.3,NA,357
+141,February - M022002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",12.3,30.3,NA,238
+141,March - M032002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",13.2,28.9,NA,291
+141,April - M042002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",11.7,24.6,NA,275
+141,May - M052002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",12.5,30.5,NA,402
+141,June - M062002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",13.6,31.5,NA,268
+141,July - M072002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",12.5,30.5,NA,376
+141,August - M082002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",11.3,29.2,NA,133
+141,September - M092002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",9.6,20.3,NA,141
+141,October - M102002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",13.4,22.8,NA,221
+141,November - M112002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",9.8,27.6,NA,323
+141,December - M122002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",9.7,26.5,NA,452
+141,Annual - M132002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",11.9,27.8,NA,281
+142,January - M012002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",14.7,34.5,NA,434
+142,February - M022002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",15,34.2,NA,371
+142,March - M032002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",14.1,33.4,NA,354
+142,April - M042002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",14,34.3,NA,335
+142,May - M052002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",14.2,34.6,NA,589
+142,June - M062002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",14.7,35.7,NA,392
+142,July - M072002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",13.7,34.7,NA,503
+142,August - M082002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",13.5,33.2,NA,229
+142,September - M092002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",11.8,24.4,NA,236
+142,October - M102002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",17.7,24.6,NA,373
+142,November - M112002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",13.6,37.8,NA,425
+142,December - M122002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",11.3,33.7,NA,581
+142,Annual - M132002,Uttar Pradesh,Kanpur,NA,"Residential, Rural and other Areas",14.2,33,NA,399
+143,January - M012002,Uttar Pradesh,Kanpur,NA,Industrial Area,14.2,35.9,NA,430
+143,February - M022002,Uttar Pradesh,Kanpur,NA,Industrial Area,14.5,34.8,NA,391
+143,March - M032002,Uttar Pradesh,Kanpur,NA,Industrial Area,17.4,33.4,NA,389
+143,April - M042002,Uttar Pradesh,Kanpur,NA,Industrial Area,13.5,32.5,NA,408
+143,May - M052002,Uttar Pradesh,Kanpur,NA,Industrial Area,14.6,34.5,NA,513
+143,June - M062002,Uttar Pradesh,Kanpur,NA,Industrial Area,14.9,36.2,NA,353
+143,July - M072002,Uttar Pradesh,Kanpur,NA,Industrial Area,13.2,33.7,NA,411
+143,August - M082002,Uttar Pradesh,Kanpur,NA,Industrial Area,12.9,32.7,NA,221
+143,September - M092002,Uttar Pradesh,Kanpur,NA,Industrial Area,10.6,25.5,NA,223
+143,October - M102002,Uttar Pradesh,Kanpur,NA,Industrial Area,15.1,28.2,NA,445
+143,November - M112002,Uttar Pradesh,Kanpur,NA,Industrial Area,11.3,35.2,NA,528
+143,December - M122002,Uttar Pradesh,Kanpur,NA,Industrial Area,11,33.2,NA,712
+143,Annual - M132002,Uttar Pradesh,Kanpur,NA,Industrial Area,13.7,33,NA,402
+212,January - M012002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,10.4,7.9,NA,447
+212,February - M022002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,6,15.5,NA,320
+212,March - M032002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,6.5,11.5,NA,303
+212,April - M042002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,6.4,10.5,NA,426
+212,May - M052002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,6.1,10.3,NA,450
+212,June - M062002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,7.1,13,NA,375
+212,July - M072002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,7.4,15.3,NA,412
+212,August - M082002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,7.8,17.9,NA,409
+212,September - M092002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,6.4,17.1,NA,379
+212,October - M102002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,6.7,17.2,NA,372
+212,November - M112002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,6.2,16.9,NA,408
+212,December - M122002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,6.2,14.3,NA,329
+212,Annual - M132002,Uttar Pradesh,Kanpur,Uttar Pradesh  Pollution Control Board,NA,7,14.2,NA,383
+109,January - M012002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,28.7,31.4,NA,357
+109,February - M022002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,26.4,30.6,NA,361
+109,March - M032002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,25.6,29.9,NA,345
+109,April - M042002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,22.7,28.4,NA,295
+109,May - M052002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,24.6,30.1,NA,347
+109,June - M062002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,25.4,30,NA,340
+109,July - M072002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,24.7,29.6,NA,346
+109,August - M082002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,21.5,26.9,NA,332
+109,September - M092002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,22.5,26.7,NA,329
+109,October - M102002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,24.5,29,NA,349
+109,November - M112002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,17.6,28.9,NA,355
+109,December - M122002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,18.4,27.6,NA,359
+109,Annual - M132002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,23.6,29.1,NA,343
+113,January - M012002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,NA,NA,NA,251
+113,February - M022002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,NA,NA,NA,243
+113,March - M032002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,NA,NA,NA,249
+113,April - M042002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,NA,NA,NA,233
+113,May - M052002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,NA,NA,NA,242
+113,June - M062002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,NA,NA,NA,238
+113,July - M072002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,NA,NA,NA,221
+113,August - M082002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,NA,NA,NA,213
+113,September - M092002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,NA,NA,NA,243
+113,October - M102002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,NA,NA,NA,238
+113,November - M112002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,NA,NA,NA,239
+113,December - M122002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,NA,NA,NA,210
+113,Annual - M132002,Uttar Pradesh,Lucknow,Uttar Pradesh  Pollution Control Board,NA,-1,-1,NA,235
+276,January - M012002,Uttar Pradesh,Lucknow,UPPB,NA,29.5,31.1,NA,378
+276,February - M022002,Uttar Pradesh,Lucknow,UPPB,NA,28.1,30.1,NA,217
+276,March - M032002,Uttar Pradesh,Lucknow,UPPB,NA,26,30.1,NA,373
+276,April - M042002,Uttar Pradesh,Lucknow,UPPB,NA,22.5,26,NA,333
+276,May - M052002,Uttar Pradesh,Lucknow,UPPB,NA,23,27.8,NA,365
+276,June - M062002,Uttar Pradesh,Lucknow,UPPB,NA,23.9,28,NA,346
+276,July - M072002,Uttar Pradesh,Lucknow,UPPB,NA,23.4,28.2,NA,363
+276,August - M082002,Uttar Pradesh,Lucknow,UPPB,NA,21.5,25.5,NA,353
+276,September - M092002,Uttar Pradesh,Lucknow,UPPB,NA,20.8,25.6,NA,350
+276,October - M102002,Uttar Pradesh,Lucknow,UPPB,NA,23.8,28.3,NA,363
+276,November - M112002,Uttar Pradesh,Lucknow,UPPB,NA,17.5,28.5,NA,378
+276,December - M122002,Uttar Pradesh,Lucknow,UPPB,NA,18,26.8,NA,375
+276,Annual - M132002,Uttar Pradesh,Lucknow,UPPB,NA,23,27.9,NA,351
+192,January - M012002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,11.7,12.9,NA,394
+192,February - M022002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,11.6,11.8,NA,434
+192,March - M032002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,10.9,14.1,NA,463
+192,April - M042002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,10.6,10.9,NA,402
+192,May - M052002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,9.7,10.9,NA,488
+192,June - M062002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,10.3,10.7,NA,442
+192,July - M072002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,11,11,NA,393
+192,August - M082002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,9.9,10.7,NA,371
+192,September - M092002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,9.9,9.4,NA,286
+192,October - M102002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,10.3,11.5,NA,328
+192,November - M112002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,10.5,13.1,NA,413
+192,December - M122002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,9.9,11.4,NA,286
+192,Annual - M132002,Uttar Pradesh,Varanasi,Uttar Pradesh  Pollution Control Board,NA,10.5,11.5,NA,391

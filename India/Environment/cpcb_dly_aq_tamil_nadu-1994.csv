@@ -1,0 +1,104 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+10001,January - M011994,Tamil Nadu,Madras,TNPC,Industrial Area,138.6,15.8,NA,0
+10002,January - M011994,Tamil Nadu,Madras,TNPC,Industrial Area,26.9,13.5,NA,0
+10003,January - M011994,Tamil Nadu,Madras,TNPC,Industrial Area,14.5,15.4,NA,0
+20001,January - M011994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,NA,8,NA,0
+20005,January - M011994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,NA,7.2,NA,0
+20006,January - M011994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,NA,5.5,NA,0
+30001,January - M011994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,8.6,22.1,NA,0
+30003,January - M011994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,0,23.8,NA,0
+30004,January - M011994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,NA,NA,NA,0
+161,January - M011994,Tamil Nadu,Madras,NA,Industrial Area,8.4,11.3,NA,140
+159,January - M011994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",7.4,39.8,NA,127
+160,January - M011994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.4,9.9,NA,126
+10001,February - M021994,Tamil Nadu,Madras,TNPC,Industrial Area,NA,NA,NA,0
+10002,February - M021994,Tamil Nadu,Madras,TNPC,Industrial Area,NA,NA,NA,0
+10003,February - M021994,Tamil Nadu,Madras,TNPC,Industrial Area,NA,NA,NA,0
+20001,February - M021994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,0.5,7,NA,0
+20005,February - M021994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,1.3,8.4,NA,0
+20006,February - M021994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,NA,NA,NA,0
+30001,February - M021994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,NA,NA,NA,0
+30003,February - M021994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,4.9,21.6,NA,0
+30004,February - M021994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,11.3,18.1,NA,0
+160,February - M021994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6,11.5,NA,103
+159,February - M021994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",8.5,34,NA,103
+161,February - M021994,Tamil Nadu,Madras,NA,Industrial Area,12.4,16.8,NA,169
+10001,March - M031994,Tamil Nadu,Madras,TNPC,Industrial Area,21.4,17.3,NA,0
+10002,March - M031994,Tamil Nadu,Madras,TNPC,Industrial Area,10.3,17,NA,0
+10003,March - M031994,Tamil Nadu,Madras,TNPC,Industrial Area,8.5,23.5,NA,0
+20001,March - M031994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,4.9,20.5,NA,0
+20005,March - M031994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,3.2,11.9,NA,0
+20006,March - M031994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,2.6,17.4,NA,0
+30001,March - M031994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,NA,NA,NA,0
+30003,March - M031994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,8.7,26.3,NA,0
+30004,March - M031994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,NA,NA,NA,0
+160,March - M031994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.2,10.9,NA,84
+159,March - M031994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",7.7,21.9,NA,137
+161,March - M031994,Tamil Nadu,Madras,NA,Industrial Area,7.1,12.6,NA,165
+10001,April - M041994,Tamil Nadu,Madras,TNPC,Industrial Area,22.1,27.3,NA,0
+10002,April - M041994,Tamil Nadu,Madras,TNPC,Industrial Area,NA,NA,NA,0
+10003,April - M041994,Tamil Nadu,Madras,TNPC,Industrial Area,40,22.3,NA,0
+20001,April - M041994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,4.5,15.3,NA,0
+20005,April - M041994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,4.8,17.3,NA,0
+20006,April - M041994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,1.2,12.2,NA,0
+30001,April - M041994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,NA,NA,NA,0
+30003,April - M041994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,NA,NA,NA,0
+30004,April - M041994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,4.1,18.5,NA,0
+160,April - M041994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.5,6.3,NA,67
+159,April - M041994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.8,9.8,NA,112
+161,April - M041994,Tamil Nadu,Madras,NA,Industrial Area,6.7,11.2,NA,199
+20001,May - M051994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,1.2,12.4,NA,0
+20005,May - M051994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,3.6,17.8,NA,0
+20006,May - M051994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,1.1,11.4,NA,0
+30001,May - M051994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,NA,NA,NA,0
+30003,May - M051994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,0.5,18.8,NA,0
+30004,May - M051994,Tamil Nadu,Coimbatore,TNPC,Industrial Area,NA,NA,NA,0
+38,May - M051994,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,20.3,30.2,NA,252
+71,May - M051994,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,37,16.8,NA,136
+72,May - M051994,Tamil Nadu,Madras,Tamil Nadu Pollution Control Board,Industrial Area,18.4,15,NA,179
+161,May - M051994,Tamil Nadu,Madras,NA,Industrial Area,9,9.3,NA,207
+159,May - M051994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.8,10.5,NA,142
+160,May - M051994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.2,5.4,NA,95
+10001,June - M061994,Tamil Nadu,Madras,TNPC,Industrial Area,6.9,19.9,NA,0
+10002,June - M061994,Tamil Nadu,Madras,TNPC,Industrial Area,9.3,9.6,NA,0
+10003,June - M061994,Tamil Nadu,Madras,TNPC,Industrial Area,NA,NA,NA,0
+20001,June - M061994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,1.2,16.9,NA,0
+20005,June - M061994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,1.5,7.8,NA,0
+20006,June - M061994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,NA,NA,NA,0
+160,June - M061994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.7,9.2,NA,78
+159,June - M061994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",8.6,15.6,NA,95
+161,June - M061994,Tamil Nadu,Madras,NA,Industrial Area,10.4,17,NA,165
+10001,July - M071994,Tamil Nadu,Madras,TNPC,Industrial Area,30,35.1,NA,0
+10002,July - M071994,Tamil Nadu,Madras,TNPC,Industrial Area,26.5,23.9,NA,0
+10003,July - M071994,Tamil Nadu,Madras,TNPC,Industrial Area,4.6,50.4,NA,0
+20001,July - M071994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,0.6,9.9,NA,0
+20005,July - M071994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,2.4,12.2,NA,0
+20006,July - M071994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,NA,NA,NA,0
+161,July - M071994,Tamil Nadu,Madras,NA,Industrial Area,10.1,17.9,NA,105
+159,July - M071994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",14.4,13.3,NA,97
+160,July - M071994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",7.7,8.9,NA,79
+10001,August - M081994,Tamil Nadu,Madras,TNPC,Industrial Area,60.2,43.7,NA,0
+10002,August - M081994,Tamil Nadu,Madras,TNPC,Industrial Area,NA,NA,NA,0
+10003,August - M081994,Tamil Nadu,Madras,TNPC,Industrial Area,33.5,9.3,NA,0
+20001,August - M081994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,0,NA,NA,0
+20005,August - M081994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,1.4,14.3,NA,0
+20006,August - M081994,Tamil Nadu,Tuticorin,TNPC,Industrial Area,NA,NA,NA,0
+161,August - M081994,Tamil Nadu,Madras,NA,Industrial Area,9.3,13,NA,119
+159,August - M081994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",8.6,10.3,NA,114
+160,August - M081994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",7,9.3,NA,100
+10001,September - M091994,Tamil Nadu,Madras,TNPC,Industrial Area,25.4,21.7,NA,0
+10002,September - M091994,Tamil Nadu,Madras,TNPC,Industrial Area,31.3,9.1,NA,0
+10003,September - M091994,Tamil Nadu,Madras,TNPC,Industrial Area,35.1,12.2,NA,0
+239,September - M091994,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,3.7,17.8,NA,80
+240,September - M091994,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,6.4,20.9,NA,68
+10001,September - M091994,Tamil Nadu,Madras,TNPC,Industrial Area,25.4,21.7,NA,0
+10002,September - M091994,Tamil Nadu,Madras,TNPC,Industrial Area,31.3,9.1,NA,0
+10003,September - M091994,Tamil Nadu,Madras,TNPC,Industrial Area,35.1,12.2,NA,0
+239,September - M091994,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,3.7,17.8,NA,80
+240,September - M091994,Tamil Nadu,Tuticorin,Tamil Nadu Pollution Control Board,NA,6.4,20.9,NA,68
+160,November - M111994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",7,10.2,NA,103
+159,November - M111994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",7.1,26.9,NA,81
+161,November - M111994,Tamil Nadu,Madras,NA,Industrial Area,10.8,10.7,NA,102
+160,December - M121994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",6.4,13.3,NA,109
+159,December - M121994,Tamil Nadu,Madras,NA,"Residential, Rural and other Areas",10.9,30,NA,143
+161,December - M121994,Tamil Nadu,Madras,NA,Industrial Area,11.6,17.8,NA,134

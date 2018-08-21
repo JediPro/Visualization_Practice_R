@@ -1,0 +1,55 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+32,M011989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2.5,19,NA,139
+33,M011989,Kerala,Cochin,Kerala Pollution Control Board,NA,6.7,32.8,NA,126
+29,M011989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,6.3,26.3,NA,147
+30,M011989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2.2,31.1,NA,122
+31,M011989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,NA,NA,NA,142
+32,M021989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2.1,26.5,NA,153
+33,M021989,Kerala,Cochin,Kerala Pollution Control Board,NA,7.8,27.9,NA,157
+29,M021989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,8,55.2,NA,128
+30,M021989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2.1,31.6,NA,129
+31,M021989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,NA,NA,NA,138
+32,M031989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,7.2,46.5,NA,111
+33,M031989,Kerala,Cochin,Kerala Pollution Control Board,NA,4.5,19.1,NA,105
+29,M031989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,10.6,16.6,NA,93
+30,M031989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,3.7,21.5,NA,93
+31,M031989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,3.5,14.8,NA,92
+105,M041989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,3.1,32.1,NA,172
+31,M041989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,1.4,57,NA,92
+32,M041989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,1.7,51.1,NA,84
+33,M041989,Kerala,Cochin,Kerala Pollution Control Board,NA,2.7,31.9,NA,172
+29,M041989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,14.4,26.5,NA,105
+30,M041989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,1.1,26,NA,79
+105,M051989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,4.7,19.4,NA,334
+31,M051989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2.2,21.4,NA,69
+32,M051989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,4.1,22.5,NA,90
+29,M051989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,13.3,19.7,NA,122
+30,M051989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,3.8,17.3,NA,107
+105,M061989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,3.7,9.9,NA,103
+31,M061989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,3.9,9.2,NA,91
+32,M061989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2.8,10.6,NA,94
+29,M061989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,8.6,30.8,NA,83
+30,M061989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,5.1,9.8,NA,79
+105,M071989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2.5,5.5,NA,148
+31,M071989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,3.3,16,NA,104
+32,M071989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,4.1,11.8,NA,72
+29,M071989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,6.5,23.8,NA,104
+30,M071989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,3.8,7,NA,78
+105,M081989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,5.4,13,NA,136
+32,M081989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2.3,3,NA,71
+31,M081989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,4.2,17.3,NA,79
+30,M081989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,6.1,18.5,NA,93
+29,M081989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,23.6,29.8,NA,113
+105,M091989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2.2,2.8,NA,157
+32,M091989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2.4,3.5,NA,115
+31,M091989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2,11.6,NA,192
+30,M091989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,1.5,10.4,NA,172
+29,M091989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,8.7,23.1,NA,122
+32,M121989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,5.9,6,NA,200
+31,M121989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,1.4,7.3,NA,112
+30,M121989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2.3,15.3,NA,162
+29,M121989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,5.9,10.4,NA,182
+32,M121989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,5.9,6,NA,200
+31,M121989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,1.4,7.3,NA,112
+30,M121989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,2.3,15.3,NA,162
+29,M121989,Kerala,Cochin,Kerala Pollution Control Board,Industrial Area,5.9,10.4,NA,182

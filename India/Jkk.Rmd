@@ -1,0 +1,25 @@
+---
+title: "Untitled"
+author: "JediPro"
+date: "August 1, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, echo=T, eval=T, include=F}
+library(rgl)
+library(knitr)
+knit_hooks$set(webgl = hook_webgl)
+# Createa a matrix of coordinates of all points in India map 
+# with new column for heights set to 0
+with(iris, plot3d(Sepal.Length, Sepal.Width, Petal.Length, 
+                  type="s", col=as.numeric(Species)))
+rglwidget()
+```
+
+And here's the gif
+![SO2 levels thru the years](D:\\Datasets\\India\\Gif_Stills\\Level_SO2_Residential.gif)

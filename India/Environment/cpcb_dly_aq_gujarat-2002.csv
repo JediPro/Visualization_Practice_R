@@ -1,0 +1,154 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+101,August - M082002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,Industrial Area,20,29.3,NA,339
+101,September - M092002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,Industrial Area,18.3,34.5,NA,342
+101,October - M102002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,Industrial Area,18.9,32.5,NA,331
+101,November - M112002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,Industrial Area,22.3,35.5,NA,343
+101,December - M122002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,Industrial Area,21.1,33.5,NA,372
+101,Annual - M132002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,Industrial Area,20.1,33,NA,346
+102,August - M082002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,"Residential, Rural and other Areas",15.7,23.2,NA,261
+102,September - M092002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,"Residential, Rural and other Areas",16.1,28.6,NA,269
+102,October - M102002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,"Residential, Rural and other Areas",17.7,29.5,NA,260
+102,November - M112002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,"Residential, Rural and other Areas",18.5,29.8,NA,306
+102,December - M122002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,"Residential, Rural and other Areas",20.8,27.5,NA,231
+102,Annual - M132002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,"Residential, Rural and other Areas",17.7,27.8,NA,265
+103,August - M082002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,"Residential, Rural and other Areas",7.6,10.9,NA,81
+103,September - M092002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,"Residential, Rural and other Areas",8.9,16.7,NA,126
+103,October - M102002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,"Residential, Rural and other Areas",8.2,14.3,NA,124
+103,November - M112002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,"Residential, Rural and other Areas",8.8,16.1,NA,165
+103,December - M122002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,"Residential, Rural and other Areas",10.4,16.8,NA,135
+103,Annual - M132002,Gujarat,Ahmedabad,Gujarat Pollution Control Board,"Residential, Rural and other Areas",8.9,15.3,NA,131
+153,January - M012002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",9.2,44.2,NA,254
+153,February - M022002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",11,46.7,NA,299
+153,March - M032002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",6.8,35.3,NA,203
+153,April - M042002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",8.8,36.6,NA,227
+153,May - M052002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",8.8,38.2,NA,175
+153,June - M062002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",9.2,12.9,NA,128
+153,July - M072002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",7.2,21.7,NA,128
+153,August - M082002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",7.2,29.7,NA,175
+153,September - M092002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",7,29.8,NA,223
+153,October - M102002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",7,36.4,NA,342
+153,November - M112002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",7.3,38.5,NA,256
+153,December - M122002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",7.4,39.4,NA,215
+153,Annual - M132002,Gujarat,Ahmedabad,NEER,"Residential, Rural and other Areas",8.1,34.1,NA,219
+154,January - M012002,Gujarat,Ahmedabad,NA,Industrial Area,9.4,53.3,NA,351
+154,February - M022002,Gujarat,Ahmedabad,NA,Industrial Area,12.5,53.4,NA,302
+154,March - M032002,Gujarat,Ahmedabad,NA,Industrial Area,8,45.3,NA,211
+154,April - M042002,Gujarat,Ahmedabad,NA,Industrial Area,10.6,43.9,NA,267
+154,May - M052002,Gujarat,Ahmedabad,NA,Industrial Area,12.1,45.5,NA,229
+154,June - M062002,Gujarat,Ahmedabad,NA,Industrial Area,12.6,28.2,NA,172
+154,July - M072002,Gujarat,Ahmedabad,NA,Industrial Area,11.7,32.7,NA,163
+154,August - M082002,Gujarat,Ahmedabad,NA,Industrial Area,10.5,38.6,NA,204
+154,September - M092002,Gujarat,Ahmedabad,NA,Industrial Area,8.3,37.4,NA,254
+154,October - M102002,Gujarat,Ahmedabad,NA,Industrial Area,7.5,41.9,NA,356
+154,November - M112002,Gujarat,Ahmedabad,NA,Industrial Area,8,42.5,NA,324
+154,December - M122002,Gujarat,Ahmedabad,NA,Industrial Area,8.4,42.5,NA,270
+154,Annual - M132002,Gujarat,Ahmedabad,NA,Industrial Area,10,42.1,NA,258
+155,January - M012002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",8.9,47.3,NA,303
+155,February - M022002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",10.7,46.1,NA,250
+155,March - M032002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",7.1,40.1,NA,200
+155,April - M042002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",10,41.4,NA,247
+155,May - M052002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",10.1,42.9,NA,178
+155,June - M062002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",11.5,25.7,NA,144
+155,July - M072002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",9.2,27.4,NA,144
+155,August - M082002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",8.4,35.2,NA,187
+155,September - M092002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",7.2,35.1,NA,233
+155,October - M102002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",6.7,38.1,NA,314
+155,November - M112002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",7.4,40,NA,267
+155,December - M122002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",7.6,42.1,NA,234
+155,Annual - M132002,Gujarat,Ahmedabad,NA,"Residential, Rural and other Areas",8.8,38.3,NA,226
+252,August - M082002,Gujarat,Ankleshwar,Gujarat State Pollution Control Board,Industrial Area,15.1,23.4,NA,199
+252,September - M092002,Gujarat,Ankleshwar,Gujarat State Pollution Control Board,Industrial Area,18.2,17.5,NA,170
+252,October - M102002,Gujarat,Ankleshwar,Gujarat State Pollution Control Board,Industrial Area,23.7,26.6,NA,172
+252,November - M112002,Gujarat,Ankleshwar,Gujarat State Pollution Control Board,Industrial Area,22.9,31.9,NA,199
+252,December - M122002,Gujarat,Ankleshwar,Gujarat State Pollution Control Board,Industrial Area,20.9,28.4,NA,183
+252,Annual - M132002,Gujarat,Ankleshwar,Gujarat State Pollution Control Board,Industrial Area,20.3,25.7,NA,184
+253,August - M082002,Gujarat,Ankleshwar,Gujarat State Pollution Control Board,"Residential, Rural and other Areas",14.1,19,NA,117
+253,September - M092002,Gujarat,Ankleshwar,Gujarat State Pollution Control Board,"Residential, Rural and other Areas",21.4,38.3,NA,216
+253,October - M102002,Gujarat,Ankleshwar,Gujarat State Pollution Control Board,"Residential, Rural and other Areas",15.2,21.3,NA,186
+253,November - M112002,Gujarat,Ankleshwar,Gujarat State Pollution Control Board,"Residential, Rural and other Areas",17.2,30.5,NA,197
+253,December - M122002,Gujarat,Ankleshwar,Gujarat State Pollution Control Board,"Residential, Rural and other Areas",15.9,27.7,NA,192
+253,Annual - M132002,Gujarat,Ankleshwar,Gujarat State Pollution Control Board,"Residential, Rural and other Areas",16.7,27,NA,182
+47,August - M082002,Gujarat,Baroda,Gujarat Pollution Control Board,"Residential, Rural and other Areas",20.7,21.5,NA,205
+47,September - M092002,Gujarat,Baroda,Gujarat Pollution Control Board,"Residential, Rural and other Areas",20.5,22.3,NA,245
+47,October - M102002,Gujarat,Baroda,Gujarat Pollution Control Board,"Residential, Rural and other Areas",16.7,19.2,NA,241
+47,November - M112002,Gujarat,Baroda,Gujarat Pollution Control Board,"Residential, Rural and other Areas",26.1,25.5,NA,261
+47,December - M122002,Gujarat,Baroda,Gujarat Pollution Control Board,"Residential, Rural and other Areas",20.2,27.1,NA,273
+47,Annual - M132002,Gujarat,Baroda,Gujarat Pollution Control Board,"Residential, Rural and other Areas",20.7,22.8,NA,244
+50,August - M082002,Gujarat,Baroda,Gujarat Pollution Control Board,"Residential, Rural and other Areas",16.5,21.2,NA,163
+50,September - M092002,Gujarat,Baroda,Gujarat Pollution Control Board,"Residential, Rural and other Areas",12.5,22.2,NA,204
+50,October - M102002,Gujarat,Baroda,Gujarat Pollution Control Board,"Residential, Rural and other Areas",12.3,20.3,NA,159
+50,November - M112002,Gujarat,Baroda,Gujarat Pollution Control Board,"Residential, Rural and other Areas",10.8,17,NA,163
+50,December - M122002,Gujarat,Baroda,Gujarat Pollution Control Board,"Residential, Rural and other Areas",11.3,18.7,NA,187
+50,Annual - M132002,Gujarat,Baroda,Gujarat Pollution Control Board,"Residential, Rural and other Areas",12.6,19.8,NA,175
+51,August - M082002,Gujarat,Baroda,Gujarat Pollution Control Board,Industrial Area,27,35.4,NA,395
+51,September - M092002,Gujarat,Baroda,Gujarat Pollution Control Board,Industrial Area,30.4,36.4,NA,401
+51,October - M102002,Gujarat,Baroda,Gujarat Pollution Control Board,Industrial Area,31.3,36.2,NA,411
+51,November - M112002,Gujarat,Baroda,Gujarat Pollution Control Board,Industrial Area,32.5,37.6,NA,382
+51,December - M122002,Gujarat,Baroda,Gujarat Pollution Control Board,Industrial Area,34,40.6,NA,403
+51,Annual - M132002,Gujarat,Baroda,Gujarat Pollution Control Board,Industrial Area,31.2,37.3,NA,399
+319,August - M082002,Gujarat,Jamnagar,Gujarat State Pollution Control Board,"Residential, Rural and other Areas",18.2,18.9,NA,169
+319,September - M092002,Gujarat,Jamnagar,Gujarat State Pollution Control Board,"Residential, Rural and other Areas",10.8,29.3,NA,412
+319,October - M102002,Gujarat,Jamnagar,Gujarat State Pollution Control Board,"Residential, Rural and other Areas",10.2,30.1,NA,384
+319,November - M112002,Gujarat,Jamnagar,Gujarat State Pollution Control Board,"Residential, Rural and other Areas",14.9,31.3,NA,360
+319,December - M122002,Gujarat,Jamnagar,Gujarat State Pollution Control Board,"Residential, Rural and other Areas",10.2,25.3,NA,351
+319,Annual - M132002,Gujarat,Jamnagar,Gujarat State Pollution Control Board,"Residential, Rural and other Areas",12.1,28.1,NA,359
+257,August - M082002,Gujarat,Rajkot,Gujarat State Pollution Control Board,Industrial Area,12.7,20.9,NA,474
+257,October - M102002,Gujarat,Rajkot,Gujarat State Pollution Control Board,Industrial Area,12.1,31,NA,400
+257,November - M112002,Gujarat,Rajkot,Gujarat State Pollution Control Board,Industrial Area,17.5,36,NA,365
+257,December - M122002,Gujarat,Rajkot,Gujarat State Pollution Control Board,Industrial Area,11.8,30.4,NA,388
+257,Annual - M132002,Gujarat,Rajkot,Gujarat State Pollution Control Board,Industrial Area,13.8,32.1,NA,387
+21,August - M082002,Gujarat,Surat,Gujarat Pollution Control Board,"Residential, Rural and other Areas",11.3,15.2,NA,117
+21,September - M092002,Gujarat,Surat,Gujarat Pollution Control Board,"Residential, Rural and other Areas",9.3,17.4,NA,199
+21,October - M102002,Gujarat,Surat,Gujarat Pollution Control Board,"Residential, Rural and other Areas",8.3,19.5,NA,207
+21,November - M112002,Gujarat,Surat,Gujarat Pollution Control Board,"Residential, Rural and other Areas",9.5,24.7,NA,214
+21,December - M122002,Gujarat,Surat,Gujarat Pollution Control Board,"Residential, Rural and other Areas",7.7,19.1,NA,173
+21,Annual - M132002,Gujarat,Surat,Gujarat Pollution Control Board,"Residential, Rural and other Areas",9.3,19.4,NA,183
+22,August - M082002,Gujarat,Surat,Gujarat Pollution Control Board,Industrial Area,33.5,30.4,NA,218
+22,September - M092002,Gujarat,Surat,Gujarat Pollution Control Board,Industrial Area,34.2,31.6,NA,221
+22,October - M102002,Gujarat,Surat,Gujarat Pollution Control Board,Industrial Area,31,35.1,NA,209
+22,November - M112002,Gujarat,Surat,Gujarat Pollution Control Board,Industrial Area,36.8,30.1,NA,246
+22,December - M122002,Gujarat,Surat,Gujarat Pollution Control Board,Industrial Area,32.8,24.6,NA,203
+22,Annual - M132002,Gujarat,Surat,Gujarat Pollution Control Board,Industrial Area,33.5,30.6,NA,219
+23,September - M092002,Gujarat,Surat,Gujarat Pollution Control Board,"Residential, Rural and other Areas",11.8,29,NA,274
+23,October - M102002,Gujarat,Surat,Gujarat Pollution Control Board,"Residential, Rural and other Areas",19.1,32.9,NA,226
+23,November - M112002,Gujarat,Surat,Gujarat Pollution Control Board,"Residential, Rural and other Areas",19.3,28.8,NA,237
+23,December - M122002,Gujarat,Surat,Gujarat Pollution Control Board,"Residential, Rural and other Areas",16.3,25.1,NA,193
+23,Annual - M132002,Gujarat,Surat,Gujarat Pollution Control Board,"Residential, Rural and other Areas",17,28.9,NA,227
+220,August - M082002,Gujarat,Vapi,Gujarat Pollution Control Board,NA,30.1,47.7,NA,344
+220,September - M092002,Gujarat,Vapi,Gujarat Pollution Control Board,NA,32,56.9,NA,248
+220,October - M102002,Gujarat,Vapi,Gujarat Pollution Control Board,NA,28.2,44.4,NA,256
+220,November - M112002,Gujarat,Vapi,Gujarat Pollution Control Board,NA,34.8,42.3,NA,278
+220,December - M122002,Gujarat,Vapi,Gujarat Pollution Control Board,NA,31.7,33.2,NA,194
+220,Annual - M132002,Gujarat,Vapi,Gujarat Pollution Control Board,NA,31.3,44.2,NA,257
+221,August - M082002,Gujarat,Vapi,Gujarat Pollution Control Board,NA,21.7,26.3,NA,147
+221,September - M092002,Gujarat,Vapi,Gujarat Pollution Control Board,NA,18.5,28.2,NA,239
+221,October - M102002,Gujarat,Vapi,Gujarat Pollution Control Board,NA,19.6,32.9,NA,213
+221,November - M112002,Gujarat,Vapi,Gujarat Pollution Control Board,NA,19.4,31.8,NA,221
+221,December - M122002,Gujarat,Vapi,Gujarat Pollution Control Board,NA,12.5,24.6,NA,179
+221,Annual - M132002,Gujarat,Vapi,Gujarat Pollution Control Board,NA,18.4,28.9,NA,200
+247,January - M012002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,15.3,17.2,NA,NA
+247,February - M022002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,15.4,17.6,NA,NA
+247,March - M032002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,15.6,17.5,NA,NA
+247,April - M042002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,15.3,17.1,NA,NA
+247,May - M052002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,12,18.8,NA,NA
+247,June - M062002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,11.5,17.9,NA,NA
+247,July - M072002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,8.6,12.2,NA,NA
+247,August - M082002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,5.9,9.5,NA,NA
+247,September - M092002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,6.1,10,NA,NA
+247,October - M102002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,4.3,9,NA,NA
+247,November - M112002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,4.4,8.8,NA,NA
+247,December - M122002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,5.2,10.6,NA,NA
+247,Annual - M132002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,10.8,14.6,NA,NA
+248,January - M012002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,14.9,NA,NA
+248,February - M022002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,13.1,NA,NA
+248,March - M032002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,15.8,NA,NA
+248,April - M042002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,19.4,NA,NA
+248,May - M052002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,12.5,NA,NA
+248,June - M062002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,12.5,NA,NA
+248,July - M072002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,14.9,NA,NA
+248,August - M082002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,13.2,NA,NA
+248,September - M092002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,17.5,NA,NA
+248,October - M102002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,17,NA,NA
+248,November - M112002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,15.1,NA,NA
+248,December - M122002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,17,NA,NA
+248,Annual - M132002,Gujarat,Bharuch,Gujarat Pollution Control Board,NA,2,15.4,NA,NA

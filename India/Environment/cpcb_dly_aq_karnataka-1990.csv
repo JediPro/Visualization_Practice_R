@@ -1,0 +1,92 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+81,January - M011990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",19,16.4,NA,68
+78,January - M011990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,22.4,20.1,NA,238
+77,January - M011990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,14.4,12.2,NA,70
+79,January - M011990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",40.9,19,NA,41
+80,January - M011990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,22.3,11,NA,40
+41,January - M011990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,14.6,7,NA,110
+39,January - M011990,Karnataka,Mysore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",14.9,3.3,NA,98
+40,January - M011990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,25.8,5.4,NA,228
+81,February - M021990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",18,11.4,NA,69
+78,February - M021990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,17.4,15.9,NA,207
+77,February - M021990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,14.2,9.8,NA,94
+79,February - M021990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",27.1,14.1,NA,87
+80,February - M021990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,18.1,11,NA,60
+41,February - M021990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,20.4,6.6,NA,106
+39,February - M021990,Karnataka,Mysore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",20.3,8.1,NA,116
+40,February - M021990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,15.8,7.8,NA,157
+77,March - M031990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,21,9.8,NA,106
+78,March - M031990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,39.9,19.7,NA,210
+79,March - M031990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",18.4,13.3,NA,67
+80,March - M031990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,18.7,10.8,NA,51
+81,March - M031990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",31.5,13.8,NA,53
+39,April - M041990,Karnataka,Mysore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",15.3,5.3,NA,142
+40,April - M041990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,10.7,5,NA,223
+41,April - M041990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,13.9,13.7,NA,94
+77,April - M041990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,32.8,13.7,NA,137
+78,April - M041990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,30.1,15.1,NA,181
+79,April - M041990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",24,12.6,NA,65
+80,April - M041990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,22.1,12.9,NA,46
+81,April - M041990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",23.8,13,NA,100
+39,May - M051990,Karnataka,Mysore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",17.9,6.7,NA,27
+40,May - M051990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,11.4,8.6,NA,186
+41,May - M051990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,9.6,8.2,NA,49
+77,May - M051990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,40.7,8.3,NA,101
+78,May - M051990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,35.1,14.4,NA,100
+79,May - M051990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",21.3,9.2,NA,62
+80,May - M051990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,19.3,5.4,NA,93
+81,May - M051990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",26.7,11.4,NA,32
+39,June - M061990,Karnataka,Mysore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",13.3,6.9,NA,48
+40,June - M061990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,15,6.9,NA,364
+41,June - M061990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,24.6,7.3,NA,39
+77,June - M061990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,17,9.6,NA,87
+78,June - M061990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,23.7,13,NA,90
+79,June - M061990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",18.4,9.8,NA,100
+80,June - M061990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,17.4,8.8,NA,48
+81,June - M061990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",17.8,10.4,NA,52
+39,July - M071990,Karnataka,Mysore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",7.8,7.7,NA,61
+40,July - M071990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,26.5,8.9,NA,302
+41,July - M071990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,31.9,8.8,NA,71
+77,July - M071990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,10.8,8.7,NA,98
+78,July - M071990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,35.4,18.9,NA,157
+79,July - M071990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",14.1,8.7,NA,93
+80,July - M071990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,11.9,5.1,NA,127
+81,July - M071990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",11.8,10.4,NA,38
+40,August - M081990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,29.4,11.5,NA,215
+41,August - M081990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,15.2,6.5,NA,43
+77,August - M081990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,11,3.3,NA,194
+78,August - M081990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,18.3,16.7,NA,159
+79,August - M081990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",13.9,8.9,NA,175
+80,August - M081990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,11.4,5.6,NA,43
+81,August - M081990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",7.1,7.2,NA,38
+39,September - M091990,Karnataka,Mysore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",26.3,5.6,NA,46
+40,September - M091990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,24,4.6,NA,422
+41,September - M091990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,15.5,9.4,NA,81
+77,September - M091990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,9.2,6.2,NA,141
+78,September - M091990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,26.1,22.1,NA,140
+79,September - M091990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",11.7,9.6,NA,165
+80,September - M091990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,14.4,4.9,NA,38
+81,September - M091990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",8.4,9.8,NA,34
+39,October - M101990,Karnataka,Mysore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",14.8,7.9,NA,56
+40,October - M101990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,17.7,9.2,NA,333
+41,October - M101990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,23.3,43.2,NA,66
+77,October - M101990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,7.6,7.5,NA,81
+78,October - M101990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,22.4,22,NA,220
+79,October - M101990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",8.2,13.1,NA,65
+80,October - M101990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,13.1,8.5,NA,32
+39,November - M111990,Karnataka,Mysore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",24.6,38.6,NA,91
+40,November - M111990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,32.9,6,NA,142
+41,November - M111990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,37,9.2,NA,134
+77,November - M111990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,6.4,5.8,NA,83
+78,November - M111990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,30.4,11.9,NA,97
+79,November - M111990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",8.9,10.1,NA,39
+80,November - M111990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,7,11.2,NA,24
+81,November - M111990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",9.9,11,NA,41
+39,December - M121990,Karnataka,Mysore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",22.4,14.6,NA,23
+40,December - M121990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,35.7,16.7,NA,154
+41,December - M121990,Karnataka,Mysore,Karnataka Pollution Control Board,Industrial Area,21.5,12.1,NA,73
+77,December - M121990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,7.5,3.4,NA,86
+78,December - M121990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,14.2,14.4,NA,106
+79,December - M121990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",10,9.3,NA,94
+80,December - M121990,Karnataka,Bangalore,Karnataka Pollution Control Board,Industrial Area,NA,NA,NA,NA
+81,December - M121990,Karnataka,Bangalore,Karnataka Pollution Control Board,"Residential, Rural and other Areas",6,9.2,NA,27

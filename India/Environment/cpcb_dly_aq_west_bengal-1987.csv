@@ -1,0 +1,81 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+13,1/1/1987,West Bengal,Haldia,CMEC,Residential,NA,38.2,NA,201
+14,1/9/1987,West Bengal,Haldia,CMEC,Industrial,NA,56.3,NA,340
+15,1/3/1987,West Bengal,Haldia,CMEC,Industrial,97.9,108.9,NA,353
+8,1/1/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,103.4,148,NA,968
+9,1/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,92.1,112.1,NA,531
+10,1/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,100.4,105,NA,643
+11,1/1/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,26.9,72.9,NA,778
+13,2/2/1987,West Bengal,Haldia,CMEC,Residential,NA,13.2,NA,114
+14,2/3/1987,West Bengal,Haldia,CMEC,Industrial,NA,21.2,NA,192
+15,2/4/1987,West Bengal,Haldia,CMEC,Industrial,6.2,29.3,NA,246
+8,2/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,50.9,106.6,NA,675
+9,2/5/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,42,105.7,NA,507
+10,2/5/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,69.1,93.7,NA,534
+11,2/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,27.1,70.7,NA,548
+13,3/2/1987,West Bengal,Haldia,CMEC,Residential,10.4,11.2,NA,90
+14,3/1/1987,West Bengal,Haldia,CMEC,Industrial,76.5,31.5,NA,268
+15,3/2/1987,West Bengal,Haldia,CMEC,Industrial,18.3,27.8,NA,209
+8,3/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,25.8,72,NA,435
+9,3/3/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,24.9,72.3,NA,335
+10,3/3/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,27.3,63.3,NA,458
+11,3/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,22.3,42.3,NA,350
+13,4/1/1987,West Bengal,Haldia,CMEC,Residential,NA,10.7,NA,99
+14,4/2/1987,West Bengal,Haldia,CMEC,Industrial,12.7,26.7,NA,300
+15,4/1/1987,West Bengal,Haldia,CMEC,Industrial,18.4,17.8,NA,179
+8,4/1/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,12.5,49.1,NA,385
+9,4/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,14.8,45.5,NA,326
+10,4/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,14.6,44.9,NA,494
+11,4/1/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,14.9,45.7,NA,357
+13,5/4/1987,West Bengal,Haldia,CMEC,Residential,NA,8.4,NA,60
+14,5/1/1987,West Bengal,Haldia,CMEC,Industrial,NA,14.4,NA,167
+15,5/3/1987,West Bengal,Haldia,CMEC,Industrial,3.8,16.6,NA,117
+8,5/5/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,9.3,49.7,NA,329
+9,5/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,12.2,45.8,NA,323
+10,5/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,15,42.4,NA,447
+11,5/5/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,11.9,37.9,NA,286
+13,6/1/1987,West Bengal,Haldia,CMEC,Residential,NA,9.8,NA,59
+14,6/3/1987,West Bengal,Haldia,CMEC,Industrial,NA,36.6,NA,167
+15,6/2/1987,West Bengal,Haldia,CMEC,Industrial,NA,14.7,NA,127
+8,6/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,8.8,51.5,NA,477
+9,6/1/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,12.8,37.3,NA,454
+10,6/3/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,17.4,39.8,NA,321
+11,6/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,16.2,38.2,NA,262
+13,7/3/1987,West Bengal,Haldia,CMEC,Residential,2.8,14.7,NA,58
+14,7/1/1987,West Bengal,Haldia,CMEC,Industrial,NA,30.5,NA,125
+15,7/4/1987,West Bengal,Haldia,CMEC,Industrial,NA,25.2,NA,117
+8,7/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,16.5,52.2,NA,364
+9,7/1/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,16.6,47.3,NA,486
+10,7/1/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,10.7,44.8,NA,255
+11,7/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,16.9,47.5,NA,178
+13,8/5/1987,West Bengal,Haldia,CMEC,Residential,NA,10.3,NA,34
+14,8/1/1987,West Bengal,Haldia,CMEC,Industrial,13.5,21,NA,183
+15,8/2/1987,West Bengal,Haldia,CMEC,Industrial,6.2,20,NA,117
+8,8/1/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,16.4,49.2,NA,346
+9,8/4/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,10.3,51.3,NA,421
+10,8/4/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,25.8,45.5,NA,233
+11,8/1/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,17.1,42.3,NA,175
+8,9/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,16.5,44.7,NA,351
+10,9/1/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,21.8,58.1,NA,259
+11,9/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,17.7,54.5,NA,176
+13,9/2/1987,West Bengal,Haldia,CMEC,Residential,NA,33.2,NA,152
+14,9/3/1987,West Bengal,Haldia,CMEC,Industrial,4.6,23.2,NA,122
+15,9/1/1987,West Bengal,Haldia,CMEC,Industrial,18.8,22.1,NA,123
+8,10/6/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,50.1,92.6,NA,855
+9,10/5/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,40.2,62.7,NA,584
+10,10/5/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,48.3,89,NA,404
+11,10/6/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,27.3,66.9,NA,202
+13,10/9/1987,West Bengal,Haldia,CMEC,Residential,NA,26.5,NA,138
+14,10/7/1987,West Bengal,Haldia,CMEC,Industrial,NA,28.8,NA,147
+15,10/1/1987,West Bengal,Haldia,CMEC,Industrial,NA,22.9,NA,169
+13,11/3/1987,West Bengal,Haldia,CMEC,Residential,2,20,NA,138
+14,11/6/1987,West Bengal,Haldia,CMEC,Industrial,0.9,30.8,NA,210
+15,11/2/1987,West Bengal,Haldia,CMEC,Industrial,1.2,33.1,NA,246
+8,11/3/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,66.4,101,NA,947
+9,11/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,85.2,107.6,NA,457
+10,11/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,96,86.2,NA,375
+11,11/3/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,35,69.6,NA,196
+8,12/1/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,130.2,143.8,NA,1402
+9,12/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,140.6,120.1,NA,746
+10,12/2/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,139,93.3,NA,545
+11,12/1/1987,West Bengal,Howrah,West Bengal Pollution Control Board,Industrial,49.4,98.7,NA,308

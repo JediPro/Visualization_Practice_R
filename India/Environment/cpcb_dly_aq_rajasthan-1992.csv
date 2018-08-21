@@ -1,0 +1,83 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+157,January - M011992,Rajasthan,Jaipur,NA,"Residential, Rural and other Areas",6,20.4,NA,230
+156,January - M011992,Rajasthan,Jaipur,NA,"Residential, Rural and other Areas",8.6,24.6,NA,390
+158,January - M011992,Rajasthan,Jaipur,NA,Industrial Area,14.4,31.6,NA,NA
+157,February - M021992,Rajasthan,Jaipur,NA,"Residential, Rural and other Areas",5.9,16.4,NA,195
+156,February - M021992,Rajasthan,Jaipur,NA,"Residential, Rural and other Areas",6.6,24.4,NA,303
+158,February - M021992,Rajasthan,Jaipur,NA,Industrial Area,9.3,21.9,NA,NA
+16,February - M021992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",13.4,111.4,NA,NA
+17,February - M021992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,11,73.5,NA,NA
+18,February - M021992,Rajasthan,Kota,Rajasthan Pollution Control Board,Sensitive,13.3,57,NA,NA
+19,February - M021992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,12.3,74.3,NA,NA
+20,February - M021992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",15.1,73.4,NA,NA
+157,March - M031992,Rajasthan,Jaipur,NA,"Residential, Rural and other Areas",6,28.5,NA,353
+156,March - M031992,Rajasthan,Jaipur,NA,"Residential, Rural and other Areas",6,29.7,NA,344
+158,March - M031992,Rajasthan,Jaipur,NA,Industrial Area,9.1,24.1,NA,NA
+16,March - M031992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",15.2,93.1,NA,NA
+17,March - M031992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,19.1,78.4,NA,NA
+18,March - M031992,Rajasthan,Kota,Rajasthan Pollution Control Board,Sensitive,11.4,107.2,NA,NA
+19,March - M031992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,19.4,87.3,NA,NA
+20,March - M031992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",15.9,76.4,NA,NA
+219,March - M031992,Rajasthan,Alwar,Rajasthan Pollution Control Board,NA,14,90.7,NA,192
+243,March - M031992,Rajasthan,Alwar,Andhra Pradesh  Pollution Control Board,NA,14.5,119.9,NA,476
+158,April - M041992,Rajasthan,Jaipur,NA,Industrial Area,7.7,22.5,NA,NA
+157,April - M041992,Rajasthan,Jaipur,NA,"Residential, Rural and other Areas",6,31.1,NA,379
+156,April - M041992,Rajasthan,Jaipur,NA,"Residential, Rural and other Areas",7,35.1,NA,436
+16,April - M041992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",16,68.5,NA,182
+17,April - M041992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,18.8,88.3,NA,265
+18,April - M041992,Rajasthan,Kota,Rajasthan Pollution Control Board,Sensitive,15,71.2,NA,151
+19,April - M041992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,15.1,88.6,NA,377
+20,April - M041992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",11.7,63.4,NA,347
+219,April - M041992,Rajasthan,Alwar,Rajasthan Pollution Control Board,NA,14.8,75,NA,299
+243,April - M041992,Rajasthan,Alwar,Andhra Pradesh  Pollution Control Board,NA,14.3,68.6,NA,404
+157,May - M051992,Rajasthan,Jaipur,NA,"Residential, Rural and other Areas",6,39.7,NA,418
+156,May - M051992,Rajasthan,Jaipur,NA,"Residential, Rural and other Areas",6,26.1,NA,713
+158,May - M051992,Rajasthan,Jaipur,NA,Industrial Area,6.7,21.6,NA,NA
+16,May - M051992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",16.3,66.6,NA,405
+17,May - M051992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,11.7,65.5,NA,793
+18,May - M051992,Rajasthan,Kota,Rajasthan Pollution Control Board,Sensitive,12.9,59.4,NA,NA
+19,May - M051992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,15.3,74.5,NA,430
+20,May - M051992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",15.1,78.7,NA,NA
+219,May - M051992,Rajasthan,Alwar,Rajasthan Pollution Control Board,NA,15.8,54.5,NA,438
+243,May - M051992,Rajasthan,Alwar,Andhra Pradesh  Pollution Control Board,NA,17.4,54,NA,566
+16,June - M061992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",15.3,67.6,NA,NA
+17,June - M061992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,10,61,NA,NA
+18,June - M061992,Rajasthan,Kota,Rajasthan Pollution Control Board,Sensitive,16.1,58.8,NA,NA
+19,June - M061992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,14.1,82.5,NA,NA
+20,June - M061992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",15.2,64.1,NA,NA
+219,June - M061992,Rajasthan,Alwar,Rajasthan Pollution Control Board,NA,16.8,56.4,NA,643
+243,June - M061992,Rajasthan,Alwar,Andhra Pradesh  Pollution Control Board,NA,17.6,59,NA,949
+16,July - M071992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",15.8,80.3,NA,NA
+17,July - M071992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,17.2,46.7,NA,NA
+18,July - M071992,Rajasthan,Kota,Rajasthan Pollution Control Board,Sensitive,12.3,59.8,NA,NA
+19,July - M071992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,16.4,60.2,NA,NA
+20,July - M071992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",14.4,60.1,NA,NA
+219,July - M071992,Rajasthan,Alwar,Rajasthan Pollution Control Board,NA,18,60.3,NA,214
+243,July - M071992,Rajasthan,Alwar,Andhra Pradesh  Pollution Control Board,NA,17.3,58.5,NA,381
+16,August - M081992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",12.7,70.3,NA,47
+17,August - M081992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,10.8,68.2,NA,NA
+18,August - M081992,Rajasthan,Kota,Rajasthan Pollution Control Board,Sensitive,15.8,79.8,NA,177
+19,August - M081992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,13.5,68.3,NA,206
+20,August - M081992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",15.4,58.9,NA,140
+219,August - M081992,Rajasthan,Alwar,Rajasthan Pollution Control Board,NA,17.3,62.2,NA,98
+243,August - M081992,Rajasthan,Alwar,Andhra Pradesh  Pollution Control Board,NA,17.3,60.1,NA,178
+16,September - M091992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",16.1,61.9,NA,98
+17,September - M091992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,12.9,60.7,NA,131
+18,September - M091992,Rajasthan,Kota,Rajasthan Pollution Control Board,Sensitive,12.8,64.6,NA,125
+19,September - M091992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,12.3,61.1,NA,134
+20,September - M091992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",13.5,59.3,NA,120
+219,September - M091992,Rajasthan,Alwar,Rajasthan Pollution Control Board,NA,30.9,67.7,NA,208
+243,September - M091992,Rajasthan,Alwar,Andhra Pradesh  Pollution Control Board,NA,24.8,80.9,NA,299
+16,October - M101992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",12.1,66.6,NA,73
+17,October - M101992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,10.7,55,NA,163
+18,October - M101992,Rajasthan,Kota,Rajasthan Pollution Control Board,Sensitive,8.3,53.2,NA,40
+19,October - M101992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,12.1,65.4,NA,112
+20,October - M101992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",9.6,58.1,NA,147
+219,October - M101992,Rajasthan,Alwar,Rajasthan Pollution Control Board,NA,41.8,66,NA,221
+243,October - M101992,Rajasthan,Alwar,Andhra Pradesh  Pollution Control Board,NA,43.4,70.9,NA,613
+17,November - M111992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,10.5,56.2,NA,163
+18,November - M111992,Rajasthan,Kota,Rajasthan Pollution Control Board,Sensitive,14.6,58.3,NA,105
+20,November - M111992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",14.4,59.1,NA,187
+17,December - M121992,Rajasthan,Kota,Rajasthan Pollution Control Board,Industrial Area,16,57.8,NA,203
+18,December - M121992,Rajasthan,Kota,Rajasthan Pollution Control Board,Sensitive,12.6,60.8,NA,139
+20,December - M121992,Rajasthan,Kota,Rajasthan Pollution Control Board,"Residential, Rural and other Areas",16.2,61.4,NA,184

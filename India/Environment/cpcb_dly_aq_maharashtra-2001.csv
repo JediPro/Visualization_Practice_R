@@ -1,0 +1,255 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+165,January - M012001,Maharashtra,Nagpur,NA,Industrial Area,6,27.6,NA,197
+165,February - M022001,Maharashtra,Nagpur,NA,Industrial Area,7.1,24.4,NA,207
+165,March - M032001,Maharashtra,Nagpur,NA,Industrial Area,6,18.6,NA,164
+165,April - M042001,Maharashtra,Nagpur,NA,Industrial Area,9.4,14.9,NA,163
+165,May - M052001,Maharashtra,Nagpur,NA,Industrial Area,6.6,8.4,NA,137
+165,June - M062001,Maharashtra,Nagpur,NA,Industrial Area,6,6,NA,43
+165,July - M072001,Maharashtra,Nagpur,NA,Industrial Area,9.1,6.1,NA,75
+165,August - M082001,Maharashtra,Nagpur,NA,Industrial Area,7,7,NA,64
+165,September - M092001,Maharashtra,Nagpur,NA,Industrial Area,7.7,9.9,NA,97
+165,October - M102001,Maharashtra,Nagpur,NA,Industrial Area,14.5,22.1,NA,153
+165,November - M112001,Maharashtra,Nagpur,NA,Industrial Area,17.5,21.9,NA,165
+165,December - M122001,Maharashtra,Nagpur,NA,Industrial Area,8.2,19.1,NA,251
+166,January - M012001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,60.6,NA,222
+166,February - M022001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,31.4,NA,251
+166,March - M032001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,26.2,NA,212
+166,April - M042001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,21.6,NA,268
+166,May - M052001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,14.7,NA,320
+166,June - M062001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6.3,10.4,NA,155
+166,July - M072001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6.1,12.4,NA,149
+166,August - M082001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,12.3,NA,120
+166,September - M092001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6.6,13.2,NA,142
+166,October - M102001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",7.5,16,NA,132
+166,November - M112001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",9.1,19.2,NA,203
+166,December - M122001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",10.3,22.9,NA,280
+167,January - M012001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6.8,25.5,NA,144
+167,February - M022001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,19.1,NA,239
+167,March - M032001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,14.3,NA,147
+167,April - M042001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,43.7,NA,260
+167,May - M052001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,16.6,NA,213
+167,June - M062001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,24.1,NA,101
+167,July - M072001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,15.8,NA,90
+167,August - M082001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6.5,8.5,NA,70
+167,September - M092001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,6.7,NA,74
+167,October - M102001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6,12.6,NA,95
+167,November - M112001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",6.1,17.4,NA,117
+167,December - M122001,Maharashtra,Nagpur,NA,"Residential, Rural and other Areas",7.6,19.6,NA,123
+168,January - M012001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",9.8,45.5,NA,294
+168,February - M022001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",9.9,84.1,NA,410
+168,March - M032001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",12.2,50.7,NA,225
+168,April - M042001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",19.7,26.1,NA,209
+168,May - M052001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6.9,18.5,NA,197
+168,June - M062001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",7.2,11,NA,267
+168,July - M072001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6,9.8,NA,217
+168,August - M082001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6,6.7,NA,246
+168,September - M092001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",7,15.3,NA,121
+168,October - M102001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",14.1,26.8,NA,160
+168,November - M112001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",27.8,22.2,NA,274
+168,December - M122001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",32.6,33.6,NA,300
+169,January - M012001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",14.9,38.9,NA,374
+169,February - M022001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",10.2,58.8,NA,409
+169,March - M032001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",13.5,33.7,NA,285
+169,April - M042001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",10.2,27.2,NA,212
+169,May - M052001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6,18.2,NA,138
+169,June - M062001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6,11.9,NA,159
+169,July - M072001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6,13.6,NA,171
+169,August - M082001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6,11.7,NA,104
+169,September - M092001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",6.1,12.3,NA,144
+169,October - M102001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",11.7,22.2,NA,205
+169,November - M112001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",11.5,18.7,NA,306
+169,December - M122001,Maharashtra,Bombay,NA,"Residential, Rural and other Areas",18.3,26.7,NA,312
+170,January - M012001,Maharashtra,Bombay,NA,Industrial Area,10.6,59.8,NA,396
+170,February - M022001,Maharashtra,Bombay,NA,Industrial Area,7.7,56.6,NA,530
+170,March - M032001,Maharashtra,Bombay,NA,Industrial Area,12.7,46.6,NA,230
+170,April - M042001,Maharashtra,Bombay,NA,Industrial Area,13.6,24.8,NA,231
+170,May - M052001,Maharashtra,Bombay,NA,Industrial Area,6.5,20.7,NA,132
+170,June - M062001,Maharashtra,Bombay,NA,Industrial Area,8.1,9.4,NA,186
+170,July - M072001,Maharashtra,Bombay,NA,Industrial Area,7.4,10.3,NA,172
+170,August - M082001,Maharashtra,Bombay,NA,Industrial Area,6,8.6,NA,166
+170,September - M092001,Maharashtra,Bombay,NA,Industrial Area,10,17.3,NA,117
+170,October - M102001,Maharashtra,Bombay,NA,Industrial Area,19.2,20.9,NA,167
+170,November - M112001,Maharashtra,Bombay,NA,Industrial Area,14.6,21.4,NA,243
+170,December - M122001,Maharashtra,Bombay,NA,Industrial Area,26.5,36.9,NA,250
+214,January - M012001,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,11.5,25.4,NA,183
+214,February - M022001,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,12.9,25.5,NA,185
+214,September - M092001,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,11.4,24.5,NA,138
+214,October - M102001,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,11.2,24.5,NA,146
+214,November - M112001,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,10.1,25.5,NA,144
+214,December - M122001,Maharashtra,Chandarpur,Maharashtra Pollution Control Board,NA,11.1,24.9,NA,171
+259,January - M012001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",32.4,20.1,NA,355
+259,February - M022001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",41.6,37.4,NA,282
+259,March - M032001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",44.6,28.5,NA,289
+259,April - M042001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",34.3,17,NA,120
+259,May - M052001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",35.2,25.1,NA,157
+259,June - M062001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",17.9,14.7,NA,188
+259,July - M072001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",31,27.5,NA,346
+259,August - M082001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",24.7,16,NA,156
+259,September - M092001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",16.4,18,NA,36
+259,October - M102001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",22.5,19.8,NA,146
+259,November - M112001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",17.1,12.9,NA,120
+259,December - M122001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",12,8.4,NA,110
+267,January - M012001,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",27.3,50.2,NA,191
+267,February - M022001,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",26.5,51,NA,204
+267,September - M092001,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",24.2,50.2,NA,143
+267,October - M102001,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",24.2,50.6,NA,165
+267,November - M112001,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",24.8,52.3,NA,163
+267,December - M122001,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,"Residential, Rural and other Areas",22.2,52.3,NA,173
+269,January - M012001,Maharashtra,Nashik,MAPB,Industrial Area,19.9,22.4,NA,332
+269,February - M022001,Maharashtra,Nashik,MAPB,Industrial Area,27.8,31.8,NA,292
+269,March - M032001,Maharashtra,Nashik,MAPB,Industrial Area,33.7,24.9,NA,219
+269,April - M042001,Maharashtra,Nashik,MAPB,Industrial Area,18.3,19.5,NA,177
+269,May - M052001,Maharashtra,Nashik,MAPB,Industrial Area,24.4,18,NA,150
+269,June - M062001,Maharashtra,Nashik,MAPB,Industrial Area,20.9,15.2,NA,148
+269,July - M072001,Maharashtra,Nashik,MAPB,Industrial Area,17.8,14,NA,269
+269,August - M082001,Maharashtra,Nashik,MAPB,Industrial Area,18.6,19.7,NA,141
+269,September - M092001,Maharashtra,Nashik,MAPB,Industrial Area,14,11.4,NA,122
+269,October - M102001,Maharashtra,Nashik,MAPB,Industrial Area,12.9,9.8,NA,35
+269,November - M112001,Maharashtra,Nashik,MAPB,Industrial Area,15,15.7,NA,170
+269,December - M122001,Maharashtra,Nashik,MAPB,Industrial Area,15.3,9.4,NA,113
+280,January - M012001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",41.1,31.4,NA,434
+280,February - M022001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",43.7,41.3,NA,278
+280,March - M032001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",46.9,35.7,NA,297
+280,April - M042001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",31.6,23.8,NA,196
+280,May - M052001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",29.6,27.6,NA,314
+280,June - M062001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",29.3,28.4,NA,293
+280,July - M072001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",28.3,27.2,NA,339
+280,August - M082001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",25.4,20.2,NA,168
+280,September - M092001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",21.8,16.9,NA,124
+280,October - M102001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",30.1,20.1,NA,144
+280,November - M112001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",29.2,20.8,NA,93
+280,December - M122001,Maharashtra,Nashik,"K.R.T.Arts,B.H.Commerce and A.M. Science College","Residential, Rural and other Areas",23.6,10.5,NA,130
+281,January - M012001,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,Industrial Area,31.4,52.8,NA,185
+281,February - M022001,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,Industrial Area,28.9,51.2,NA,204
+281,September - M092001,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,Industrial Area,27.5,53.1,NA,138
+281,October - M102001,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,Industrial Area,24.8,51.4,NA,169
+281,November - M112001,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,Industrial Area,27,52,NA,158
+281,December - M122001,Maharashtra,Chandrapur,Maharashtra State Pollution Control Board,Industrial Area,28.3,53.5,NA,177
+283,January - M012001,Maharashtra,Pune,ESPU,NA,56.4,68.4,NA,96
+283,February - M022001,Maharashtra,Pune,ESPU,NA,49,65.9,NA,87
+283,March - M032001,Maharashtra,Pune,ESPU,NA,46.7,63.3,NA,70
+283,April - M042001,Maharashtra,Pune,ESPU,NA,46.6,61.6,NA,70
+283,May - M052001,Maharashtra,Pune,ESPU,NA,51,89.7,NA,298
+283,June - M062001,Maharashtra,Pune,ESPU,NA,52.6,99.1,NA,261
+283,July - M072001,Maharashtra,Pune,ESPU,NA,44.7,69.7,NA,122
+283,August - M082001,Maharashtra,Pune,ESPU,NA,38.8,90,NA,163
+283,September - M092001,Maharashtra,Pune,ESPU,NA,38.7,78.5,NA,343
+283,October - M102001,Maharashtra,Pune,ESPU,NA,44.1,105,NA,309
+283,November - M112001,Maharashtra,Pune,ESPU,NA,45.4,118.6,NA,275
+283,December - M122001,Maharashtra,Pune,ESPU,NA,51.3,109.8,NA,371
+287,February - M022001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",8.6,15.8,NA,284
+287,March - M032001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",9.3,17.1,NA,241
+287,April - M042001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",8.1,16.6,NA,169
+287,May - M052001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",9,15.2,NA,198
+287,June - M062001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",9.3,15.4,NA,233
+287,July - M072001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",8.8,15.6,NA,268
+287,August - M082001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",9.4,16.9,NA,296
+287,September - M092001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",10.3,18.4,NA,339
+287,November - M112001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",9.4,18.2,NA,318
+287,December - M122001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",10.6,17.8,NA,350
+288,February - M022001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,Industrial Area,9.5,16.7,NA,225
+288,March - M032001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,Industrial Area,9.2,15.6,NA,133
+288,April - M042001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,Industrial Area,7.8,15.3,NA,132
+288,May - M052001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,Industrial Area,9.1,16,NA,163
+288,June - M062001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,Industrial Area,9.7,15.8,NA,195
+288,July - M072001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,Industrial Area,9.3,15.8,NA,278
+288,August - M082001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,Industrial Area,10.5,18,NA,326
+288,September - M092001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,Industrial Area,13.9,19.1,NA,326
+288,October - M102001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,Industrial Area,9.2,17.7,NA,302
+288,November - M112001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,Industrial Area,9.1,17.8,NA,314
+288,December - M122001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,Industrial Area,10.9,19.2,NA,249
+290,January - M012001,Maharashtra,Pune,ESPU,Industrial Area,58.5,62,NA,97
+290,February - M022001,Maharashtra,Pune,ESPU,Industrial Area,50,61.5,NA,86
+290,March - M032001,Maharashtra,Pune,ESPU,Industrial Area,45.5,62.6,NA,78
+290,April - M042001,Maharashtra,Pune,ESPU,Industrial Area,44.8,68.5,NA,102
+290,May - M052001,Maharashtra,Pune,ESPU,Industrial Area,49.1,69.9,NA,111
+290,June - M062001,Maharashtra,Pune,ESPU,Industrial Area,36.3,96.6,NA,213
+290,July - M072001,Maharashtra,Pune,ESPU,Industrial Area,42.2,95.9,NA,150
+290,August - M082001,Maharashtra,Pune,ESPU,Industrial Area,39.4,115,NA,140
+290,September - M092001,Maharashtra,Pune,ESPU,Industrial Area,41.1,92.1,NA,226
+290,October - M102001,Maharashtra,Pune,ESPU,Industrial Area,45.1,101.8,NA,314
+290,November - M112001,Maharashtra,Pune,ESPU,Industrial Area,55.1,126.9,NA,297
+290,December - M122001,Maharashtra,Pune,ESPU,Industrial Area,43.7,114,NA,420
+299,January - M012001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur",Industrial Area,20.4,50.3,NA,417
+299,February - M022001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur",Industrial Area,20,45.7,NA,437
+299,March - M032001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur",Industrial Area,19,46.3,NA,484
+299,April - M042001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur",Industrial Area,18.6,43.7,NA,448
+299,May - M052001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur",Industrial Area,19.8,47.1,NA,422
+299,June - M062001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur",Industrial Area,18.9,46.6,NA,350
+299,July - M072001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur",Industrial Area,18.8,45.3,NA,351
+299,August - M082001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur",Industrial Area,18.4,45,NA,384
+299,September - M092001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur",Industrial Area,19.4,44.6,NA,384
+299,October - M102001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur",Industrial Area,19.3,45.2,NA,390
+299,November - M112001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur",Industrial Area,20.7,48.1,NA,400
+299,December - M122001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur",Industrial Area,20.2,48.6,NA,372
+300,January - M012001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur","Residential, Rural and other Areas",20.5,48.4,NA,435
+300,February - M022001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur","Residential, Rural and other Areas",19.5,47.7,NA,477
+300,March - M032001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur","Residential, Rural and other Areas",19.7,47.6,NA,443
+300,April - M042001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur","Residential, Rural and other Areas",19.4,45.8,NA,460
+300,May - M052001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur","Residential, Rural and other Areas",19.1,45.4,NA,382
+300,June - M062001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur","Residential, Rural and other Areas",19.6,46.6,NA,402
+300,July - M072001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur","Residential, Rural and other Areas",19.7,46.3,NA,398
+300,August - M082001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur","Residential, Rural and other Areas",19.6,45.6,NA,381
+300,September - M092001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur","Residential, Rural and other Areas",19.1,45.7,NA,397
+300,October - M102001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur","Residential, Rural and other Areas",20.4,45,NA,394
+300,November - M112001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur","Residential, Rural and other Areas",20.1,48.7,NA,383
+300,December - M122001,Maharashtra,Solapur,"Walchand Institute of Technology, Solapur","Residential, Rural and other Areas",20,48.8,NA,389
+303,January - M012001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",14.3,22.9,NA,NA
+303,February - M022001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",12.7,19.5,NA,NA
+303,March - M032001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",14.6,21.3,NA,NA
+303,April - M042001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",12.2,22,NA,NA
+303,May - M052001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",14.1,21.5,NA,NA
+303,June - M062001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",17,14.1,NA,NA
+303,July - M072001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",22.6,13.7,NA,NA
+303,August - M082001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",19.1,16.2,NA,NA
+303,September - M092001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",20.6,14.3,NA,NA
+303,October - M102001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",18.6,14.2,NA,NA
+303,November - M112001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",25.5,14.9,NA,NA
+303,December - M122001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",23.3,9.6,NA,NA
+304,January - M012001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",18.7,25.5,NA,NA
+304,February - M022001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",17.8,23.3,NA,NA
+304,March - M032001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",17.6,27.2,NA,NA
+304,April - M042001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",19.3,26.2,NA,NA
+304,May - M052001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",18.9,24.6,NA,NA
+304,June - M062001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",20.5,19.8,NA,NA
+304,July - M072001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",27.9,17.1,NA,NA
+304,August - M082001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",23.6,18.6,NA,NA
+304,September - M092001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",24.8,17.9,NA,NA
+304,October - M102001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",18.3,15.7,NA,NA
+304,November - M112001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",21.5,14.1,NA,NA
+304,December - M122001,Maharashtra,Thane,Thane Municipal Corporation,"Residential, Rural and other Areas",18.4,8.6,NA,NA
+305,January - M012001,Maharashtra,Thane,Thane Municipal Corporation,Industrial Area,18.6,26.9,NA,NA
+305,February - M022001,Maharashtra,Thane,Thane Municipal Corporation,Industrial Area,19.5,25.9,NA,NA
+305,March - M032001,Maharashtra,Thane,Thane Municipal Corporation,Industrial Area,16.6,21.3,NA,NA
+305,April - M042001,Maharashtra,Thane,Thane Municipal Corporation,Industrial Area,17.9,17.7,NA,NA
+305,May - M052001,Maharashtra,Thane,Thane Municipal Corporation,Industrial Area,16.4,24.6,NA,NA
+305,June - M062001,Maharashtra,Thane,Thane Municipal Corporation,Industrial Area,25.2,15.9,NA,NA
+305,July - M072001,Maharashtra,Thane,Thane Municipal Corporation,Industrial Area,29.6,17.4,NA,NA
+305,August - M082001,Maharashtra,Thane,Thane Municipal Corporation,Industrial Area,27.1,17,NA,NA
+305,September - M092001,Maharashtra,Thane,Thane Municipal Corporation,Industrial Area,29.8,18.3,NA,NA
+305,October - M102001,Maharashtra,Thane,Thane Municipal Corporation,Industrial Area,24,16.6,NA,NA
+305,November - M112001,Maharashtra,Thane,Thane Municipal Corporation,Industrial Area,21.1,13.8,NA,NA
+305,December - M122001,Maharashtra,Thane,Thane Municipal Corporation,Industrial Area,29.1,9.3,NA,NA
+312,January - M012001,Maharashtra,Pune,University of Pune,Industrial Area,50.7,58.8,NA,61
+312,February - M022001,Maharashtra,Pune,University of Pune,Industrial Area,39.3,48.1,NA,53
+312,March - M032001,Maharashtra,Pune,University of Pune,Industrial Area,41.5,51.1,NA,46
+312,April - M042001,Maharashtra,Pune,University of Pune,Industrial Area,39.9,98.2,NA,199
+312,May - M052001,Maharashtra,Pune,University of Pune,Industrial Area,39.4,48.9,NA,58
+312,June - M062001,Maharashtra,Pune,University of Pune,Industrial Area,31.3,41.4,NA,65
+312,July - M072001,Maharashtra,Pune,University of Pune,Industrial Area,31.7,40.7,NA,57
+312,August - M082001,Maharashtra,Pune,University of Pune,Industrial Area,30.7,43.2,NA,70
+312,September - M092001,Maharashtra,Pune,University of Pune,Industrial Area,35,46.3,NA,62
+312,October - M102001,Maharashtra,Pune,University of Pune,Industrial Area,30.2,45.3,NA,93
+312,November - M112001,Maharashtra,Pune,University of Pune,Industrial Area,41.2,60.1,NA,102
+312,December - M122001,Maharashtra,Pune,University of Pune,Industrial Area,39.8,46.3,NA,88
+314,February - M022001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",9.6,18.8,NA,281
+314,March - M032001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",10,19.3,NA,138
+314,April - M042001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",10.1,19.9,NA,138
+314,May - M052001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",10.2,19.7,NA,190
+314,June - M062001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",10.7,19.6,NA,236
+314,July - M072001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",11.5,20.3,NA,329
+314,August - M082001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",12.2,21.9,NA,321
+314,September - M092001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",13.6,23,NA,380
+314,October - M102001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",10.9,20.4,NA,359
+314,November - M112001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",10.3,19.9,NA,328
+314,December - M122001,Maharashtra,Nagpur,Visveshwaraya National Institute Of Technology,"Residential, Rural and other Areas",10,19.7,NA,354

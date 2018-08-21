@@ -1,0 +1,92 @@
+Stn Code,Sampling Date,State,City/Town/Village/Area,Agency,Type of Location,SO2,NO2,RSPM/PM10,SPM
+61,January - M011999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,21.2,41.2,NA,306
+62,January - M011999,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",21.6,41.6,NA,587
+76,January - M011999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,21.6,40.9,NA,538
+176,January - M011999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,15.2,21.6,NA,249
+177,January - M011999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,22,39.6,NA,382
+178,January - M011999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,25.6,32.4,NA,422
+301,January - M011999,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,13.6,35.9,NA,405
+302,January - M011999,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",13.3,35.1,NA,411
+176,February - M021999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,19,28.1,NA,282
+177,February - M021999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,21.6,39.6,NA,377
+178,February - M021999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,24.6,31.8,NA,410
+301,February - M021999,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,17.3,35.2,NA,446
+302,February - M021999,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",16.8,35.1,NA,437
+61,March - M031999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,21.4,41.1,NA,296
+62,March - M031999,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",21.2,41,NA,505
+176,March - M031999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,16.8,24.2,NA,255
+177,March - M031999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,22.9,42.7,NA,386
+178,March - M031999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,26.1,34,NA,426
+301,March - M031999,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,18.3,39.1,NA,444
+302,March - M031999,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",18.7,37.2,NA,435
+61,April - M041999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,19.8,38.2,NA,315
+62,April - M041999,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",21.2,41.2,NA,542
+76,April - M041999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,21.4,41.1,NA,527
+176,April - M041999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,18.9,26.4,NA,295
+177,April - M041999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,23.4,41.6,NA,398
+178,April - M041999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,24.9,30.6,NA,406
+301,April - M041999,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,18,33.2,NA,445
+302,April - M041999,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",19.5,35.8,NA,425
+61,May - M051999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,21.2,41.3,NA,324
+62,May - M051999,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",21.7,41.9,NA,510
+76,May - M051999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,21.5,40.9,NA,533
+176,May - M051999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,18.2,27,NA,290
+177,May - M051999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,25,41.7,NA,381
+178,May - M051999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,25.5,30.5,NA,401
+301,May - M051999,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,17.7,31.5,NA,414
+302,May - M051999,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",17.5,31.8,NA,405
+61,June - M061999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,21.5,40.7,NA,309
+62,June - M061999,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",20.2,38.9,NA,511
+76,June - M061999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,19.7,37.9,NA,493
+176,June - M061999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,18.6,28.3,NA,288
+177,June - M061999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,24.8,45.7,NA,378
+178,June - M061999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,26,34.2,NA,374
+301,June - M061999,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,20.7,30.8,NA,419
+302,June - M061999,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",18.8,28.4,NA,386
+61,July - M071999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,14.2,27.6,NA,207
+62,July - M071999,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",16.7,32.2,NA,406
+176,July - M071999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,19.6,25.5,NA,267
+177,July - M071999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,25.2,43.2,NA,381
+178,July - M071999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,26,32.9,NA,362
+301,July - M071999,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,18.8,33.2,NA,418
+302,July - M071999,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",19.2,32.1,NA,412
+61,August - M081999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,20.8,40.1,NA,317
+62,August - M081999,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",21.1,40.4,NA,505
+76,August - M081999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,20.4,38.2,NA,482
+176,August - M081999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,18.6,25.7,NA,273
+177,August - M081999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,24.8,39.7,NA,402
+178,August - M081999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,24.2,30.6,NA,354
+301,August - M081999,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,16.2,35.3,NA,407
+302,August - M081999,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",17,35.6,NA,391
+61,September - M091999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,21.1,40.2,NA,307
+62,September - M091999,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",21.5,41.4,NA,534
+76,September - M091999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,20.8,39.6,NA,535
+176,September - M091999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,18.9,26.9,NA,271
+177,September - M091999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,24.6,43.2,NA,384
+178,September - M091999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,23.8,31.7,NA,361
+301,September - M091999,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,17.3,38.5,NA,401
+302,September - M091999,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",17.6,35.8,NA,391
+61,October - M101999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,21.6,41.2,NA,333
+62,October - M101999,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",21.5,41.2,NA,552
+76,October - M101999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,21.6,41.2,NA,528
+176,October - M101999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,19.4,28.3,NA,299
+177,October - M101999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,25.5,43.5,NA,384
+178,October - M101999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,24.4,32.4,NA,351
+301,October - M101999,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,19.7,38.4,NA,411
+302,October - M101999,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",17.7,34.5,NA,429
+61,November - M111999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,20.2,38.9,NA,307
+62,November - M111999,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",21.1,39.9,NA,567
+76,November - M111999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,20.5,39.4,NA,497
+176,November - M111999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,18.9,27.5,NA,284
+177,November - M111999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,25.8,44.6,NA,388
+178,November - M111999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,24.8,33.6,NA,351
+301,November - M111999,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,19,38.3,NA,447
+302,November - M111999,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",28.4,30.9,NA,488
+61,December - M121999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,17.1,36.2,NA,374
+62,December - M121999,Punjab,Ludhiana,Punjab Pollution Control Board,"Residential, Rural and other Areas",17.2,34.1,NA,534
+76,December - M121999,Punjab,Ludhiana,Punjab Pollution Control Board,Industrial Area,16.1,35.7,NA,508
+176,December - M121999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,22.4,27.7,NA,281
+177,December - M121999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,25.5,45.1,NA,377
+178,December - M121999,Punjab,Jalandhar,Punjab Pollution Control Board,NA,25.1,34.9,NA,361
+301,December - M121999,Punjab,Gobindgarh,Punjab State Pollution Control Board,Industrial Area,17.7,35.6,NA,419
+302,December - M121999,Punjab,Gobindgarh,Punjab State Pollution Control Board,"Residential, Rural and other Areas",18.7,33.7,NA,434
